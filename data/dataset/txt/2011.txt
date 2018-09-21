@@ -1,0 +1,1275 @@
+﻿不同煤种热解多环芳烃的生成分布特征研究（1-6）
+刘淑琴1)庞旭林2)王媛媛3)张尚军4)鲍鹏程5)党金莉5)
+1) 博士、副教授；4) 硕士；5) 学士，中国矿业大学化学与环境工程学院，100083北京；2) 工程师，新奥气化采煤有限公司，065001河北廊坊；3) 硕士，煤基低碳能源国家重点实验室，065001河北廊坊
+摘要：研究了四种适宜地下气化的低阶煤在600 ℃热解条件下热解气中EPA-PAHs的生成分布特征，探讨了原煤组成的影响.结果表明，随着煤变质程度的增大，热解所产生的低环芳烃含量减少，高环芳烃含量增加，EPA-PAHs总量增加；热解气中EPA-PAHs以2R萘、3R苊、3R二氢苊、4R荧蒽、4R芘和4R苯并(a)蒽为主；3R芳烃含量最多，平均占EPA-PAHs总含量的67-57%；EPA-PAHs含量分别在碳含量为76.98％，H/C摩尔比为0.94，O/C摩尔比为0.16和挥发分为43.32%时达到最高水平.
+关键词：多环芳烃，低阶煤，热解，分布特征
+STUDY ON THE DISTRIBUTION CHARACTERISTIC OF POLYCYCLIC AROMATIC HYDROCARBONS DURING PYROLYSIS OF DIFFERENT RANKS OF COAL
+Liu ShuqinPang Xulin*Wang Yuanyuan**Zhang ShangjunBao Pengcheng and Dang Jinli
+(School of Chemical and Environmental Engineering, China University of Mining and Technology, 100083 Beijing; * ENN Coal Gasification Mining Corporation Limited, 065001 Langfang, Hebei; ** State Key Laboratory of Coal-based Low Carbon Energy, 065001 Langfang, Hebei)
+ABSTRACT：The paper studied the distribution characteristic of EPA-PAHs in the pyrolysis gas of coals, the coals were low rank coals which suit for underground gasification and the pyrolysis experiment was carried out at 600 ℃. The relationship between the concentration of EPA-PAHs and the elemental composition of the coals was discussed. The results showed that, following with the elevation of coal rank, the concentration of low-ring PAHs decrease, while the concentration of high-ring PAHs and the total amount of EPA-PAHs in the pyrolysis gas rise. Naphthalene, acenaphthene, acenaphthylene, fluoranthene, pyrene and benzo(a)anthracene were the major component of EPA-PAHs. The three-rings PAHs take the highest percentage of 67-57%. When the carbon content is 76.98％, H/C molar ratio is 0.94, O/C molar ratio is 0.16 and the volatile content is 43.32%, the total amount of EPA-PAHs released from said coal reached the highest level.
+KEY WORDS：PAHs, low rank coal, pyrolysis, distribution characteristic
+
+
+
+
+炭催化CH4-CO2重整反应系统压降分析与优化（7-12）
+张永发1)王磊2)
+1) 教授、博士生导师；2) 硕士生，煤科学与技术教育部和山西省重点实验室，太原理工大学，030024太原
+摘要：基于重整反应系统的设备和管道尺寸、空间布置和设计运行参数等基础数据，研究并建立了主要设备、管道摩擦阻力和局部阻力计算模型，采用该模型分析了系统内各设备、管道和管道元件的压降，并对压降较大的设备和管道进行了尺寸优化.研究和优化结果表明，重整反应系统中，氧气缓冲罐、加热炉、氧气管道OG101～OG104等设备压降较大.对设备和管道的尺寸进行优化后，系统总压降由8 260.6 Pa降低到3 289.9 Pa；当系统入口压强p1=40 MPa时，系统出口压强p2=0.036 7 MPa.
+关键词：热解煤气，气化煤气，合成气，多联产系统
+ANALYSIS AND OPTIMIZATION OF PRESSURE LOSS IN THE SYSTEM OF CH4-CO2 REFORMING WITH CARBONACEOUS CATALYST
+Zhang Yongfa and Wang Lei
+(Key Laboratory of Coal Science and Technology of Shanxi Province and Ministry of Education, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：Based on space arrangement, size and running parameters of equipments and pipes in CH4-CO2 reforming with carbonaceous catalyst, this paper establishes calculation model of frictional resistance and local resistance, analyzes pressure loss of equipments and pipes by model, and optimizes the size of some equipments and pipes. The result shows that O2 accumulator tank, reheating furnace and O2 pipes have much pressure loss.After optimization, total pressure loss of system reduced from 8 260.6 Pa to 3 289.9 Pa. When entrance pressure is 40 MPa, exit pressure was 0.036 7 MPa.
+KEY WORDS：coke oven gas，coal gasification gas，syngas，polygeneration system
+
+
+
+
+新型Mn基高温脱硫剂研究（13-17+61）
+李德颀1)郭曙强2)李玉龙1)王安友1)潘晋波1)丁伟中3)
+1) 硕士生；2) 副教授；3) 教授、博士生导师，上海市现代冶金及材料制备重点实验室，上海大学，200072上海
+摘要：以铝溶胶为黏结剂用机械混合法研究了烧结温度、还原时间、黏结剂含量及空速对Mn-Cu脱硫剂效果的影响，结果表明，900 ℃为该脱硫剂的最佳烧结温度，脱硫前用N2和H2的混合气体还原0.5 h有利于脱硫反应的进行.加入适当含量的铝溶胶有利于延长穿透时间，提高脱硫精度.空速对不同铝溶胶含量的脱硫剂影响不同，但总体来看降低空速有利于延长穿透时间.
+关键词：Mn-Cu脱硫剂，溶胶，烧结温度，还原时间，空速
+NEW Mn-BASED SORBENTS FOR HIGH TEMPERATURE COAL GAS DESULFURIZATION
+Li DeqiGuo ShuqiangLi YulongWang AnyouPan Jinbo and Ding Weizhong
+(Shanghai Key Laboratory of Modern Metallurgy and Materials Proceeding, Shanghai University, 200072 Shanghai)
+ABSTRACT：This thesis is aimed at developing new Mn-Cu sorbents with aluminate sol. The thesis also investigated the influence of sintering temperature, reduction time, sol amounts and space velocity on the sorbents’ desulfurizating behaviour. The experiment results indicated that 900 ℃ is the best sintering temperature and the pre-reduction process of 0.5 h in N2 and H2 would significantly improve the desulfruizing behaviour. The addition of aluminates sol not only prolonged the breakthrough time but also boosted the desulfurization depth. The behaviour of different sorbents’ to space velocity are disparate. However, the breakthrough time in low space velocity is much longer than in the higher one in general.
+KEY WORDS：Mn-Cu sorbent，sol，sinter temperature，reduction time，space velocity
+
+
+
+
+焦炭机械强度预测模型的研究（18-21）
+吕青1)何小刚2)谢克明3)
+1) 博士生、讲师；2) 副教授、硕士生导师；3) 教授、博士生导师，太原理工大学信息工程学院，030024太原
+摘要：焦炭机械强度是焦炭质量的重要指标，建立准确的焦炭机械强度预测模型可保证炼焦生产顺利进行.把支持向量回归机用于焦炭机械强度的预测，详细地分析了不同配煤煤质特性指标及炼焦工艺指标情况下的预测效果，找到了建立预测模型的有效特征参数.基于所选特征参数，当85≤M25≤90，6≤M10≤12时，支持向量机模型的预测准确率高，误差小，相关性强，同时，预测模型的泛化能力强.
+关键词：焦炭机械强度，支持向量回归机，泛化能力
+STUDY ON THE PREDICTIVE MODEL OF COKE MECHANICAL STRENGTH
+Lü QingHe Xiaogang and Xie Keming
+(Institute of Information Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：The coke mechanical strength is an important index of coke quality, and an accurate predictive model of coke mechanical strength can ensure the coking production going well. Predicting the coke mechanical strength by support vector regression and detailedly analyzing the different forecasting effects with the different indexes of the blend coal and the coking process, the effective characteristic parameters are founded to establish the coke mechanical strength model. With the characteristic parameters selected, when 85≤M25≤90 or 6≤M10≤12, the predictive accuracy of the support vector machines model is high, the predictive error is small, the  correlation is strong, and the generalization ability of the prediction model is great.
+KEY WORDS：coke mechanical strength, support vector regression machines, generalization ability
+
+
+
+
+
+基于镜质组反射率分布的水钢优化配煤研究（22-28）
+孟庆波1)刘洋2)郭武卫3)耿茜3)张家相4)余艳华3)
+1) 教授级高级工程师；2) 工程师，中钢集团鞍山热能研究院有限公司，114044辽宁鞍山；3) 工程师；4) 高级工程师，首钢水城钢铁（集团）有限责任公司，553028贵州六盘水
+摘要：对水钢分为6大类的18个生产用煤进行了镜质组反射率分布及常规煤质指标检测，对煤质指标和炼焦实验结果作了分析及评价，指出保华大类煤是影响水钢焦炭质量的主要因素，建议对其分三组堆放使用.据此，使用煤镜质组反射率分布并结合常规煤质指标为水钢制定了3个优化配煤方案，其焦炭质量明显提高，优于水钢的生产方案.研究结果表明：煤镜质组反射率分布图是指导炼焦优化配煤的有效手段，对稳定和控制焦炭质量特别是焦炭的热性质效果十分明显.对于炼焦配煤煤种多、有混煤情况时尤其适用和有效.
+关键词：煤镜质组反射率分布，优化配煤，焦炭质量控制，焦炭热性质
+OPTIMIZATION OF COAL BLENDING ABOUT SHUICHENG STEEL BASED ON REFLECTANCE DISTRIBUTION OF COAL VITRINITE
+Meng QingboLiu YangGuo WuweiGeng QianZhang Jiaxiang* and Yu Yanhua*
+(Sinosteel Anshan Research Institute of Thermo-energy Co. Ltd, 114044 Anshan, Liaoning; * Shougang Shuicheng Iron and Steel Group Corporation Limited, 553028 Liupanshui, Guizhou)
+ABSTRACT：The reflectance distribution of coal vitrinite and other coal properties of eighteen individual coals of Shuicheng Steel which are classified into six groups has been determined and analyzed. The analytical results of coal properties and coking tests for the eighteen individual coal samples have been analyzed and evaluated. The test results show the coals of Baohua group are the main factor which influences coke quality of Shuicheng Steel. So it is suggested the coals of Baohua group are divided into three sub-groups and stacked separately in three coal piles for coal blending. Three optimum coal blend schemes have been put forward based on reflectance distribution of coal vitrinite and common property parameters of coal. The coke quality is improved obviously and much superior to that of current production coal blend at Shuicheng Steel. The research shows that using the reflectance distribution diagram of coal vitrinite is an effective means of guiding optimization of coal blending and especially effective for controlling and stabilizing coke property at high temperature. It is useful and more convenient to guide coal blending by using reflectance distribution diagram of coal vitrinite when there is a lot of kind of coals and/or there are mixed coals for blending.
+KEY WORDS：reflectance distribution of coal vetrinite，optimization of coal blending，coke quality control，coke property at high temperature
+
+
+
+
+
+
+以干馏煤气为介质的半焦干熄焦技术研究（29-33）
+李惠娟1)赵俊学2)李小明3)刘军利1)华建设2)
+1) 硕士生；2) 教授；3) 副教授，西安建筑科技大学冶金工程学院，710055西安
+摘要：针对陕北半焦产品水分含量高，生产过程中水资源消耗大的问题，提出利用低温干馏煤气作为熄焦介质实现半焦干熄焦的技术方案.对应用干熄焦技术的内热式直立低温干馏炉生产半焦的过程进行了模拟物料平衡、热量平衡计算和低温干馏过程能耗分析.结果表明，干熄焦技术应用于低温干馏生产半焦过程可以节约水约203 kg/t半焦，有效回收半焦显热，节能643.30 MJ/t半焦，产品水分可大幅度减少；同时，由于水煤气反应减少，半焦收率提高；理论分析证明了该技术良好的应用前景.
+关键词：煤低温干馏，干熄焦，衡算，节水，降耗
+TECHNOLOGY RESEARCH OF PYROGENOUS COAL GAS USED AS SEMI-COKE QUENCHING MEDIUM
+Li HuijuanZhao JunxueLi XiaomingLiu Junli and Hua Jianshe
+(School of Metallurgical Engineering, Xi’an University of Architecture and Technology, 710055 Xi’an)
+ABSTRACT：Aimed at overcoming the problem of high water content in semi-coke product and large water consumption in the production process in the north of Shaanxi Province, the technological scheme of the pyrogenous coal gas used as semi-coke quenching medium to quench and extinguish the hot semi-coke was proposed in this paper. Based on the low-temperature carbonization process carried out in the shaft internal heating type furnace, the material balance, heat balance of semi-coke is calculated and energy consumption is analyzed. The results showed that the new process with semi-coke dry quenching technology could save almost 203 kg water and 643.30 MJ per ton of semi-coke, with the semi-coke sensible heat effectively recycle, as a result, water content in product can be obviously reduced. Meanwhile, the theoretical semi-coke yield can be improved because of the decrease of water gas reaction. The technology shows a good application foreground.
+KEY WORDS：low-temperature distillation，coke dry quenching，balance calculation，water saving，consumption reduction
+
+
+
+
+
+
+陕北中低温煤焦油中酚类化合物的抽提研究（34-38）
+王汝成1)孙鸣2)刘巧霞1)马燕星1)冯光1)尚建选3)徐龙4)马晓迅5)
+1) 硕士生；2) 博士生；4) 副教授；5) 教授、博士生导师，陕北能源先进化工利用技术教育部工程研究中心，陕西省洁净煤转化工程技术研究中心，西北大学化工学院，710069西安；3) 博士生，陕西煤业化工集团有限责任公司，710054西安
+摘要：采用酸碱法抽提陕北中低温煤焦油轻油和重油中的酚类物质.将轻油和重油蒸馏切割成170 ℃~240 ℃，240 ℃~270 ℃，270 ℃~300 ℃三个馏分，对三个馏分分别进行了总酚含量测定.通过最小碱油比的测定得出使一定量馏分油完全反应所需最小碱用量.设计了正交实验，得出每个馏分的最佳碱洗条件.在最佳碱洗条件下，酸碱洗涤得到轻油三个馏分酚油收率为29-21%，19.70%和16.95%；对应馏分油中总酚的回收率为95.05%，93.19%和90.30%；重油三个馏分酚油收率为58.40%，40.99%和41.55%；对应总酚回收率为91.19%，87.74%和85-83%.对脱酚油的GC/MS分析，验证了酸碱法对中低温煤焦油中酚类物质进行了有效抽提.
+关键词：馏分，最小碱油比，酚油，正交实验
+STUDY ON EXTRACTION OF PHENOLS IN LOW TEMPERATURE COAL TAR FROM SHANBEI
+Wang RuchengSun MingLiu QiaoxiaMa YanxingFeng Guang Shang Jianxuan*Xu Long and Ma Xiaoxun
+(Chemical Engineering Research Center of the Ministry of Education for Advanced Use Technology of Shanbei Energy, Shaanxi Research Center of Engineering Technology for Clean Coal Conversion, School of Chemical Engineering, Northwest University, 710069 Xi’an; * Shaanxi Coal and Chemical Industry Group Co. Ltd, 710054 Xi’an)
+ABSTRACT：Phenols in L-tar and H-tar of low temperature coal tar from Shanbei was extracted by soda wash method. The L-tar and H-tar were distilled into 170 ℃-240 ℃, 240 ℃-270 ℃ and 270 ℃-300 ℃fractions. And the total phenol content in these fractions were evaluated. The minimum amount of soda that completely reactioned with certain fraction oil was determined by the minimum soda-oil ratio. The best extraction condition was got by the orthogonal experiment. The yields of crude phenols from the fractions of L-tar were 29.21%, 19.70%, 16-95% under the best extraction condition, and the yields were 95.05%, 93.19%, 90.30%, corresponding to the total phenols in the fractions. For H-tar, the yields of crude phenols were 58.40%, 40.99%, 41.55%, and the yields were 91.19%, 87.74%, 85.83%, corresponding to the total phenols in the fractions. It is proved that phenols were extracted completely from low temperature coal tar by soda wash method through GC/MS analysis of soda washed oil.
+KEY WORDS：fractions，the minimum soda-oil ratio，crude phenols，the orthogonal experiment
+
+
+
+
+
+生物质与高硫劣质煤混烧固硫特性研究（39-42）
+蒲舸1)谭波2)
+1) 博士、副教授；2) 硕士生，重庆大学动力工程学院，低品位能源利用技术及系统教育部重点实验室，重庆400044
+摘要：使用快速智能定硫仪对小麦秆、棉花秆、玉米秆三种生物质分别与高硫劣质煤混烧的固硫特性进行了研究，分析了不同混合比、温度及生物质灰成分等因素对固硫率的影响.实验结果表明，温度对固硫效果影响较大，总固硫率随温度的升高而下降；相同温度下生物质含量越高，固硫效果越好；生物质种类不同，固硫效果也不相同；生物质中氯与碱金属含量对固硫效果的影响较大.
+关键词：生物质，高硫劣质煤，混烧，固硫特性
+STUDY ON THE SULFUR FIXATION CHARACTERISTICS OF CO-COMBUSTION BIOMASS AND HIGH-SULFUR LOW QUALITY COAL
+Pu Ge and Tan Bo
+(College of Power Engineering, Chongqing University, 400044 Chongqing; Key Laboratory of Low-grade Energy Utilization Technologies and Systems, Ministry of Education, 400044 Chongqing)
+ABSTRACT：The sulfur fixation characteristics of co-combustion wheat straw, cotton stalk, corn stalk and high-sulfur low quality coal respectively were researched with quick intelligence sulfur analyzer. The influence of different mixing ratios, temperature and the composition of biomass ash to sulfur fixation ratio was analyzed. The results of experiment indicate that temperature make major impact on sulfur fixation ratio, the total sulfur fixation ratio decreases with temperature rising. In the same temperature, higher content of biomass makes better sulfur fixation effect. Sulfur fixation effect is different using different biomass. The contents of chlorine and alkali metal in biomass make great impact on sulfur fixation effect.
+KEY WORDS：biomass，high-sulfur low quality coal，co-combustion，sulfur fixation characteristics
+
+
+
+
+
+配煤对煤基活性炭孔径分布影响的研究（43-46）
+邢宝林1)张传祥2)谌伦建3)赵继芬4)耿慧星5)
+1) 博士生；2) 博士、教授；3) 教授、博士生导师；4) 讲师；5) 本科生，河南理工大学材料科学与工程学院，454003河南焦作
+摘要：以不同煤化度的太西无烟煤及神华烟煤为前驱体，KOH为活化剂制备系列活性炭，采用N2吸附法对活性炭孔结构进行了表征，分析了配煤对活性炭孔径分布的影响规律及机理.结果表明，不同配比的配煤均可制备出高比表面积（2 817 m2/g～3 134 m2/g）活性炭.配煤的配比是影响活性炭孔径分布的主要因素，随着配煤中高煤化度煤种配比的提高，活性炭的孔径分布逐渐变窄，中孔率也随之降低.原料煤自身结构与性质的差异是造成不同煤化度煤基活性炭孔结构差异的主要原因，通过配煤技术可以有效地调节活性炭的孔径分布.
+关键词：活性炭，煤化度，配煤，孔径分布，孔结构
+EFFECT OF COAL BLENDING ON THE PORE SIZE DISTRIBUTION OF THE ACTIVATED CARBONS
+Xing BaolinZhang ChuanxiangChen LunjianZhao Jifen and Geng Huixing
+(School of Materials Science and Engineering, He’nan Polytechnic University, 454003 Jiaozuo，He’nan)
+ABSTRACT：A series of coal-based activated carbons were prepared from different coal rank of Taixi anthracite and Shenhua bituminous by KOH activation. Pore structure of activated carbons was investigated by nitrogen adsorption. The influence law and mechanism of coal blending to the pore structure of activated carbons were studied. The results showed that the  high specific surface area activated carbons(2 817 m2/g-3 134 m2/g) can be prepared with different ratio of coal blending. The ratio of coal blending was the main factor to influence the pore size distribution of activated carbons. With the increasing of the ratio of high rank coal in coal blending, the pore size distribution of activated carbons narrowed, and the ratio of mesopore volume decreased. The difference of the structure and properties of raw coal is the main reason to cause the difference of pore structure of coal-based activated carbons of different coal rank. The pore size distribution of activated carbons can be adjusted effectively by coal blending.
+KEY WORDS：activated carbons，coal rank，coal blending，pore size distribution，pore structure
+
+
+
+
+
+爆炸法合成中空碳纳米颗粒（47-51）
+贾蓉蓉1)宋昌2)赵江红3)朱珍平4)
+1) 硕士生，中国科学院研究生院，100039北京；中国科学院山西煤炭化学研究所煤转化国家重点实验室，030001太原；2) 博士；3) 副研究员、硕士生导师；4) 研究员、博士生导师，中国科学院山西煤炭化学研究所煤转化国家重点实验室，030001太原
+摘要：采用爆炸辅助化学气相沉积法，以N，N-二甲基甲酰胺(DMF)为原料，在金属催化剂作用下合成了粒径分布在20 nm~40 nm的中空碳纳米颗粒.更为重要的是，发现中空碳纳米颗粒可在无金属催化剂作用下自组装形成.在此过程中，控制炸药和碳源的比例对于碳颗粒的结构和尺寸有重要影响.当炸药与碳源的摩尔比例合适时，产物中中空碳纳米颗粒的含量达到95%以上，且粒径分布均匀，约为10 nm.
+关键词：中空碳纳米颗粒，爆炸，化学气相沉积法，催化剂
+SYNTHESIS OF HOLLOW CARBON NANOPARTICLES BY DETONATION METHOD
+Jia Rongrong1,2Song Chang1Zhao Jianghong1 and Zhu Zhenping1
+(1.State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan; 2.Graduate University of Chinese Academy of Sciences, 100039 Beijing)
+ABSTRACT：Hollow carbon nanoparticles with particle size of 20 nm-40 nm have been synthesized in a metal-containing system using N,N-dimethyllformamide (DMF) as the carbon source via detonation-assisted chemical vapor deposition. More significantly, it was found that hollow carbon nanoparticles can be self-assembled synthesized without metal catalyst. In this process, the structures and sizes of the carbon nanoparticles are heavily depending on the ratio of explosive and carbon source. If the ratio of expolsive∶DMF is appropriate, hollow carbon nanoparticles are over 95%, and their particle size is around 10 nm with a narrow size distribution.
+KEY WORDS：hollow carbon nanoparticles，detonation，chemical vapor deposition method，catalyst
+
+
+
+
+
+导向剂超声波低温法合成矸石基吸附剂的研究（52-56）
+秦华1)朱秀栋2)宋春来3)
+1) 教授、硕士生导师；2) 硕士生；3) 讲师、硕士，黑龙江科技学院资源与环境工程学院，150027哈尔滨
+摘要：以煤矿的废弃物煤矸石为原料，研究了在水热条件和导向剂超声波低温条件下，煤矸石自转变合成矸石基吸附剂的过程，并对其吸附性能作了初步研究.用氮吸附静态容量法，测得在水热条件和导向剂超声波低温条件下合成的矸石基吸附剂的氮吸附等温线、比表面和孔分布曲线.用XRD谱进行产品的晶相分析.通过矸石基吸附剂对苯酚的吸附实验，给出两种方法制得的矸石基吸附剂的吸附等温线.结果表明，在导向剂超声波低温条件下对提高矸石基吸附剂的比表面积和吸附量都是有效的.从XRD和粒径分布可以看出，导向剂超声波低温法使得合成产品的粒径远远小于传统水热合成法合成产品的粒径，而且产品的粒度均匀、单一，并且由于超声波的能量提供，晶化温度明显降低.
+关键词：矸石基吸附剂，吸附，煤矸石，导向剂超声波低温合成
+STUDY ON GANGUE-BASED ADSORBENT SYNTHESIZED BY CRYSTALLIZATION-DIRECTING AGENT AT LOW TEMPERATURE AND ULTRASONIC METHOD
+Qin HuaZhu Xiudong and Song Chunlai
+(Institute of Resource and Environment Engineerring, Heilongjiang Institute of Science and Technology, 150027 Harbing)
+ABSTRACT：Using the gangue as raw materials, the process synthesis of gangue-based adsorbent by self-transformation of gangue were studied under hydrothermal conditions; meanwhile, crystallization directing agent was added under low temperature and ultrasonic conditions. Its adsorption properties were primarily studied by means of static nitrogen-adsorption capacity method so that the nitrogen-adsorption isotherm, specific surface and pore distribution were measured under hydrothermal, crystallization directing agent at low temperature and ultrasonic conditions. The crystal phase of products was analyzed by XRD spectrum. The adsorption isotherm of gangue-based adsorbents synthesized by the two alternative methods was obtained by the adsorbent experiment of phenol. The results show that the specific surface area and adsorption capacity of the gangue-based adsorbent were effectively enhanced by crystallization directing agent at low temperature and ultrasonic method. XRD and particle size distribution spectrums show that the diameter of the products synthesized by crystallization directing agent at low temperature and ultrasonic method was far lower than that of the products synthesized by the traditionally hydrothermal method. The products have uniform granularity likewise. The crystallization temperature was evidently decreased by the energy supply of ultrasonic.
+KEY WORDS：gangue-based adsorbent，adsorption，gangue，crystallization directing agent at low temperature and ultrasonic method
+
+
+
+
+
+
+三种二甲醚生产系统的流程模拟和3E评价（57-61）
+姜立雪1)蒋晓隆2)麻林巍3)李政4)倪维斗5)
+1) 硕士生；2) 博士生；3) 助理研究员；4) 教授、博士生导师；5) 中国工程院院士、教授、博士生导师，清华大学热能工程系，100084北京
+摘要：对甲醇气相法合成二甲醚、煤气化制甲醇气相法合成二甲醚以及煤炭-风电联产甲醇制二甲醚的三种典型二甲醚生产系统进行了流程设计、模拟和能耗/CO2排放/经济成本的3E（Energy，Economic，Enviorenment）评价，并对影响二甲醚经济成本的敏感性因素（例如煤价、甲醇价格和风电设备利用小时数等）进行了敏感性分析.
+关键词：二甲醚，煤气化，非并网风电，流程模拟，3E评价
+PROCESS SIMULATION AND 3E ASSESSMENT OF THREE DIMETHYL ETHER PRODUCTION SYSTEMS IN CHINA
+Jiang LixueJiang XiaolongMa LinweiLi Zheng and Ni Weidou
+(State Key Laboratory of Power Systems, Department of Thermal Engineering, Tsinghua University, 100084 Beijing)
+ABSTRACT：This manuscript designed, simulated and carried 3E assessment of energy consumption, CO2 emission and economic cost of three dimethyl ether production systems in China, which are based on gas-phase methanol dehydration process (conventional process), gas-phase methanol dehydration integrated with coal gasification process (coal gasification process), and polygeneration process integrating coal gasification and wind power water dehydration (polygeneration process). And sensitivity analysis is performed on sensitive factors affecting the economic costs of dimethyl ether such as coal price, methanol price and equivalent capacity factor of coal-wind combined system.
+KEY WORDS：dimethyl ether (DME)，coal gasification，off-grid wind power，process simulation，3E assessment
+
+
+
+
+
+
+Fe-Mo/ZSM-5蜂窝催化剂上NOx的催化还原性能（62-64+77）
+常立亚1)何凯2)王婧1)黄伟3)李哲4)
+1) 硕士生；2) 副教授；4) 教授，化学化工学院；3) 教授、博士生导师，煤科学与技术教育部和山西省重点实验室，太原理工大学，030024太原
+摘要：Fe-Mo/ZSM-5具有较好的NOx催化活性，比较了不同粉末的制备方法、催化剂助剂和载体等因素对蜂窝状催化剂催化还原性能的影响.结果表明，气相离子交换法制备的蜂窝状催化剂的催化活性最好，在350 ℃时NOx转化率已达到90%以上，在高温400 ℃～600 ℃范围，催化剂对NOx的催化还原转化率保持在98%.K+离子的加入明显提高了Fe-Mo/ZSM-5催化剂活性，可能调变了催化剂的表面性质，催化剂粉末在载体上的浸涂次数为2次时效果最佳.
+关键词：蜂窝堇青石载体，Fe-Mo/ZSM-5，氮氧化物，涂覆方法，催化还原
+STUDY ON CATALYTIC REDUCTION OF NOx PERFORMANCE OF HONEYCOMB Fe-Mo/ZSM-5 CATALYST
+Chang LiyaHe KaiWang JingHuang Wei and Li Zhe
+(Key Laboratory of Coal Science and Technology of Ministry of Education and Shanxi Province, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：Fe-Mo/ZSM-5 has a good NOx catalytic activity. In this basis, we compared the preparation methods of catalyst powder, catalyst additives, carriers and other factors on the honeycomb catalyst reduction. The results show that the catalytic activity prepared monolithic catalysts by gas phase ion exchange method is the best, at 350 ℃, the catalytic activity can be reach more than 90%. In high temperature（350 ℃-600 ℃）catalytic activity remained at 100%. The addition of K+ catalyst additives help increase powder catalytic activity. Powder catalyst impregnated on the carrier and roasting 2 times is the best.
+KEY WORDS：honeycomb cordierite carrier，Fe-Mo/ZSM-5，nitrogen oxides，coating methods，catalytic reduction
+
+
+
+
+
+超声波浸渍制备醋酸锌-活性炭催化剂（65-69）
+尚会建1)王亮2)杨立彦2)允川2)蒋梁鹤2)郑学明3)
+1) 副教授、硕士生导师；2) 硕士生；3) 教授、硕士生导师，河北科技大学化学与制药工程学院，050000石家庄
+摘要：采用浸渍法制备醋酸锌-活性炭催化剂，研究了普通浸渍和超声波浸渍制备醋酸锌活性炭催化剂，通过优化实验，得出超声波浸渍的适宜条件是：浸渍时间30 min，超声波频率28 MHz，浸渍温度45 ℃.在此条件下制得的催化剂较普通浸渍制得的催化剂醋酸锌含量提高了7%，比表面积提高了约30%.活性测试结果表明，超声波浸渍制备的催化剂活性较普通浸渍制得的催化剂活性显著提高，其中在180 ℃时活性提高了约34.54%.
+关键词：醋酸锌，超声波，比表面积，活性测试
+STUDY ON PREPARATION OF ACTIVE CARBON SUPPORTED ACETATE ZINC CATALYST IN IMMERSION METHOD
+Shang HuijianWang LiangYang LiyanYun ChuanJiang Lianghe and Zheng Xueming
+(Hebei University of Science and Technology, 050000 Shijiazhuang)
+ABSTRACT：This article use immersion method to make catalyst using active carbon supported acetate zinc, studied general immersion method and ultrasonic immersion method respectively, and got the optimum conditions of ultrasonic immersion method: dipping time 30 min, sound frequency 28 MHz, soaking temperature 45 ℃. The zinc acetate content of the catalyst made in this condition has raised 7% and specific surface has raised 30% compared to the catalyst made in general immersion method. Experimental results reveal that the catalyst made in ultrasonic immersion method has remarkable improvement compared to the catalyst made in general immersion method, and the catalyst activity improved about 34.54 at 180 ℃.
+KEY WORDS：acetate zinc，ultrasonic，specific surface，activity test
+
+
+
+
+
+
+大庆油页岩热解特性及动力学研究（70-73）
+苗真勇1)吴国光2)孟献梁1)李萍3)郑志磊3)
+1) 博士生、讲师；2) 教授、博士生导师；3) 硕士生，中国矿业大学化工学院，221116江苏徐州
+摘要：采用热分析方法对大庆油页岩热解特性进行研究，考察了升温速率和热解终温对油页岩热解特性的影响.结果表明，温度是影响热解的最主要因素，随着温度的升高，挥发分产率增大；随着升温速率的增大，油页岩的热解特征温度和最大热解速率都明显提高.根据热失重曲线建立了大庆油页岩热解动力学模型，采用傅立叶红外光谱分析对油页岩及热解半焦官能团变化情况进行分析，发现油页岩的主要官能团与煤接近；随着热解终温的升高，半焦含氧官能团的吸收峰逐渐减弱.
+关键词：油页岩，热解，升温速率，热解终温，动力学
+STUDY ON PYROLYSIS CHARACTERISTICS AND KINETIC OF DAQING OIL SHALE
+Miao ZhenyongWu GuoguangMeng XianliangLi Ping and Zheng Zhilei
+(School of Chemical Engineering and Technology, China University of Mining and Technology; Key Laboratory of Processing and Efficient Utilization, Ministy of Education of China, 221116 Xuzhou, Jiangsu)
+ABSTRACT：Pyrolysis characters of Daqing oil shale was carried out by TG analysis, including the rate of heating speed and final temperature. It is concluded that major factor on pyrolysis is temperature. With the increase of temperature, the yield rate of volatile matter improves. And the pyrolysis character temperature of oil shale and maxium pyrolysis volecities were increased remarkabley. A kinetic model was built according to the DTG curves. The varieties on functional group of oil shale and semi-coke were analyzed by FTIR, which suggested that the functional groups of oil shale were similar to coal. The absorbance of simi-coke functional groups was decrease gradually with the increase of final temperatures.
+KEY WORDS：oil shale，pyrolysis characters，semi-coke，kinetic
+
+
+
+
+
+电石法和煤基乙烯法PVC碳排放分析（74-77）
+尚建选1)王立杰2)甘建平3)
+1) 博士生、高级工程师，中国矿业大学，100083北京；陕西煤业化工集团有限责任公司，710054西安；2) 教授、博士生导师，中国矿业大学，100083北京；3) 高级工程师、硕士，陕西煤业化工集团有限责任公司，710054西安
+摘要：煤制烯烃技术的发展使得煤基乙烯法PVC工艺成为一种选择，通过对不同工艺全流程碳排放量（直接碳排放+间接碳排放）进行计算分析，认为相对于煤基乙烯法PVC（纯锅炉模式）生产工艺，电石法和煤基乙烯法PVC（锅炉+燃气轮机模式）的碳排放较低，而由于后者不存在汞污染问题，从CO2减排、能源转化效率、成本和清洁化生产等综合角度来讲具有一定的优势.
+关键词：电石法，煤基乙烯法，PVC，碳排放
+ANALYSIS OF CARBON EMISSIONS IN PVC PRODUCTION BY CALCIUM CARBIDE AND COAL-BASED ETHYLENE METHODS
+Shang Jianxuan1,2Wang Lijie1 and Gan Jianping2
+(1.China University of Mining and Technology, 100083 Beijing; 2.Shaanxi Coal and Chemical Industry Group Company Limitd, 710054 Xi’an)
+ABSTRACT：The development of coal to olefin technology made coal-based ethylene process producing PVC become an option. In this paper, different technology processes of carbon emissions (direct and indirect carbon emissions) were calculated and analyzed. Compared to coal-based ethylene PVC (pure boiler model) production process, calcium carbide and coal-based ethylene PVC (boiler+gas turbine mode) show lower carbon emissions. In addition, little mercury pollution was produced by the latter, so that there was certain advantage in the comprehensive degree of CO2 emission reduction, energy conversion efficiency, cost and clean production etc.
+KEY WORDS：calcium carbide method，coal-based ethylene method，PVC，carbon emissions
+
+
+
+
+
+
+活化煤系高岭土吸附城市生活污水中磷的研究（78-81+91）
+沈王庆1)黄辉2)
+1) 讲师、硕士；2) 教授（通讯作者），内江师范学院化学与生命科学学院，641112四川内江
+摘要：分别考察了焙烧温度、硫酸浓度和煤系高岭土用量对城市生活污水中磷的吸附率的影响，在此条件下又考察了吸附等温线、吸附动力学和吸附热力学.结果表明，当焙烧温度为700 ℃，硫酸浓度为70%，煤系高岭土用量为0.75 g（每50 mL污水）时，煤系高岭土对城市生活污水中磷元素的吸附率分别达到最大.通过对吸附等温线、吸附动力学曲线和吸附热力学曲线的处理，得出硫酸活化煤系高岭土对磷的吸附行为更符合Freundlich模型，液膜扩散是其对磷吸附的主控步骤，且吸附是一个放热过程.
+关键词：煤系高岭土，吸附，城市生活污水，磷
+STUDY ON PHOSPHORUS IN MUNICIPAL WASTEWATER ADSORPTED BY SULFURIC ACID-ACTIVATED COAL-MEASURES KAOLINE
+Shen Wangqing and Huang Hui
+(College of Chemistry and Life Science, Neijiang Normal University, 641112 Neijiang, Sichuan)
+ABSTRACT：The effect that the phosphorus in the municipal wastewater was adsorpted by roasting temperature, sulfuric acid concentration and coal-measures kaoline consumption was studied, then the adsorption isothermal, adsorption dynamics and adsorption thermodynamic were studied too. The result showed when the roasting temperature was 700 ℃; the sulfuric acid concentration was 70% and the coal-measures kaoline consumption was 0.75 g (per 50 mL water), the adsorption rate could be arrived the highest respectively.The action that the phosphorus in the municipal wastewater was adsorpted by sulfuric acid-activated coal-measures kaoline more fitted in the Freundlich model. Kinetic analysis showed that the adsorption rate was mainly governed by liquid film diffusion, and the adsorption process released heat.
+KEY WORDS：coal-measures kaoline，adsorption，municipal sewage，phosphorus
+
+
+
+
+多孔介质干燥机理在褐煤热力脱水中的应用（82-86）
+王秀军1)张守玉2)彭定茂1)王健1)郝正虎3)吕俊复4)
+1) 硕士生；2) 副研究员，上海理工大学能源与动力工程学院燃烧与气化研究所，200093上海；3) 硕士生；4) 教授，清华大学热能工程系，100084北京
+摘要：我国褐煤资源丰富，但是由于其水分高，导致了褐煤燃烧发电效率低下，不宜远距离运输.通过热力干燥可降低褐煤的水分含量，有利于褐煤运输和贮存，提高锅炉燃烧效率.从褐煤结构出发，提出其热力干燥过程的模型可将之视为多孔介质.分析了多孔介质的干燥过程特点，阐述了目前国内外的多孔介质干燥机理，总结了相关的多孔介质干燥模型，为多孔介质褐煤热力脱水模型化提供理论支持.
+关键词：褐煤，干燥，多孔介质，模型
+APPLICATION OF THE DRYING MECHANISM OF POROUS MEDIA IN THE THERMAL DEHYDRATION FOR LIGNITE
+Wang XiujunZhang ShouyuPeng DingmaoWang JianHao Zhenghu and Lü Junfu
+(School of Energy and Power Engineering, University of Shanghai for Science and Technology, 200093 Shanghai)
+ABSTRACT：There is lots of lignite in China and most of the lignite is used directly in power generation nearby. However, the application of lignite in power generation results in a high capital cost and low combustion efficiency because of its high moisture content. Thus the dewater of lignite is very important. The moisture content of lignite can be decreased by drying with the changes in its internal composition and structure. Based on its high porosity, it is suggested to model the drying process as a porous media in this paper. Therefore, the drying process characteristics of porous media is firstly addressed. Moreover, the current drying mechanism of porous media and its future trend are introduced detailedly.
+KEY WORDS：lignite，drying，porous media，model
+
+
+
+
+
+
+煤中微量有害元素洗选洁净的研究进展（87-91）
+李沙1)焦红光2)
+1) 硕士生；2) 博士、教授，河南理工大学，454003河南焦作
+摘要：阐述了煤中微量有害元素的赋存状态和洗选脱除机理，指出微量有害元素在选煤过程中的迁移行为取决于其赋存状态和有机亲和性，以无机态或矿物质结合态为主的有害元素大部分能被脱除，总结概括了常规洗选方法脱除煤中微量有害元素的研究状况，指出常规洗选方法一定程度上脱除煤中微量有害元素，重点分析了磁选脱除煤中有害微量元素的研究进展.
+关键词：微量元素，磁选，洗选，亲和性
+PROGRESS OF HAZARDOUS TRACE ELEMENTS REMOVAL DURING COAL WASHING
+Li Sha and Jiao Hongguang
+(Institute of Meterials, He’nan Polytechnic Univercity, 454003 Jiaozuo, He’nan)
+ABSTRACT：The modes of occurrence and cleaning mechanism of hazardous trace elements in coal were illustrated and pointed that the migration behavior of trace elements in coal were dominated by their organic affinities; the trace elements associated with inorganic minerals can be removed; meanwhile summarized the research situation of removing hazardous trace elements by conventional washing methods and pointed the trace elements can be removed by conventional methods; focused on the analysis of research progress of removing hazardous trace elements by magnetic separation.
+KEY WORDS：trace elements，magnetic separation，cleaning，affinity
+
+
+
+
+
+
+陕北低变质煤分质综合利用前景展望（92-96）
+尚建选1)王立杰2)甘建平3)
+1) 博士生、高级工程师，中国矿业大学，100083北京；陕西煤业化工集团有限责任公司，710054西安；2) 教授、博士生导师，中国矿业大学，100083北京；3) 高级工程师、硕士，陕西煤业化工集团有限责任公司，710054西安
+摘要：系统论述了煤炭分质利用技术的有关问题，以分质利用技术科学理念的提出及工艺路线分析为基础，结合我国陕北地区丰富的低变质煤炭和盐等资源优势，提出了煤炭分质利用-新型盐化工利用模式、煤炭分质利用-煤基替代石化产品模式和煤炭分质利用-煤制天然气利用模式三种以煤炭分质利用技术为核心的陕北资源综合高效利用技术，并对其进行了技术及效益分析，对于指导我国低变质煤炭利用具有重要意义.
+关键词：煤，热解，分质利用，节能减排
+PROSPECT OF THE SHANBEI COMPREHENSIVE COAL GRADING UTILIZATION TECHNOLOGY
+Shang Jianxuan1,2Wang Lijie1 and Gan Jianping2
+(1.China University of Mining and Technology, 100083 Beijing; 2.Shaanxi Coal and Chemical Industry Group Company Limited, 710054 Xi’an)
+ABSTRACT：Issues related to coal grading utilization technology were discussed systematically in this paper. Based on the scientific concept of grading quality proposal and process route analysis, in addition to combined with Shanbei’s resource superiority of abundant  low rank coal and salt, three types of Shanbei resources’ comprehensive and efficient utilization technologies centered with coal grading utilization technology such as coal grading utilization-novel salt chemical engineering utilization mode, coal grading utilization-coal-based substitution for petroleum chemicals mode, coal grading utilization-SNG utilization mode were proposed. And the technical and cost-effect analysis have also been carried out. This work is significant for guiding the use of low rank coal in China.
+KEY WORDS：coal，pyrolysis，grading utilization，energy saving and emission reduction
+
+煤富氧低温干馏实验研究（1-3+12）
+华建社1)王强2)尚文智3)赵西成1)赵俊学1)
+1) 教授；2) 硕士生，西安建筑科技大学冶金工程学院，710055西安；3) 高级工程师，陕西神木三江煤化工公司，719300陕西神木
+摘要：通过对陕北榆林地区煤低温干馏应用现状的实地考察，发现干馏过程产生的煤气热值偏低，影响焦油产出和煤气高效利用.为优化生产工艺，提出富氧干馏实验方案.通过理论计算及实验数据分析，结果表明，富氧干馏完全可行，富氧干馏能够降低煤气中氮含量，提高有效可燃成分含量，使煤气热值大幅度提高，解决了由于低热值煤气无法有效利用而放空所造成的环境污染和资源浪费问题.
+关键词：富氧干馏，富氧比，煤气热值
+EXPERIMENTAL STUDY ON COAL OXYGEN ENRICHED LOW-TEMPERATURE CARBONIZATION
+Hua JiansheWang QiangShang Wenzhi*Zhao Xicheng and Zhao Junxue
+(School of Metallurgical Engineering, Xi’an University of Architecture and Technology, 710055 Xi’an; * Shaanxi Shenmu Sanjiang Coal Chemical Corporation Limited, 719300 Shenmu, Shaanxi)
+ABSTRACT：In view of that the gas calorific value is low, the experimental program of the oxygen enriched carbonization is proposed based on on-the-spot investigation of coal low-temperature carbonization application present situation in Yulin Northern Shaanxi. The theoretical calculation and the analysis of the experimental data have proved that the oxygen enriched carbonization is feasible. The oxygen enriched carbonization can decrease the nitrogen content and increase the effective combustible component content in the gas, it causes the gas calorific value significantly increased and have solved the problem of environmental pollution and resource-wasting because the low calorific value gas was utilized effectively and released into the air.
+KEY WORDS：oxygen enriched carbonization, oxygen enriched proportion, gas calorific value
+
+
+
+
+
+内蒙和印尼褐煤的热解特性及动力学分析（4-7）
+常瑜1)李林2)梁丽彤3)黄伟4)
+1) 教授、硕士生导师；2) 硕士生；3) 博士生；4) 教授、博士生导师，煤科学与技术教育部和山西省重点实验室，太原理工大学，030024太原
+摘要：采用非等温热重法对内蒙和印尼两种褐煤的热解特性进行了研究，探讨了升温速率对热解过程的影响，然后用Doyle积分法对褐煤的热解进行了动力学分析.研究表明，两种褐煤的热失重过程都分为四个阶段，第一阶段（室温～200 ℃）为干燥脱气阶段，其他三段为煤热解阶段.升温速率对热失重过程略有影响，通过动力学分析所得的热解动力学参数能很好地反映煤的热解情况.
+关键词：褐煤，热解，热重分析，动力学
+STUDY ON THE PYROLYSIS CHARACTERISTICS AND KINETICS OF MONGOLIA LIGNITE AND INDONESIAN LIGNITE
+Chang YuLi LinLiang Litong and Huang Wei
+(Key Laboratory of Coal Science and Technology of Ministry of Education and Shanxi Province, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：The pyrolysis characteristics of mongolia lignite and indonesian lignite were investigated, and the influence of heating rate on the weight loss process were also discussed. The kinetic of the lignites pyrolysis were analysed with Doyle integration. The studys show that the weight loss process of the two lignites can be divided into four stages, in which the first stage(R.T.-200 ℃) is the process of drying degasification, and other stages are the pyrolysis process. The heating rate has slight effect on pyrolysis curve, and the kinetic parameters which was got by Doyle integration can reflect the pyrolysis condition well.
+KEY WORDS：lignite, pyrolysis, thermogravimetric analysis, kinetics
+
+
+
+
+
+
+热重法研究煤的燃烧行为及其动力学模型（8-12）
+刘粉荣1)董雪松2)李文3)马青兰4)胡瑞生5)苏海全5)李保庆3)
+1) 博士；2) 本科生；5) 教授，内蒙古大学化学化工学院煤转化自治区重点实验室，010021呼和浩特；3) 研究员、博士生导师，中国科学院山西煤炭化学研究所煤转化国家重点实验室，030001太原；4) 教授，太原理工大学环境工程学院，030024太原
+摘要：采用热重法（TG）考察了六枝（LZ）、遵义（ZY）和吴家坪（WJP）原煤、脱灰煤及其脱黄铁矿煤的燃烧性能，并对其燃烧性能进行了动力学研究.研究表明：LZ，ZY和WJP脱灰煤的着火温度和燃烧峰温都较其原煤低，其燃烧特性指数较其原煤高，这是由于脱灰煤的燃烧活化能E较其原煤低的缘故.ZY和WJP脱黄铁矿煤的燃烧特性指数S与其脱灰煤相比基本没发生变化，这是由于脱黄铁矿煤的燃烧活化能E和指前因子A都较其脱灰煤大大增加，是二者相互影响的结果.对煤的燃烧行为进行动力学研究发现：LZ，ZY 和WJP原煤、脱灰煤及其脱黄铁矿煤在燃烧区间的某一温度段满足一级反应模型，且线性相关性较好，相关系数大都在0.98以上.
+关键词：煤，燃烧特性，动力学模型
+COMBUSTION BEHAVIOR OF COALS AND ITS KINETIC MODEL STUDIED BY A THERMOGRAVIMETRIC ANALYZER
+Liu FenrongDong XuesongLi Wen*Ma Qinglan**Hu Ruisheng Su Haiquan and Li Baoqing*
+(College of Chemistry and Chemical Engineering, Inner Mongolia University, 010021 Hohhot; * State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan; ** College of Enviroment Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：In this study, the combustion behavior of coals and their treated coals, Liuzhi (LZ), Zunyi (ZY) and Wujiaping (WJP) raw coals, their deashed coals and depyrited coals, was investigated by a thermogravimetric analyzer (TGA92), and the kinetic model about coal combustion was also studied. For the deashed coals, the temperatures of kindling point and combustion peak all decrease compared to their raw coals, which may be related to lower activation energy in the deashed coals. For the ZY and WJP depytied coals, the combustion characteristic index is almost same to that of their deashed coals, the reason should be that the activation energy and pre-exponential factor, which co-affect the temperature of kindling point, combustion peak, the average and maximum ratio of coal combustion, all increased intensely in those depyrited coals. It is found that the kinetic model of coals combustion is first order reaction in a definition region of whole combustion range, and the most of correlative linearity factors is higher than 0.98.
+KEY WORDS：coal, combustion characteristic, kinetic model
+
+
+
+
+
+
+催化剂对劣质煤燃烧性能的影响（13-16+35）
+秦瑾1)何选明2)刘瑞芝3)胡芝娟4)王世杰5)黄陈杰1)李铁鲁1)
+1) 硕士生；2) 教授；5) 副教授，武汉科技大学湖北省煤转化与新型炭材料重点实验室，430081武汉；3) 高级工程师；4) 教授级高级工程师，天津水泥工业设计研究院有限公司，300400天津
+摘要：主要利用热分析法研究了催化剂NaClO4，MnO2和BaCO3对劣质煤燃烧性能的影响.结果表明，三种催化剂均可以提高劣质煤的挥发分释放量；各催化剂对煤粉的着火特性和燃尽指数都有不同程度的促进作用，其影响大小排序为：NaClO4>BaCO3>MnO2和BaCO3>MnO2>NaClO4；加入各催化剂后，煤粉的放热量均得到了提高.主要作用机理是：催化剂促进煤中挥发分的析出，降低煤的着火温度并且促进氧气与焦炭的充分接触，从而加速煤的燃烧过程.
+关键词：催化剂，劣质煤，催化燃烧，热重分析，水泥工业
+EFFECTS OF CATALYSTS ON COMBUSTION CHARACTERISTICS OF INFERIOR COALS
+Qin JinHe XuanmingLiu Ruizhi*Hu Zhijuan*Wang ShijieHuang Chenjie and Li Tielu
+(Hubei Key Laboratory of Coal Conversion and New Materials, Wuhan University of Science and Technology, 430081 Wuhan; * Tianjin Cement Industry Design and Research Institute Limited Company, 300400 Tianjin)
+ABSTRACT：The influence of the inferior coals with NaClO4, MnO2, or BaCO3 on the characteristics of coal combustion was investigated by thermo-gravimetric(TG) analysis. The results indicated that the catalysts can enhance the release of volatile matters of the coals, furthermore, the ignition and burnout characteristics of the coal with catalysts are improved to some extent, on which the catalytic activity of the catalysts are in the order of NaClO4>BaCO3>MnO2 and BaCO3>MnO2>NaClO4 respectively. Simultaneously, the catalysts can increase the quantity of heat releasing of the coal. The function principle of the catalysts to the inferior coals is that the catalysts can promote the release of volatile matters and the contact of oxygen and coke, thus, the ignition temperature of the coal is decreased and the process of coal combustion is accelerated.
+KEY WORDS：catalyst, inferior coal, catalytic combustion, thermo-gravimetric analysis, cement industry
+
+
+
+
+
+烟煤在超临界水中催化气化的研究（17-21+45）
+曹雅琴1)李金来2)谷俊杰3)甘中学4)
+1) 硕士生，河北工业大学化工学院，300130天津；2) 教授级高级工程师，河北工业大学化工学院，300130天津；煤基低碳能源国家重点实验室，065001河北廊坊；3) 教授，煤基低碳能源国家重点实验室，065001河北廊坊；卡尔顿大学机械和航天航空工程学院，K1S5B6加拿大渥太华；4) 教授，煤基低碳能源国家重点实验室，065001河北廊坊
+摘要：以鄂尔多斯烟煤为例，利用间歇反应釜，在超临界水条件下考察了反应温度、水煤比以及K2CO3添加量等因素对煤气化反应的影响.结果表明，温度对煤的转化率和气相收率有重要影响，且转化率和气相收率随温度的升高而增加；增加水煤比会提高煤转化率和气相收率，但其对气体组成和煤转化率影响的幅度随水煤比的增加而减小；在5%~20%（质量分数）煤催化剂添加条件下，煤转化率随催化剂添加量的增加而迅速增加.在研究考察范围内，煤颗粒尺寸在80目~150目范围内，最佳的反应条件是：反应温度为650 ℃，水煤比为20∶1，K2CO3添加量为20%（质量分数）煤.相应的反应结果是：煤转化率达到84%以上，气相收率高于3 000 mL/g daf coal，其中氢气收率为1 900 mL/g daf coal，甲烷收率为450 mL/g daf coal.
+关键词：烟煤，催化气化，超临界水
+CATALYTIC GASIFICATION OF BITUMINOUS COAL IN SUPERCRITICAL WATER
+Cao Yaqin1Li Jinlai1,2Gu Junjie2,3 and Gan Zhongxue2
+(1.Department of Chemical Engineering and Technology, Hebei University of Technology, 300130 Tianjin; 2.State Key Laboratory of Low Carbon Energy of Coal, 065001 Langfang, Hebei; 3.Department of Mechanical and Aerospace Engineering, Carleton University, 1125 Colohel by Drive, Ottawa, Ontario KIS 5B6 Canada)
+ABSTRACT：The Erdos bituminous coal is gasified with K2CO3 as the catalyst in supercritical water (SCW) using a batch tank reactor. The effects of temperature, H2O/coal ratio, and amount of K2CO3 loadings are tested and investigated. Experimental results indicate that temperature has significant effect on the coal conversion and gas yield, and both the conversion rate and gas yield increase with increasing temperature; greater water/coal ratio can increase the coal conversion rate and gas yield, but the effect is less profound as the water/coal ratio increases; in the range of the catalyst loading between 5%-20%coal, the coal conversion increases appreciably with increasing catalyst loading amount. In this investigation, the optimum operating conditions are found at 650 ℃, 25 MPa, coal particle size within the range of 80 mesh-150 mesh, water/coal mass ratio of 20∶1, and K2CO3 concentration of 20%coal, and the coal conversion, gas yield, hydrogen yield, and methane yield are 84%, 3 000 mL/g daf coal, 1 900 mL/g daf coal and more than 450 mL/g daf coal respectively.
+KEY WORDS：bituminous coal, catalytic gasification, supercritical water
+
+
+
+
+煤炭地下气化化学点火研究（22-25）
+钟毓娟1)梁杰2)刘鑫3)邓生富1)尤东光1)刘丰1)
+1) 硕士生；2) 教授、博士生导师，中国矿业大学化学与环境工程学院，100083北京；3) 助理工程师，国家开发银行股份有限公司山西分行，030002太原
+摘要：针对无井式煤炭地下气化在深部盲孔中点火的特点，研究了化学液体凝固点火剂和点火方法.利用基体燃料甲醇、凝固剂硬脂酸、催化剂甲醇钠、助燃剂铝粉和碳粉、氧化剂高氯酸钾、黏结剂硝化棉、增塑剂石蜡以及稳定剂大苏打制取了性能稳定、燃烧焓为14 246.5 kJ/kg的化学点火剂.点火实验表明，在点火开始后75 min煤层温度达到其燃点；点火后85 min出口气体可燃组分(H2+CO+CH4)含量超过20%，煤层点火成功.
+关键词：煤炭地下气化，化学液体凝固点火剂，点火参数
+STUDY ON SOLIDIFIED LIQUID CHEMICAL IGNITION AGENT FOR UNDERGROUND COAL GASIFICATION
+Zhong YujuanLiang JieLiu Xin*Deng ShengfuYou Dongguang and Liu Feng
+(School of Chemical and Environmental Engineering, CUMTB, 100083 Beijing; * China Development Bank Corporation Shanxi Branch, 030002 Taiyuan)
+ABSTRACT：The solidified liquid chemical ignition agent and ignition method are investigated in consideration of characteristics of the ignition in deep blind hole of the non-well underground coal gasification. The chemical ignition agent with stable performance and a combustion enthalpy of 14 246.5 kJ/kg is prepared with methanol as main fuel, stearic acid as coagulant, sodium methoxide as catalyst, aluminum and carbon powder as combustion improver, potassium perchlorate as oxidizer, nitrocellulose as binder, paraffin as plasticizer and sodium thiosulfate as stabilizer. The ignition test result shows that the coal seam temperature reaches ignition point 75 min after ignition; 85 min after ignition combustible component (H2+CO+CH4) composition of exit gas exceeds 20% and this indicates that the coal seam is successfully ignited.
+KEY WORDS：underground coal gasification, solidified liquid chemical ignition agent, ignition parameters
+
+
+
+
+
+以不同气流床煤气化为气头的IGCC模拟计算（26-30）
+于戈文1)王延铭1)梁磊2)
+1) 副教授，内蒙古科技大学化学与化工学院，014010内蒙古包头；2) 工程师，鞍钢股份有限公司，114021辽宁鞍山
+摘要：设计并模拟了以Shell和GSP技术为气头的IGCC系统，包括对合成气中的CO进行95%深度变换和不进行变换的不同方案.结果表明，Shell气化为气头的带深度变换和无变换的IGCC系统分别具有34.8%和41.8%的系统热效率.深度变换的优点在于能大规模降低CO2排放，碳的捕获量占系统总碳量的92.5%（Shell，深度变换），而无变换的IGCC方案，这一比例为0-2%.
+关键词：IGCC，模拟，煤气化，变换
+SIMULATION OF IGCC SYSTEMS BASED ON DIFFERENT PRESSURED ENTRAINED FLOW GASIFICATION TECHNOLOGY
+Yu GewenWang Yanming and Liang Lei*
+(Chemical and Engineering College, Inner Mongolia University of Science and Technology, 014010 Baotou, Inner Mongolia; * An-steel Company Limited, 114021 Anshan, Liaoning)
+ABSTRACT：IGCC systems based on Shell and GSP gasification are designed and simulated, including a deep shift with 95% of CO conversion and no shift. The results show that the IGCC systems with the deep shift and without the deep shift based on the Shell gasification has the thermal efficiency of 41.8% and 34.8% respectively. The advantage of the system with the deep shift is that can greatly decrease CO2 vent. The ratio of carbon capture to total carbon is 92.5%. However, to the IGCCs with no shift, this ratio is 0.2%.
+KEY WORDS：IGCC, simulation, coal gasification, shift
+
+
+
+
+
+
+Texaco气化炉合成气的影响因素及优化（31-35）
+王艳玲1)马素霞2)
+1) 硕士生；2) 教授、博士生导师，太原理工大学电气与动力工程学院，030024太原
+摘要：Texaco气化炉内发生着强烈的传热、传质过程和复杂的化学反应，以质量守恒、能量守恒和化学反应平衡为基础，建立了Texaco气化炉的简化平衡模型.运用Labview软件强大的数学计算和分析功能进行编程，仿真研究了不同水煤浆浓度和氧煤比下合成气各组分的含量，仿真结果与相关实验结果吻合较好.以合成气有效成分（CO+H2）的含量为目标函数，对气化参数进行了优化.研究结果对气化炉的工业操作具有理论指导意义.
+关键词：气化炉，平衡模型，优化，合成气，有效成分
+INFLUENCING FACTORS AND OPTIMIZATION OF SYNTHESIS GAS FOR TEXACO GASIFIER
+Wang Yanling and Ma Suxia
+(Institute of Electrical and Power Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：Intensive heat transfer, mass transfer and complex chemical reactions have been occurred in Texaco gasifier. In this paper, based on mass balance, energy balance and chemical equilibrium, a simplified mathematical model has been established for Texaco gasifier, and using the powerful Labview software, the effect of coal-water slurry concentration and oxygen-coal ratio on the content of each synthesis gas component are  simulated, the simulation results agree well with the experimental results, and also taking the content of the effective ingredient (CO+H2) of synthesis gas as an objective function, the gasification parameters are optimized. This study provide technical support for the optimization operation of industrial Texaco gasifier.
+KEY WORDS：gasifier, equilibrium model, optimization, synthesis gas, effective ingredients
+
+
+
+
+
+
+小龙潭褐煤流化床气化灰熔聚物的熔融特性（36-40）
+李风海1)黄戒介2)房倚天2)王洋2)
+1) 博士生，中国科学院研究生院，100039北京；中国科学院山西煤炭化学研究所，030001太原；2) 研究员、博士生导师，中国科学院山西煤炭化学研究所，030001太原
+摘要：为探索小龙潭褐煤气化灰熔聚物及结渣的熔融特性，采用化学分析法和X射线衍射法从煤灰成分和矿物质组成的角度分析了气化炉结渣、灰熔聚物和矸石灰熔融性差异的原因.结果表明，炉内结渣的灰熔点最低，灰熔聚物居中，矸石灰最高.灰分中总碱性组分含量由结渣、灰熔聚物到矸石灰依次减少，导致三种物质的灰熔点依次增加.钙黄长石和钙长石等含钙化合物间形成低熔点共融物是结渣灰熔点低的原因；矸石灰中石英石的含量明显高于灰熔聚物，与矸石灰中莫来石的“骨架”作用导致矸石灰的灰熔点比灰熔聚物高.三种物质灰熔融性差异是由于流化床气化过程中矿物质的迁徙转化引起的.
+关键词：小龙潭褐煤，流化床气化，灰熔聚物，熔融特性
+FUSION CHARACTERISTICS OF AGGLOMERATES FROM XIAOLONGTAN LIGNITE FLUIDIZED-BED GASIFICATION
+Li Fenghai1,2Huang Jiejie1Fang Yitian1 and Wang Yang1
+(1.Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan; 2.Graduate School of Chinese Academy of Sciences, 100039 Beijing)
+ABSTRACT：In order to understand the fusion characteristics of the agglomerates from the fluidized-bed gasification, the experiment was conducted to investigate the differences of ash fusion temperatures (AFTs) of the slag in the gasifier, spherical agglomerates and coal gangue ashes. It was analyzed from the aspects of coal ash ingredients and mineral crystal phase composition by chemical analysis and X-ray diffraction method (XRD). The results show that the AFTs of three ash residues are elevated from slag, spherical agglomerates to coal gangue ashes. The changes of ash compositions contribute to the variations of AFT, the decreasing of the total basic composition in three ash residues make AFTs increase, and vice versa. Low temperature molten matrix formed by gehlenite, anorthite and other calcium compounds make the AFTs of slag lower than the other two; the content of quartz in coal gangue ashes is higher that of spherical agglomerates and the skeleton role of mullite lead to the AFT of coal gangue ashes is higher than that of spherical agglomerates. The fusion characteristics differences of three ash residues are mainly caused by the migration and conversion during the process of Xiaolongtan lignite fluidized-bed gasification.
+KEY WORDS：Xiaolongtan lignite, fluidized bed gasification, agglomerates, fusion characteristics
+
+
+
+
+
+旁通式循环流化床脱硫塔脱硫特性的数值模拟（41-45）
+唐强1)侯世锋2)张晓琴2)
+1) 副教授、硕士生导师，重庆大学动力工程学院；重庆大学低品位能源利用技术及系统教育部重点实验室，400030重庆；2) 硕士生，重庆大学动力工程学院，400030重庆
+摘要：应用标准k-ε模型、DPM模型和物质输运与化学反应模型求解了一台旁通式循环流化床脱硫塔内的动量、能量及组分方程，模拟结果和实验数据符合较好.模拟研究了两种脱硫塔的脱硫效率和流动阻力，进一步研究了空床气速和循环倍率对旁通脱硫塔脱硫效率的影响.结果表明，旁通式脱硫塔的脱硫效率和阻力特性要优于无旁路脱硫塔；旁通式脱硫塔的脱硫效率随空床气速的增加呈现先略有增加后降低的趋势；当循环倍率从20增大到50时，脱硫效率随之有明显的增加，当循环倍率大于50时，脱硫效率随循环倍率的增大略有增加.
+关键词：循环流化床，烟气脱硫，脱硫塔，脱硫效率，数值模拟
+NUMERICAL SIMULATION OF DESULFURIZATION CHARACTERISTICS IN CFB DESULFURIZATION TOWER WITH BYPASS
+Tang Qiang1,2Hou Shifeng1 and Zhang Xiaoqin1
+(1.School of Power Engineering, Chongqing University, 400030 Chongqing; 2.Key Laboratory of Low-grade Energy Utilization Technologies and Systems, Ministry of Education, 400030 Chongqing)
+ABSTRACT：Momentum, energy and composition equations of a new CFB desulfurization tower with gas bypass are solved by standard k-ε model, DPM, species transport and finite-rate chemistry model, and numerical simulation results agree well with the experimental results. The characteristics of desulfurization and flow resistance of two desulfurization towers are researched by numerical simulation, and the influence of gas velocity and circulation rate to desulfurization efficiency of bypassing desulfurization tower is also researched. The results show that both desulfurization and flow resistance characteristics of bypassing desulfurization tower are better than those of non-bypassing desulfurization tower. When gas velocity increases, desulfurization efficiency of bypassing desulfurization tower slightly increases and then decreases; desulfurization efficiency increases clearly when circulation rate of desulfurizing agent increases from 20 to 50, but it only has a slight increase when circulation rate is more than 50.
+KEY WORDS：CFB, flue gas desulfurization, CFB tower, desulfurization efficiency, numerical simulation
+
+
+
+
+
+
+连续式超临界水中褐煤-焦化废水共气化制氢（46-50+54）
+左洪芳1)杜新2)吕永康3)张荣4)毕继诚5)
+1) 硕士生；3) 教授，煤科学与技术教育部和山西省重点实验室，太原理工大学，030001太原；2) 博士生，中国科学院研究生院，100039北京；中国科学院山西煤炭化学研究所，030001太原；4) 副研究员、硕士生导师；5) 研究员、博士生导师，中国科学院山西煤炭化学研究所，030001太原
+摘要：采用连续式超临界水反应装置，以褐煤和焦化废水配制的水煤浆为原料，考察了温度(450 ℃~600 ℃)和水煤浆浓度(20%~50%)对褐煤-焦化废水在超临界水中连续气化制氢的影响.结果表明，在褐煤-焦化废水超临界水共气化制氢过程中，存在明显的协同效应.在浆浓度为20%，600 ℃，25 MPa条件下，褐煤焦化废水共气化的氢气产率和碳气化率比相同条件下二者单独气化的加权平均值分别增加了141.9 mL/g和6.1%.反应温度是影响褐煤焦化废水超临界水共气化制氢的关键因素，随着反应温度从450 ℃提高到600 ℃，氢气的体积分数与产率分别由21.5%和85.3 mL/g增加到42.3%和371.8 mL/g，碳气化率由18.2%增大到29.8%.碳的气化率随水煤浆浓度的升高而降低，最高进浆浓度可达50%（质量分数），无堵塞现象发生.
+关键词：连续式反应器，褐煤，焦化废水，超临界水，氢气
+CONVERSION OF LIGNITE AND COKING WASTE WATER TO HYDROGEN IN SUPERCRITICAL WATER
+Zuo Hongfang1Du Xin2,3Lü Yongkang1Zhang Rong3 and Bi Jicheng3
+(1.Key Laboratory of Coal Science and Technology, Ministry of Education and Shanxi Province, Taiyuan University of Technology, 030001 Taiyuan; 2.Graduate School of the Chinese Academy of Sciences, 100049 Beijing; 3.State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan)
+ABSTRACT：Hydrogen production from lignite and coking waste water was performed in a continuous supercritical water reactor with feeding of coal water slurry. The effects of reaction temperature (450 ℃-600 ℃) and slurry concentration (20%-50%) were investigated. The results showed that the hydrogen yield and coal gasification efficiency in the co-gasification of lignite and coking waste water were higher than the separate gasification of them at the same conditions; the reaction temperature was a key parameter in the co-gasification, and the hydrogen concentration and yield increased from 21.5% and 85.3 mL/g to 42.3% and 371.8 mL/g by increasing the temperature from 450 ℃ to 600 ℃; 50% coal-water-slurry was continuously transported and stably gasified without plugging problems; carbon gasification efficiency of the co-gasification increased by increasing temperature and decreasing the slurry concentration.
+KEY WORDS：continuous, lignite, coking waste water, supercritical water, hydrogen
+
+
+
+
+工艺因素对神东煤直接液化性能的影响（51-54）
+艾军1)
+1) 硕士、工程师，煤炭科学研究总院北京煤化工研究分院，100013北京
+摘要：采用间歇式高压釜，模拟示范工程反应条件，在不同反应温度和停留时间下，考察了神东煤直接液化性能.结果表明，随着反应温度的提高，转化率增加，油产率先增加后降低，气产率增加，沥青质产率减少；随着停留时间的增加，转化率增加，油产率和气产率均增加，沥青质产率下降；适宜的反应温度和停留时间分别为455 ℃和120 min.
+关键词：高压釜，反应温度，停留时间，液化性能
+EFFECT OF TECHNOLOGY ON THE DIRECT LIQUEFACTION PERFORMANCE OF SHENDONG COAL
+Ai Jun
+(Beijing Research Institute of Coal Chemistry, China Coal Research Institute,100013 Beijing)
+ABSTRACT：The direct liquefaction performance of Shendong coal was systemactically investigated in a batch autoclave. The results showed that with increasing of temperature, the total conversion and gas yield are also increasing, PAA yield is decreasing, oil yield is increasing and then decreasing; with increasing of reaction time, the total conversion, gas yield and oil yield are also increasing, PAA yield is decreasing; the suitable reaction temperature is 455 ℃, and reaction time is 120 min.
+KEY WORDS：autoclave, temperature, reaction time, liquefaction performance
+
+
+
+
+
+
+
+氢气在烃类混合溶剂中高压溶解度的测定（55-58+68）
+罗化峰1)郭剑虹2)凌开成3)张卫帅4)王顺华4)冯伟4)申峻5)
+1) 博士生；3) 教授、博士生导师（通讯作者）；4) 硕士生；5) 教授，太原理工大学化学化工学院，030024太原；2) 工程师，山西博康药业有限公司，030021太原
+摘要：为了研究氢气在煤液化油中的溶解规律和煤液化反应过程中的氢耗，选择煤液化油中几种代表性物质的混合组分十六烷四氢萘、四氢萘喹啉、十六烷喹啉作为溶剂，利用平衡液相取样法气体溶解度测定装置，测定了氢气在上述溶剂中不同温度和压力下的溶解度数据（453.15 K~623.15 K，1 MPa~10 MPa），同时给出了氢气在这些混合溶剂体系中的溶解度规律.利用数学模型lnxH2=-aT+bT+clnT+dlnPH2+e（式中参数可由氢气在相应溶剂中的溶解度数据关联得到）和P/N/A方法计算相关溶解度数据，发现该数学模型的计算预测值与实验值的平均绝对误差（η）在5.52%左右，而通过P/N/A方法的计算，预测值与实验值的平均绝对误差较大，这表明该数学模型在计算氢气在有机混合溶剂中的溶解度方面具有很好的应用价值.
+关键词：氢气，溶解度，煤液化油，数学模型，P/N/A方法
+DETERMINATION ON THE SOLUBILITY OF HYDROGEN IN HYDROCARBON MIXTURES AT HIGH PRESSURES
+Luo HuafengGuo Jianhong*Ling KaichengZhang Weishuai Wang ShunhuaFeng Wei and Shen Jun
+(College of Chemistry and Chemical Engineering, Taiyuan University of Technology, 030024 Taiyuan; *Shanxi Guardian Pharmaceutical Corporation Limited, 030021 Taiyuan)
+ABSTRACT：In order to research the regular pattern of hydrogen dissolved in coal liquefied oil and hydrogen consumption in the coal direct liquification process, data on the high-pressure solubility of hydrogen in hexadecane-1,2,3,4-tetrahydronaphthalene, 1,2,3,4-tetrahydronaphthalene-quinoline, hexadecane-quinoline at temperatures from 453.15 K to 623.15 K and pres-sures from 1 MPa to 10 MPa were determined with an experiment-established apparatus that measured the solubility in vapor-liquid phase equilibrium sampling way. Meanwhile, the regular pattern of hydrogen dissolved was revealed in these mixed solvent system. A mathematical model based on Pierotti method and Henry law is proposed. Calculation of solubility of hydrogen in these mixed solvent system with the mathematical model that the expression of model is lnxH2=-aT+bT+clnT+dlnpH2+e, in which related parameters in model is obtained by regression of known solubility data for different solvents showed that the average absolute deviation(η) between regression values and experimental results is around 5.52%, while the average absolute deviation between calculation of solubility of hydrogen in these mixed solvent system with P/N/A model and experimental results is larger. The study indicated that the mathematical model has best application value in counting solubility of hydrogen in organic solvent mixtures.
+KEY WORDS：hydrogen, solubility, coal liquefied oil, the mathematical model, the P/N/A model
+
+
+
+
+
+煤焦油超临界甲醇抽提反应过程特性的研究（59-63）
+何选明1)李铁鲁2)王宽强3)秦瑾2)张华军2)
+1) 教授；2) 硕士生，武汉科技大学湖北省煤转化与新型炭材料重点实验室，430081武汉；3) 助理工程师，济宁碳素集团公司，272100山东济宁
+摘要：在间歇式高压反应釜中，用超临界甲醇对高温煤焦油进行抽提处理，并对产物进行族组分分离，考察温度、压力和时间等反应条件对反应过程特性的影响，用元素分析仪和FT-IR对富集产物进行分析.结果发现，在实验条件下，用超临界甲醇对高温煤焦油进行处理，可以在温和条件下使煤焦油实现一定程度的轻质化，轻油收率从原料煤焦油的65.10%升高至78.19%，H/C比原煤焦油中轻油组分提高了28.24%，比原煤焦油提高了109.62%.压力和温度对产物的分布影响很大，温度的升高不利于轻油组分收率的增加；升高压力，可以得到更多的轻油组分.反应时间对产物分布的影响不大.FT-IR表明，通过超临界抽提，可以使大量高附加值产品在轻油组分中得以富集，有利于煤焦油进一步的加工利用.
+关键词：煤焦油，超临界，甲醇，FT-IR
+STUDY ON THE REACTION PROPERTIES OF COAL TAR IN SUPERCRITICAL METHANOL
+He XuanmingLi TieluWang Kuanqiang*Qin Jin and Zhang Huajun
+(Hubei Key Laboratory of Coal Conversion and New Materials, Wuhan University of Science and Technology, 430081 Wuhan; * Ji’ning Carbon Group Corporation Limited, 272100 Ji’ning, Shandong)
+ABSTRACT：In the batch autoclave, high temperature coke-oven coal tar was extracted by supercritical methanol, and separated products using clan component separation, investigated the affect to the reaction characteristics impacted by reaction conditions such as temperature, pressure, time, etc. and analyzed the enrichment products with FTIR and elemental analyzer. The results showed that processing high temperature coal tar with supercritical methanol, coal tar in mild conditions can be upgraded in some extent, the yield of light oil was up to 78.19% comparing with 65.10% from coal tar in raw materials, H/C ratio increased 28.24% comparing with the light oil in raw coal tar and increased 109.62% comparing with the raw coal tar pressure and temperature have a great influence on the distribution of the product. The rising temperature is not conducive to increasing the yield of light oil fractions; lifting pressure can gained more light oil component; reaction time has little effect on product distribution in experimental conditions. FT-IR shows that after supercritical extraction, a large number of high value-added products can be enriched in the light oil fractions and that is conducive to further processing and utilization of coal tar.
+KEY WORDS：coal tar, supercritical, methanol, FT-IR
+
+
+
+
+
+
+一种预测煤焦油产率的新方法（64-68）
+晁伟1)苏展1)李东涛2)卢海麟3)
+1) 博士、工程师；2) 高级工程师，首钢技术研究院，100043北京；3) 工程师，首钢股份公司焦化厂，100041北京
+摘要：煤焦油是焦化企业的主要化工产品，其产量对焦化厂效益有着重要影响.通过对多种炼焦煤资源的考察，找出影响单种煤焦油产率的若干因素，并分析比较了各煤种挥发分、黏结指数和有机显微组分含量等参数对其焦油产率的影响.结合多个参数定义一个新指标——焦油指数，使用该指标表征单种煤的焦油产率，准确度优于其他任何单一参数.根据上述研究结果提出了配合煤焦油产率的预测方法，即配煤的焦油产率可以通过各单种煤的焦油产率和配煤比例加权得出.
+关键词：煤焦油，焦油指数，挥发分，黏结指数，有机显微组分
+A NEW METHOD TO ANTICIPATE THE COAL TAR YIELD
+Chao WeiSu ZhanLi Dongtao and Lu Hailin*
+(Shougang Research Institute of Technology, 100043 Beijing; * Shougang Coking Plant, 100041 Beijing)
+ABSTRACT：Coal tar is the major chemical product of coking plant, so its yield has great influence on the benefit of coking plants. By studying different kinds of single coal, several factors such as volatile component, caking index and macerals were found to affect the tar’s yield. The tar index which contained the above three parameters was first defined and was proved to be effective to characterize the tar’s yield of single coal. According to above research, a new method was proposed to anticipate the tar yield of blending coal.
+KEY WORDS：coal tar, tar index, volatile component, caking index, macerals
+
+
+
+
+
+KOH-水蒸气活化法制煤基活性炭和氢气的研究（69-72）
+杨晓霞1)周安宁2) 
+1) 硕士、助教，延安大学化工学院，716000延安；2) 教授、博士生导师，西安科技大学化学与化工学院，710054西安
+摘要：以神府3#煤为原料，采用KOH-水蒸气活化法制备了煤基活性炭和氢气.考察了浸渍比、活化温度、活化时间对活性炭吸附性能和活化过程中氢气产量的影响，并对其活化机理进行了探讨.结果表明，活性炭碘值、亚甲基蓝值以及氢气产量受这些工艺参数影响很大，当浸渍比为0.5，活化温度为700 ℃，单元活化时间为10 min时，所制得的活性炭性能较好，碘值达到837 mg/g，亚甲基蓝吸附值达到431 mg/g，此时H2产量约33.1 mmol/g煤.
+关键词：活性炭，氢气，耦合活化，煤
+STUDY ON A NEW METHOD FOR PREPARATION OF COAL-BASED ACTIVATED CARBON CONBINED WITH HYDROGEN
+Yang Xiaoxia and Zhou Anning*
+(College of Chemistry and Chemical Engineering, Yan’an University, 716000 Yan’an, Shaanxi; * College of Chemistry and Chemical Engineering, Xi’an University of Science and Technology, 710054 Xi’an)
+ABSTRACT：Activated carbons and hydrogen were prepared by KOH activation combined with steam activation from Shenfu 3# coal. Effects of ratio of KOH to the coal, heat treatment temperature, activation time on activated carbons performance  and hydrogen product were studied. Activation mechanism was also discussed. The results indicated that iodine number is 837 mg/g, methylene blue adsorption value is 430 mg/g with the activated carbon prepared at 700 ℃ for unit activation time 10 min, with addition of KOH whose ratio to the coal is 0.5. Under the same condition, about 33.1 mmol for each gram of coal is released during the activation.
+KEY WORDS：activated carbon, hydrogen, couplingactivation, coal
+
+
+
+
+
+
+丙二醇氢氧化钾脱除煤中有机硫的研究（73-75）
+徐龙君1)张丁月2)刘科2)张福凯3)
+1) 教授、博士生导师；2) 硕士生；3) 博士生，重庆大学西南资源开发及环境灾害控制工程教育部重点实验室，400044重庆
+摘要：以重庆万盛高硫煤作为研究对象，选用硝酸预处理去除无机硫，并采用单因子法考察了煤浆浓度、反应时间、反应温度、丙二醇与氢氧化钾的配比对煤中有机硫脱除率的影响.结果表明，对于粒径小于0.075 mm的煤样，丙二醇氢氧化钾脱除煤中有机硫的适宜条件为：煤浆浓度0.05 g/mL，反应时间90 min，反应温度180 ℃，丙二醇与氢氧化钾的配比为1∶1.在此条件下，有机硫从0.72%降到0.35%，脱除率为51.4%.
+关键词：煤，有机硫，脱硫率，丙二醇，氢氧化钾
+STUDY ON REMOVAL OF ORGANIC SULFUR FROM COAL WITH 1，2-PROPANEDIOL-POTASSIUM HYDROXIDE
+Xu LongjunZhang DingyueLiu Ke and Zhang Fukai
+(Key Laboratory for the Exploitation of Southwest Resources and Environmental Disaster Control Engineering, Ministry of Education, Chongqing University, 400044 Chongqing)
+ABSTRACT：The removal behavior of organic sulfur in Wansheng high sulfur coal has been investigated. The inorganic sulfur has been removed by nitric acid. The effects of the concentration of coal slurry, the extraction time and temperature, the ratio of 1,2-propanediol to potassium hydroxide on desulfurization efficiency were studied in single factor method. The optimized desulfurization conditions were concentration of coal 0.05 g/mL, reaction time 90 min, reaction temperature 180 ℃ and 1∶1 volume ratio of 1,2-propanediol to potassium hydroxide, as coal granule size was 0.075 mm. Under these conditions, the organic sulfur has come down from 0.72% to 0.35%, and the coal defulfurization efficiency can come up to 51.4%.
+KEY WORDS：coal, organic sulfur, desulfurization ratio, 1,2-propanediol, potassium hydroxide
+
+
+
+
+粉煤灰合成沸石去除废水中铜离子的研究（76-81）
+周托1)张忠孝2)乌晓江3)潘伟平4)
+1) 博士生；2) 教授、博士生导师；3) 博士后，上海理工大学能源与动力工程学院，200093上海；4) 教授，西肯塔基大学燃烧科学与环境技术研究所，42101美国肯塔基
+摘要：粉煤灰通过碱熔融预处理，采用水热法(HT)和微波辅助水热法(MW)均合成了单一的NaP1型沸石，研究了溶液pH值和吸附时间对两种沸石产品去除废水中铜离子效果的影响，探讨了沸石产品去除铜离子的吸附机理.研究表明，合成的两种沸石产品对铜离子具有较强的脱除能力，pH值为6，沸石用量10 g/L，吸附30 min时，铜离子去除率均可达95%以上.铜离子的吸附过程符合Langmiur吸附等温方程式，两种沸石产品的静态饱和吸附量分别为70.08 mg/g和53.30 mg/g.
+关键词：粉煤灰，NaP1沸石，铜离子，吸附等温线
+REMOVAL OF Cu2+ FROM WASTE WATER BY ZEOLITE SYNTHESIZED FROM COAL FLY ASH
+Zhou TuoZhang ZhongxiaoWu Xiaojiang and Pan Weiping*
+(School of Energy and Power Engineering, University of Shanghai for Science and Technology, 200093 Shanghai; * Institute of Combustion Science and Environment Technology, West Kentucky University, 42101 Kentucky, US)
+ABSTRACT：Single-phase NaP1 zeolite(ZFA) was synthesized through hydrothermal method(HT) and microwave assisted hydrothermal method(MW) from coal fly ash(CFA) pretreated by Na2CO3 fusion, the effects of pH value and adsorption time on the Cu2+ removal efficiency were investigated. The results showed that the two ZFAs through HT and MW also have high removal efficiency of Cu2+, at 25 ℃, solution pH value of 6, sorbent dose of 10 g/L, and contact time of 30 min, the Cu2+ removal efficiency is over 95%. The adsorption of Cu2+ on the two ZFAs fits the Langmuir isotherm well and the greatest adsorption capacity of HT-ZFA and MW-ZFA was 70.08 mg/g and 53.30 mg/g.
+KEY WORDS：coal fly ash, NaP1 zeolite, Cu2+, adsorption isotherm
+
+
+
+
+过渡金属改性USY催化低浓度乙醇脱水制乙烯（82-85+90）
+王桂云1)温健1)张晔2)赵亮富2)
+1) 硕士生，中国科学院研究生院化学与化工学院，100039北京；中国科学院山西煤炭化学研究所应用催化与绿色化工实验室，030001太原；2)  副研究员，中国科学院山西煤炭化学研究所应用催化与绿色化工实验室，030001太原
+摘要：在固定床反应器中考察了USY(超稳Y分子筛)和过渡金属改性USY催化低浓度乙醇脱水制乙烯反应，并通过BET，XRD和NH3-TPD等手段对改性前后的催化剂进行表征.结果表明，Co/USY的催化反应性能较好.当硝酸钴浸渍液质量分数为3%时，催化反应效果最好，乙醇转化率达到93.2%，乙烯选择性达到95.7%.Co/USY催化低浓度乙醇脱水制乙烯反应中乙烯的选择性对反应温度敏感，乙烯选择性由220 ℃的24.0%骤然提高到250 ℃的95.7%，在280 ℃时乙烯选择性达到100%.并且考察了Co/USY的初期稳定性，发现在反应102 h后催化剂仍具有良好的活性.
+关键词：低浓度乙醇，乙烯，USY，过渡金属
+CATALYTIC DEHYDRATION OF HYDROUS ETHANOL TO ETHYLENE ON USY ZEOLITE MODIFIED BY TRANSITION METALS
+Wang Guiyun1,2Wen Jian1,2Zhang Ye1 and Zhao Liangfu1
+(1.Laboratory of Applied Catalysis and Green Chemical Engineering, Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan; 2.College of Chemistry and Chemical Engineering, Graduate University of Chinese Academy of Sciences, 100049 Beijing)
+ABSTRACT：USY and transition metal modified USY (M/USY) were used as catalyst to investigate the dehydration of low concentration ethanol to ethylene. The physical and chemical properties of the catalysts were characterized by nitrogen adsorption-desorption (BET), X-ray powder diffraction (XRD) and ammonium temperature-programmed desorption (NH3-TPD) techniques. The catalytic performance reached the best value when the cobalt concentration as 3% at ethanol concentration of 20%(percent of volume), reaction temperature at 250 ℃ and the weight hourly space velocity (WHSV) of 2.37 h-1. Temperature of reaction had a significant impact on the ethylene selectivity，and which increased from 24.0% of 220 ℃ to 95.7% of 250 ℃. When temperature is 280 ℃, the ethylene selectivity is up to 100%. The catalyst Co/USY has fine stablility and high activity after reacting 102 h.
+KEY WORDS：low concentration ethanol，ethylene，USY，transition metals
+
+
+
+
+
+气化炉排灰用于焦化废水处理的研究（86-90）
+张继柱1)张永奇2)王洋3)
+1) 硕士生，中国科学院研究生院，100049北京；中国科学院山西煤炭化学研究所，030001太原；2) 副研究员；3) 研究员、博士生导师，中国科学院山西煤炭化学研究所，030001太原
+摘要：利用预处理后的气化炉排灰对焦化废水进行了深度处理，通过吸附实验研究了处理焦化废水的工艺条件，并对其吸附原理进行了初步探讨.研究结果表明，通过筛分和浮沉实验能够有效分离出灰分，富集排灰中的富含碳灰渣，其含碳量可达到80%；富含碳灰渣具有较快的吸附速率，在2 h左右达到吸附饱和；富含碳灰渣用量为30 g/L时CODCr去除率可达到88%；Freundlich吸附等温式能较好地描述吸附过程.富含碳灰渣具有较大比例的中孔结构，有利于吸附处理焦化废水，吸附速率大.
+关键词：灰渣，富集，半焦，焦化废水，吸附
+STUDY ON COKING WASTE WATER TREATMENT BY SLAG AFTER GASIFICATION
+Zhang Jizhu1,2Zhang Yongqi1 and Wang Yang1
+(1.Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan; 2.Graduate University of Chinese Academy of Sciences, 100049 Beijing)
+ABSTRACT：The research on the thorough treatment of the coking waste water has been carried out with slag of gasifier by pretreatment, in which the process condition of treating coking waste water was studied and the adsorption principle was preliminarily investigated. The results show that carbon-containing materials could be concentrated and ash could be separated effectively by screening and float-sink test and the content of carbon could reach 80%. The adsorption process had a big adsorption rate and reached adsorption saturation in 2 h. The removal rate of chemical oxygen demand could reach 88% when the concentration of carbon-rich slag was 30 g/L. The adsorption process could be described well with Freundlich isotherms equation. The char with the larger proportion mesopore was beneficial to adsorb the coking waste water, which had a bigger adsorption rate.
+KEY WORDS：slag, concentration, char, coking waste water, adsorption
+
+
+
+
+
+煅烧活化对页岩残渣中SiO2利用率的影响（91-96）
+许英梅1)王冬梅2)何德民3)史家伟4)关珺5)张秋民6)
+1) 副教授，大连民族学院生物技术与资源利用国家民委教育部重点实验室/能源化工研究所，116600大连；2) 硕士；3) 工程师；4) 硕士生；5) 讲师；6) 教授，大连理工大学化学化工学院，116012大连
+摘要：以油页岩三种工艺过程产生的残渣（油页岩固体热载体法干馏半焦、油页岩抚顺炉法干馏半焦和油页岩电厂循环流化床细渣）为研究对象，结合不同煅烧温度下的XRD特征研究了煅烧温度、煅烧时间和反应粒度对SiO2利用率的影响规律.结果表明，只有油页岩固体热载体半焦需要煅烧活化，850 ℃下煅烧0.5 h可获得SiO2最大碱浸出率为80%；抚顺炉干馏半焦和热电厂灰渣勿需煅烧活化，其SiO2利用率分别约为75%和60%.
+关键词：页岩残渣，煅烧活化，SiO2利用率，XRD
+INFLUENCE OF CALCINATION ON SiO2 UTILIZATION RATIO OF OIL SHALE RESIDUES
+Xu YingmeiWang Dongmei*He Demin*Shi Jiawei*Guan Jun* and Zhang Qiumin*
+(College of Life Science, Dalian Nationalities University, 116600 Dalian, Liaoning; * School of Chemical Engineering, Dalian University of Technology, 116012 Dalian, Liaoning)
+ABSTRACT：The aim of the present study was to experimentally investigate the influence of calcination on SiO2 utilization ratios of oil shale residues. Three kinds of residues were selected from different processing methods including retorting carbocoal by solid heat carrier method, retorting carbocoal of Fushun-type and fine residues from a circulating fluidized-bed of a power station. Effects of calcination temperature, calcination time and particle size were analyzed with XRD patterns. Results show that a maximum SiO2 leaching rate of 80% can be received from the carbocoal by solid heat carrier method after calcination activation at 850 ℃ for 0.5 h, while those for the carbocoal of Fushun-type and residues from a power station are 75% and 60% respectively, without the need of calcinations.
+KEY WORDS：oil shale residue，calcination，utilization ratio of SiO2，XRD pattern
+
+同步溶胀-担载催化剂对烟煤-重油共炼的影响（1-6）
+戈军1)石斌2)郭龙德3)郭智慧3)田华4)张建芳5)
+1) 博士生、教授级高级工程师，中国石油大学（华东）重质油国家重点实验室，266555山东青岛；中国神华煤制油化工工程公司，100011北京；2) 博士、副教授；3) 硕士生；5) 教授、博士生导师，中国石油大学（华东）重质油国家重点实验室，266555山东青岛；4) 博士、工程师，中国神华煤制油化工工程公司，100011北京
+摘要：以Fe(NO3)3和Na2S分别作为催化剂前体和原位硫化剂，在20 ℃下分别用水、甲醇（M）、N-N二甲基甲酰胺（DMF）和二甲亚砜(DMSO)对神华烟煤溶胀12 h，同步溶胀担载催化剂后的烟煤脱除溶剂后与轮古常渣（LGAR）和杜84超稠油（Du84）在2∶1油煤质量比，8 MPa冷氢压，420 ℃，1 h的条件下进行加氢共处理.结果表明，神华烟煤经过溶胀处理后与两种重油共处理的液化率都明显提高，煤的转化率明显增大；三种有机溶胀剂相比，DMF同步溶胀促进液化效果最好，其次为DMSO，甲醇最差.两种配油相比，Du84比LGAR更适合煤-重油共处理.XRD分析表明，同步溶胀担载法制备的溶胀煤载铁催化剂以非晶态和高分散的状态存在于溶胀煤表面，在共处理中催化剂最终转化为Fe1-xS.在煤-重油共处理中，经DMF同步溶胀-担载的催化剂失活，结晶相对不明显.
+关键词：烟煤，溶胀处理，煤-重油共处理，催化剂，铁盐
+EFFECT OF COAL-SWELLING AND SYNCHRONOUSLY SUPPORTED CATALYSTS ON COPROCESSING OF BITUMINOUS COAL AND HEAVY OILS
+Ge Jun1,2Shi Bin1Guo Longde1Guo Zhihui1Tian Hua2 and Zhang Jianfang1
+(1.State Key Laboratory of Heavy Oil, China University of Petroleum, 266555 Qingdao，Shandong；2.China Shenhua Coal to Liquid and Chemical Company, 100011 Beijing)
+ABSTRACT：Fe(NO3)3 as catalytic precursor and Na2S as in-situ presulfurizer were impregnated on the Shenhua bituminous coals which were synchronously swollen with H2O, methanol, N-N dimethylformamide （DMF） or dimethyl sulfoxide（DMSO） at 20 ℃ for 12 h. Then the swollen coals were prepared by vacuum drying. The co-processing of swollen Shenhua coal and two heavy oils（LGAR and Du84） was carried on under the condition of the mass ratio of 2∶1 oil to coal, 8 MPa cold hydrogen pressure，420 ℃and 1 h. The coprocessing of the swollen bituminous coal and LGAR or Du84 was significantly improved on the coal liquefaction. Among the three swelling solvents, the improvement of DMF was the highest, that of DMSO was the better and methanol were the lowest. Du84 was favor in the coprocessing than LGAR. By XRD analysis, the iron catalysts on the swollen coal with Fe(NO3)3 synchronously impregnated with the solvents were amorphous and highly dispersed on coal surface and could transform into Fe1-xS in the coprocessing. During the coprocessing, the deactivation of the catalyst synchronously impregnated on swollen coal with DMF was not clear.
+KEY WORDS：bituminous coal, swelling treatment, coprocessing of coal and oils, catalysts, ironic salt
+
+
+
+
+微波场中长焰煤与焦煤共热解实验研究（7-10+26）
+宋永辉1)苏婷2)兰新哲3)裴建军2)
+1) 副教授、硕士生导师；2) 硕士生；3) 教授、博士生导师，西安建筑科技大学冶金工程学院，陕西省冶金工程技术研究中心，710055西安
+摘要：对王家沟（WJG）长焰煤和焦煤（JM）两种原料煤进行了微波共热解实验研究，考察了两种煤配比不同时热解产物的收率及成分变化.结果表明，微波热解条件下，随着混煤中JM比例的增大，焦油收率在逐渐减少,而固体焦的灰分含量与硫含量逐渐增加.SEM照片也表明，固体焦表面的微孔结构越来越多,微孔的边界越来越清晰.煤气中CO2，CO，CH4和CnHm含量在3 min以前随热解时间的延长均逐渐增加，随后逐步减少.随着混煤中JM配比的增大，热解煤气中CO2和CO含量逐渐减少，但CH4和CnHm含量在3 min以前变化不是很明显，在3 min~15 min区间逐渐增加.
+关键词：低变质煤，焦煤，微波，热解，煤气
+MICROWAVE CO-PYROLYSIS STUDY ON LONG FLAME COAL AND COKING COAL
+Song YonghuiSu TingLan Xinzhe and Pei Jianjun
+(School of Metallurgical Engineering,Xi’an University of Architecture and Technology,710055 Xi’an;Shanxi Research Center of Metallurgical Engineering Technology,710055 Xi’an)
+ABSTRACT：The microwave co-pyrolysis of Wangjiagou (WJG) long flame coal and coking coal (JM) were carried out in this study to know about the changes of yield and composition of coal pyrolysis product with the different ratio of two raw coals. The results showed that under microwave pyrolysis conditions, the tar yield was gradually reduced with the proportion of JM coal increases, while the ash content and sulfur content of solid coke increased, and the SEM pictures showed the area of porous surface in the solid structure of coke was bigger, the porous borders became increasingly clear. The content of CO2, CO, CH4, and CnHm were gradually increased with the pyrolysis time before 3 min then started to decreased. With the JM mixing ratio increase, the CO2, CO levels have diminished, but the change of CH4 and CnHm content was not obvious before 3 min, while increased in the 3 min-15 min interval.
+KEY WORDS：low rank coal, coking coal, microwave, pyrolysis, gas
+
+
+
+
+
+
+煤显微组分结构特征及其与热解行为的关系（11-16）
+王传格1)张妮3)陈燕2)
+1) 博士生;2)硕士,赛鼎工程有限公司，030006；3)硕士生,太原理工大学地球科学与工程系；煤科学与技术教育部及山西省重点实验室，030024太原
+摘要：利用XRD和FTIR对平朔煤和神东煤的惰质组和镜质组结构进行了测试，并利用TG/MS对其热解脱挥发分行为进行了升温速率为20 ℃/min条件下的在线测试.通过XRD测定，揭示了煤的类石墨结构特征，计算了样品的晶格结构参数: d002，dγ，Lc，La，Me和fa.利用FTIR测定，计算了表征煤结构特征的三个重要参数：脂氢与芳氢比率、脂肪侧链的链长和芳香氢取代情况，揭示了样品的富氢程度、脂肪链的连接及芳核氢的取代情况.样品的热失重和挥发分析出行为与其结构特征相关，重点分析了C1~C4轻质烃类、氢气、苯和苯基的析出行为及机理.
+关键词：煤显微组分，XRD，FTIR，热解，生成机理
+RELATIONSHIP BETWEEN STRUCTURAL CHARACTERIZATION OF MACERALS AND THEIR THERMAL BEHAVIOR
+Wang Chuange1,2Zhang Ni3 and Chen Yan1，2
+(1. Department of Earth Science and Engineering, Taiyuan University of Technology,030024 Taiyuan；2. Key Laboratory of Coal Science and Technology, Ministry of Education and Shanxi Province,030024 Taiyuan；3.SEDIN Engineering Company Limited,030006 Taiyuan)
+ABSTRACT：XRD and FTIR have been applied to the investigatin of structural characterization of vitrinite and inertinite macerals of PS and SD coal,and the thermal devolatilisation behavior were seperated at heating rate of 20 ℃/min by TG/MS. XRD spectrum revealed the similar structure as graphite of coal and the crastallite structural parameters were determined: d002（nm）,dγ（nm）,Lc（nm）,La（nm）,Me and fa. The ratio of aliphatic hydrocarbon and aromatic hydrocarbon,the length of aliphatic hydrocarbon side chains and the substitutional condition of aromatic rings were determined by FTIR. This study reveals the rich hydrogen condition, aliphatic hydrocarbon side chains linking condition and the substitutional condition of aromatic rings of the sample. The TG and the thermal devolatilisation behavior have relation with the characterization of coal structure. The thermal devolatilisation behavior and generation mechanism of C1-C4  light hydrocarbon, hydrogen,benzene and phenyl were specially analyzed.
+KEY WORDS：coal maceral,XRD,FTIR,pyrolysis,generation mechanism
+
+
+
+
+
+基于SPSS分析褐煤热水干燥实验研究（17-20）
+侯英1)张文军2)孔令涛3)姜力波4)吕政超1)
+1) 硕士生；2) 教授、硕士生导师，辽宁工程技术大学资源与环境工程学院，123000辽宁阜新；3) 助理工程师，神华宁夏煤业集团有限责任公司宁东洗煤厂，750002银川；4) 工程师，大连工程地质勘察公司，116023辽宁大连
+摘要：为了发展褐煤综合利用技术和优化利用方法，应用正交筛选实验设计与均匀实验设计方法对霍林河褐煤进行了热水干燥的实验研究，并对正交筛选实验设计与均匀实验设计的结果应用SPSS11.5软件进行分析.确定了影响霍林河褐煤热水干燥的主要影响因素，大大减少了对高度不显著因素的实验研究，减少了实验次数，节约了实验成本和实验时间，并且确定了热水干燥主要影响因素与次要影响因素的最优实验水平.
+关键词：SPSS11.5，褐煤，热水干燥，正交筛选实验，均匀实验设计
+STUDY ON HOT WATER DRYING OF LIGNITE BASED ON SPSS
+Hou YingZhang WenjunKong Lingtao*Jiang Libo** and Lü Zhengchao
+(Institute of Resource and Environment Engineering, Liaoning Techanical University, 123000 Fuxin, Liaoning; * Ningdong Coal Preparation Plant, Shenhua Ningxia Coal Industry Group Company Limited, 750002 Yinchuan; ** Dalian Engineering Geological Investigation Company, 116023 Dalian,Liaoning)
+ABSTRACT：In order to develop the technology of lignite comprehensive utilization and create new methods to optimize the utilization, hot water drying of lignite of Huolinhe used the method of screening experiment of orthogonal and uniform design was studied. Meanwhile, the result of screening experiment of orthogonal and uniform design based on SPSS11.5  was analysed. The result find the main factors of hot water drying of lignite of Huolinhe, reduce the research on the factors which are not great important, reduce a lot of experiments, save the cost and time of experiments, and determine the optimized levels of main factors and secondary factors.
+KEY WORDS：SPSS11.5, lignite, hot water drying, screening experiment of orthogonal, uniform design
+
+
+
+
+
+不同变质煤热解和气化中燃料氮的转化规律（21-26）
+鞠付栋1)陈汉平2)杨海平3)王贤华4)杜奇5)张世红6)
+1) 博士生；2) 教授、博士生导师；3) 副教授；4) 讲师；5) 硕士生；6) 教授，华中科技大学煤燃烧国家重点实验室，430074武汉
+摘要：利用水平管式炉对不同变质程度煤进行了热解和气化实验，并利用傅里叶红外气体分析仪对热解和气化过程中主要含氮产物的释放规律进行了研究.结果发现，煤的变质程度对煤热解和气化过程中HCN的释放具有重要影响，而对NH3的释放影响较小.对于低变质程度煤来说，挥发分含量较高，而挥发分的深度裂解是HCN产生的主要来源.因此，低变质程度煤热解过程中转化为HCN的燃料氮份额高于高变质程度煤；对于不同变质程度煤在热解过程中转化为NH3的燃料氮份额则大致相当.对不同变质程度煤在CO2气氛条件下气化反应过程中含氮产物生成规律的研究发现，焦炭氮几乎全部转化为NO；转化为NH3的燃料氮份额有所增加；除印尼褐煤外，转化为HCN的燃料氮份额也有所增加；此外，对CO2气化过程中NO的生成机理进行分析，认为焦炭氮的直接氧化可能是NO产生的主要来源.
+关键词：氮，煤的变质程度，热解，气化
+FUEL-NITROGEN EVOLUTION OF DIFFERENT RANK COAL DURING PYROLYSIS AND GASIFICATION
+Ju FudongChen HanpingYang HaipingWang XianhuaDu Qi and Zhang Shihong
+(State Key Laboratory of Coal Combustion, Huazhong University of Science and Technology, 430074 Wuhan)
+ABSTRACT：Pyrolysis and gasification study of four different rank coals were carried out in a horizontal tube reactor, and the major nitrogenous products were analyzed by a FTIR gas analyzer. It is found that coal rank has a critical influence on fuel-nitrogen ratio converted to HCN during pyrolysis and gasification, while affects NH3 little. Because the deep decomposition of volatile is the major resource of HCN production, the lower rank coal has a higher volatile content which would lead a high HCN fuel-nitrogen ratio, but fuel-nitrogen ratio converted to NH3 is similar for different ranks coals. The different ranks coals gasification in CO2 atmosphere shows that, most of the char-nitrogen is converted to NO, and the fuel-nitrogen converted to NH3 is increased compared with pyrolysis in Ar atmosphere, and the fuel-nitrogen converted to HCN is increased for different ranks coals except Indonesia lignite. We analyzed NO production in CO2 gasification, and recognized the direct oxidation of char-nitrogen might be the major mechanism of NO production.
+KEY WORDS：nitrogen, coal rank, pyrolysis, gasification
+
+
+
+
+
+
+涌入水对煤炭地下气化影响的模型实验研究（27-30+40）
+姚凯1)刘洪涛2)潘霞2)王媛媛2)刘淑琴3)陈峰4)
+1) 学士；2) 硕士，煤基低碳能源国家重点实验室，065001河北廊坊；3) 博士、副教授，中国矿业大学化学与环境工程学院，100083北京；4) 博士、工程师，新奥气化采煤有限公司，065001河北廊坊
+摘要：涌入煤层的水量是煤炭地下气化过程中十分重要的影响因素，利用地下气化模型实验平台对涌水条件下的气化过程进行研究.结果表明，平均温度直接反应了煤气组分和热值的高低，煤气有效成分H2，CO，CH4和热值基本上与气化区平均温度呈正相关.在模型实验中，鼓风量和涌水量的最佳比值为2.5∶1，临界比值为1.4∶1，涌入水分解率基本稳定在10%，并且随着涌入水量的提高，分解率在下降，分解的水量基本不变.
+关键词：煤炭地下气化，涌入水量，鼓风量，温度场，煤气组分
+MODEL TEST ON WATER INFLOW OF UNDERGROUND COAL GASIFICATION (UCG)
+Yao KaiLiu HongtaoPan XiaWang YuanyuanLiu Shuqin* and Chen Feng**
+(State Key Laboratory of Coal-based Low Carbon Energy, 065001 Langfang, Hebei; * China University of Mining and Technology, 100083 Beijing; ** ENN Coal Gasification Mining Corporation Limited, 065001 Langfang, Hebei)
+ABSTRACT：The water inflow into coal seam is a very important influence factor of UCG, the process of UCG under water inflow was studied in this paper by UCG model test platform. The research shows that (the average of temperature field) could direct response the high or low of gas component and low heat-value. The relationship between gas component, low heat-value and  was positive correlation. In the model test, the optimal ratio of blast volume to influx water was 2.5∶1 and the critical ratio was 1.4∶1, the decomposition rate of water inflow was stable at 10%. With the improvement of velocity of water inflow, the decomposition rate of water  inflow was dropped, but the decomposition of the water was unchanged.
+KEY WORDS：UCG, water inflow, blast volume, temperature field, gas composition
+
+
+
+
+加压下煤焦与水蒸气的催化气化动力学研究（31-35）
+康守国1)李金来2)郑岩3)朱学艳3)毕继诚4)
+1) 硕士生，河北工业大学，300130天津；煤基低碳能源国家重点实验，065001河北廊坊；2) 教授级高级工程师；3) 工程师；4) 研究员，煤基低碳能源国家重点实验室，065001河北廊坊
+摘要：以K2CO3为催化剂，利用自行设计的加压固定床反应器进行了神木煤焦-水蒸气催化气化反应动力学研究，并采用n级速率方程和Langmuir-Hinshelwood速率方程考察了水蒸气分压的影响.系统压力为3.5 MPa，气化反应温度分别为600 ℃，650 ℃和700 ℃，其中600 ℃下水蒸气分压分别为1.24 MPa，1.83 MPa和2.88 MPa；650 ℃和700 ℃下的水蒸气分压分别为1.24 MPa，1.83 MPa和2.34 MPa．研究发现，随气化温度的提高和水蒸气分压的增加，煤焦的水蒸气气化反应活性明显提高.采用n级速率方程得到煤焦与水蒸气的反应级数为0.732，活化能为102.63 kJ/mol；采用L-H方程得到活化能为109.23 kJ/mol，其速率方程可以更精确地描述反应气体压力对气化反应的影响.
+关键词：煤焦，催化气化，加压，动力学
+REACTION KINETICS STUDY ON THE CHAR-STEAM CATALYTIC GASIFICATION UNDER PRESSURIZED CONDITIONS
+Kang Shouguo1,2Li Jinlai2Zheng Yan2Zhu Xueyan2 and Bi Jicheng2
+(1.Hebei University of Technology, 300130 Tianjin; 2.State Key Laboratory of Coal-based Low Carbon Energy, 065001 Langfang, Hebei)
+ABSTRACT：One kind of bituminus coal named Shenmu coal with potassium carbonate as catalyst was gasified with steam on a self-made pressurized fixed-bed reactor at pressure of 3.5 MPa. The steam partial pressure were 1.24 MPa, 1.83 MPa and 2.88 MPa at 600 ℃, while were 1.24 MPa, 1.83 MPa and 2.34 MPa at 650 ℃ or 700 ℃. A kinetic reaction equation was proposed based on an n order and Langmuir-Hinshewood expression by evaluation the carbon conversion behavior. The results showed that the gasification activities significantly increased with increasing of reaction temperature and steam partial pressure. In the n order expression, the order n was 0.732 and the activation energy was 102.63 kJ/mol; In the L-H expression, the activation energy was 109.23 kJ/mol. It was found that L-H expression was more accurate than the n order expression in describing the effect of steam partial pressure on reaction.
+KEY WORDS：coal char, catalytic gasification, high pressure, kinetics
+
+
+
+
+
+
+氢气在煤液化初始高活性阶段的作用机理（36-40）
+王顺华1)凌开成2)罗化峰3)冯伟1)申峻4)张卫帅1)王迎春3)
+1) 硕士生；2) 教授、博士生导师；3) 博士生；4) 教授、硕士生导师，太原理工大学化工学院，030024太原
+摘要：采用GJ-2型共振搅拌反应釜，首先研究了一定条件下煤液化转化率随时间的变化关系.结果表明，煤液化反应过程中存在着初始高活性反应阶段，而且煤在该阶段完成了绝大部分液化反应；接着研究了氢气在煤液化初始高活性阶段的作用机理.结果如下：1) 在无催化液化条件下，氢气在煤液化初始高活性阶段几乎不参与煤液化反应；2) 煤液化初始高活性阶段氢气能够快速溶解于煤液化溶剂中，因此氢气的溶解过程不是其未有效参与煤液化反应的主要原因；3) 在煤液化初始高活性阶段添加高分散性铁系催化剂和助剂硫，氢气在催化剂作用下参与了煤液化反应，进而使液化总转化率提高7%以上.
+关键词：氢气，初始高活性，液化，反应机理，氢气溶解规律，兖州煤
+REACTION MECHANISM OF HYDROGEN FOR INITIAL HIGH REACTIVITY OF COAL LIQUEFACTION
+Wang ShunhuaLing KaichengLuo HuafengFeng Wei Shen JunZhang Weishuai and Wang Yingchun
+(College of Chemistry and Chemical Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：In this paper, the reaction between total conversion and time was investigated by liquefaction of Yanzhou coal using a 17 mL tubular resonance agitation microautoclave reactor under certain condition. It was found that coal liquefaction existed an initial stage of high reactivity. During this stage, most of the liquefaction reaction was completed. Then the reaction mechanism of hydrogen for the initial high reactivity stage was studied by coal liquefaction. The results show that: 1) without catalyst, in the initial high reactivity stage of coal liquefaction,hydrogen could not participate coal liquefaction reaction; 2) in the initial high reactivity stage of coal liquefaction, hydrogen soluted in coal liquefaction solvent rapidly. Thus the main reason that hydrogen did not participate the liquefaction reaction effectively is not the solution process; 3) adding high dispersion iron catalyst with sulfur promoter in the initial high reactivity stage of coal liquefaction, hydrogen, activated by the catalyst impregnation, was able to participate coal liquefaction reaction. By which the total conversion increased more than 7 percent.
+KEY WORDS：hydrogen, initial high reactivity stage, liquefactionhydrogen solution, Yanzhou coal
+
+
+
+超声波辐射溶胀对煤炭直接液化性能的影响（41-43）
+孙德财1)范天博2)李雪3)刘云义4)
+1) 硕士生；2) 讲师；3) 副教授、硕士生导师；4) 教授、博士生导师，沈阳化工大学化学工程学院，110142沈阳
+摘要：为探讨超声波辐射溶胀在煤炭直接液化过程中的积极作用，以吡啶为溶胀剂对神华煤进行了超声波辐射条件下的溶剂溶胀处理，通过对溶胀过程中不同溶胀时间煤样的溶胀度与质量损失情况测定以及超声波辐射溶胀煤与自然溶胀煤的液化实验比较，发现超声辐射有助于煤的溶胀作用，煤液化转化率提高了3%~4%.实验表明，超声溶胀能够进一步提高煤催化加氢直接液化的反应性能.
+关键词：吡啶，超声波辐射溶胀，溶胀度，转化率
+INFLUENCES OF SWELLING PROCESS WITH ULTRASONIC IRRADIATION ON THE CHARACTERISTICS OF COAL LIQUEFACTION
+Sun DecaiFan TianboLi Xue and Liu Yunyi
+(College of Chemical Engineering, Shenyang University of Chemical Technology, 110142 Shenyang)
+ABSTRACT：Shenhua coal was swelled in an ultrasonic generator with pyridine as the swelling agent. In order to investigate the effects of ultrasound swelling on coal liquefaction, the loss of coal and swelling rate were determined and the IR spectra was analyzed. The ultrasonic swelling of coal can enhance the reaction of direct liquefaction of catalytic hydrogenation further by contrasting the liquefaction of coal swelled by ultrasonic wave radiation and the naturally swelled coal. The liquefaction conversion rate of Shenhua coal increases 3%-4% after the treatment of ultrasound irradiation.
+KEY WORDS：pyridine, swelled in ultrasonic irradiation, swelling degree, conversion rate
+
+
+
+
+
+
+义马煤直接液化性能的研究（44-46）
+王敏1)张爱芸2)曹敏3)张凤鸣4)谷小虎5)
+1) 硕士生；2) 博士、教授，河南理工大学材料科学与工程学院，454000河南焦作；3) 博士、副教授，河南理工大学材料科学与工程学院，454000河南焦作；义马煤业集团股份有限公司，472300河南义马；4) 工程师，义马煤业集团股份有限公司，472300河南义马；5) 工程师，中平煤化集团，467000河南平顶山
+摘要：利用高压反应釜，采取程序控制升温的方法，以义马煤为原料，循环油为溶剂，Fe2O3为催化剂和S为助催化剂，在不同反应时间、温度和初始氢压下，测定了义马煤直接液化效果的影响因素.结果表明，随着温度升高，转化率呈减小趋势，而油产率随着反应温度的增加呈现出先增加后减小的趋势，在380 ℃时油产率达到最大值；随着初始压力的增加，转化率和油产率都有所增加，但增加幅度很小，在9 MPa时油产率达到最大值；随着反应时间的增加，转化率和油产率都有所增加，在120 min时油产率和转化率均达到最大值.
+关键词：义马煤，直接液化，转化率，油产率
+STUDY ON DIRECT LIQUEFACTION OF YIMA COAL
+Wang Min1Zhang Aiyun1Cao Min1,2Zhang Fengming2 and Gu Xiaohu3
+(1.Institute of Material Science and Engineering,He’nan Polytechnic University, 454000 Jiaozuo, He’nan; 2.Yima Coal Industry Group, 472300 Yima,He’nan; 3.Zhongping Energy Chemical Group, 467000 Pingdingshan,He’nan)
+ABSTRACT：Study of Yima coal direct liquefaction under different reaction time, temperature, and initial hydrogen pressure was probed into. The experiment was investigated by reaction kettle with circulation oil and Fe2O3  and S catalyst. The results indicated that the best reaction conditions were at 380 ℃, 9 MPa, 120 min according to the oil yield , and the conversion of liquefaction decreased with the temperature, but the oil yield of liquefaction increased firstly and then decreased with the temperature, and the conversion and oil yield of liquefaction increased with the initial cool hydrogen pressure and the reaction time.
+KEY WORDS：Yima coal, direct liquefaction, conversion, oil yield
+
+
+
+
+
+一种煤直接液化复合催化剂的研究（47-49+56）
+王勇1)李文博2)史士东3)
+1) 硕士、工程师；2) 博士、研究员；3) 博士生导师、研究员，煤炭科学研究总院北京煤化工研究分院，100013北京
+摘要：研制了一种复合催化剂，考察了催化剂对神东煤直接液化的催化活性.主要研究了催化剂粒度等因素对直接液化反应的影响，并与煤炭科学研究总院自主研发的“863”催化剂进行对比.结果表明，随着复合催化剂粒径变小，煤液化的转化率和油产率增加；中间产物沥青烯和前沥青烯组分产率基本不变，气产率和氢耗率降低.与“863”铁基催化剂相比，小于74 μm的复合催化剂催化效果要优于后者.该催化剂中含有一定镍，镍的强加氢作用使得煤液化反应转化率和油产率增加.
+关键词：煤直接液化，催化剂，铁基，复合型
+STUDY ON COMPOSITE CATALYST OF DIRECT COAL LIQUEFACTION
+Wang YongLi Wenbo and Shi Shidong
+(Beijing Research Institute of Coal Chemistry, China Coal Research Institute, 100013 Beijing)
+ABSTRACT：A kind of composite catalyst of direct coal liquefaction has been prepared as the catalyst of Shendong coal. The affect of particle size of the catalyst on direct liquefaction has been carried out. Conversion and oil yield increased with the decreasing of the diameter of the composite catalyst, meanwhile the intermediate asphaltenes and preasphaltenes remain unchanged, and the gas yield and hydrogen consumption decreased. After the catalysts are grinded into less than 74 μm, the yields of the composite catalyst are superior to those of “863” catalyst. The products get much lighter, and the conversion increases, which show the high hydrogenation of the nickel in the composite catalyst.
+KEY WORDS：direct coal liquefaction, catalyst, Fe-based, composite catalyst
+
+
+
+
+
+重油和煤沥青制备煤沥青油浆的过程研究（50-53）
+高晓荣1)李兴2)常宏宏2)魏文珑3)
+1) 讲师，太原科技大学化学与生物工程学院，030021太原；2) 博士；3) 博士、教授、博士生导师，太原理工大学化学化工学院，030024太原
+摘要：将自制的煤沥青粉添加到重油中制得浆体燃料煤沥青油浆，对成浆性和流变性的影响规律进行了研究.结果表明，在相同温度下，煤沥青油浆的表观黏度随煤沥青粉添加量的增加而增大，剪切速率相同时黏度随温度的升高而减小.添加不同质量分数制得的煤沥青油浆在同一剪切速率下的黏度随温度的升高而减小，且随温度的升高黏度减小趋势逐渐变小，当煤沥青粉添加量≤12％时，煤沥青粉添加量对煤沥青油浆的流变性影响较小.随着煤沥青粉添加量的增加，煤沥青油浆的低位发热量稍有下降，但降低幅度较小.
+关键词：煤沥青，煤沥青油浆，流变性
+PREPARATION OF COAL PITCH OIL SLURRY WITH HEAVY OIL AND COAL PITCH
+Gao XiaorongLi Xing*Chang Honghong* and Wei Wenlong*
+(College of Chemistry and Biological Engineering, Taiyuan University of Science and Technology, 030021 Taiyuan; * College of Chemistry and Chemical Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：Adding self-made coal pitch powder to heavy oil could be obtained coal pitch oil slurry (CPOS), and the influence law of viscosity and rheology behavior were analyzed. The results showed that the viscosity of CPOS would increase with the higher dosage of the self-made coal pitch powder at the same temperature. The viscosity of CPOS with different concentration would decrease with the increase of temperature at the same shearing rate. With the increase of temperature, the decreasing trend of viscosity was gradually reduced.When the concentration of coal pitch powder was ≤12%, it has little effect on the rheology behavior of CPOS. With the increase of coal pitch powder’s concentration, net calorific value of CPOS appeared reduction, but the diminished rate was little.
+KEY WORDS：coal pitch, coal pitch oil slurry, rheology behavior
+
+
+
+
+
+
+煤焦油对煤微波辅助萃取率的影响研究（54-56）
+贾梅1)李建伟2)贾建成1)任兴健1)
+1) 硕士生；2) 副教授，西安科技大学化学与化工学院，710054西安
+摘要：以煤焦油蒸馏所得馏分为萃取溶剂，对煤在微波辅助条件下的萃取过程进行研究，主要考察了不同溶煤比和微波辐射时间等因素对萃取率的影响.结果表明，当溶煤比为3∶1且微波辐射为25 min时的萃取率最高，可以达到25.51%，有望为低温煤焦油的合理利用提出一种新途径.萃取残煤的FT-IR和SEM分析检测表明，萃取后残煤样的H/C降低，但煤的大分子结构没有受到破坏.
+关键词：煤焦油，微波辅助萃取，FT-IR，SEM
+IMPACT OF COAL TAR DISTILLATES ON LIQUID YIELD BY MICROWAVE-ASSISTED EXTRACTION
+Jia MeiLi JianweiJia Jiancheng and Ren Xingjian
+(School of Chemistry and Chemical Engineering, Xi’an University of Science and Technology, 710054 Xi’an)
+ABSTRACT：Using coal tar distillates as solvent, coal microwave-assisted extraction was investigated in this paper. On the basis of experiment, the effect of solvent/coal ratio, microwave radiate time on the extraction yield was discussed. The liquid yield can reach up to 25.51% at the optimal extraction conditions with solvent/coal ratio of 3∶1 and radiating time of 20 min, which implies a new utilization way for low carbonization coal tar. Dry ash-free basis coal and its residues were examined with FT-IR and SEM, which indicated that residual-coal’s (H/C) is decreased and the macromolecular network of coal is not ruined after extraction.
+KEY WORDS：coal tar, microwave-assisted extraction, FT-IR, SEM
+
+
+
+大型焦炉煤焦油QI含量偏高的原因分析（57-60）
+胡定强1)王光辉2)田永胜3)曾丹林4)邱江华4)魏松波5)常红兵5)梁治学6)刘向勇7)
+1) 硕士生；2) 教授、博士生导师；3) 硕士、助教；4) 博士、讲师，武汉科技大学化学工程与技术学院，湖北省煤转化与新型炭材料重点实验室，430081武汉；5) 高级工程师；6) 教授级高级工程师；7) 工程师，武汉平煤武钢联合焦化有限责任公司，430082武汉
+摘要：采用元素分析、红外光谱、XRD及扫描电镜等分析手段对煤焦油QI进行了组成结构的定性分析.结果表明，煤焦油QI主要由焦粉、煤粉、热解碳和高温缩聚产物组成.煤焦油QI经氯化锌溶液浮选分离后，定量地确定了焦粉、煤粉、热解碳和高温缩聚产物在煤焦油中的含量.相关分析数据表明，无烟装煤技术、7.63 m焦炉本身的结构特点和加热制度是造成煤焦油中QI含量偏高的主要原因，其中因高温作用而产生的热解碳及高分子聚合物对QI的贡献占主导地位.
+关键词：焦炉，煤焦油，喹啉不溶物，定性分析
+ANALYTICAL STUDY ON OVER-HIGH QI IN COAL TAR FROM 7.63 m COKE OVEN
+Hu DingqiangWang GuanghuiTian YongshengZeng DanlinQiu Jianghua Wei Songbo*Chang Hongbing*Liang Zhixue* and Liu Xiangyong*
+(College of Chemical Engineering and Technology, Hubei Key Laboratory of Coal Conversion and New Carbon Materimal, Wuhan University of Science and Technology, 430081Wuhan; * United Coking Company Limited, Pingdingshan Coal Mining Corporation and Wuhan Iron and Steel Corporation, 430082 Wuhan)
+ABSTRACT：The characters of QI in coal-tar are analyzed by ultimate analysis, FTIR, XRD and SEM etc, and it is showed that the QI is made up of coal powder, coke powder, pyrolytic carbon and condensation polymerization products. The content of each QI part in coal-tar is determined by floating QI in different density zinc chloride liquids. The related analysis data show that high QI in coal-tar is mainly caused by smokeless charging, the structural characters and heating system of 7.63 m coke oven, but the macromoleclar polymer makes the greatest contribution to QI, which is formed by high temperature condensation reaction.
+KEY WORDS：coke oven, coal tar, quinoline insoluble(QI), qualitative analysis
+
+
+
+
+栲胶脱硫过程中栲胶作用研究（61-65）
+董跃1)张卫帅2)凌开成3)罗化峰4)申峻5)
+1) 博士生，太原理工大学环境科学与工程学院，030024太原；2) 硕士生；3) 教授、博士生导师；4) 博士生；5) 教授、硕士生导师，太原理工大学化学化工学院，030024太原
+摘要：通过氧化栲胶与钒离子以及HS-之间相互反应研究了栲胶在脱硫过程中的作用.对氧化栲胶与钒离子的作用进行研究，结果发现：氧化栲胶和四价钒以及五价钒之间存在络合作用；对氧化栲胶和HS-的作用进行研究，结果发现：两物质之间存在化学反应，反应过程中HS-的浓度随反应时间延长而减少，呈现出先快后慢的趋势；HS-的转化率随着氧化栲胶初始浓度的增大而增大；HS-被氧化栲胶氧化并未生成单质硫，而是生成了一种含硫的有机物.
+关键词：栲胶脱硫，氧化栲胶，钒离子，硫氢根
+EFFECT OF TANNIN EXTRACT IN TANNIN EXTRACT DESULFURIZATION
+Dong YueZhang Weishuai*Ling Kaicheng*Luo Huafeng* and Shen Jun*
+(College of Environmental Science and Engineering, Taiyuan University of Technology, 030024 Taiyuan; * College of Chemistry and Chemical Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：The effect of tannin extract in tannin extract desulfurization was investigated using UV-vis absorption spectroscopy and Foulier transferred infrared (FTIR) method. The study of interaction between tannin extract of oxidation state (TEos) and vanadium ion show there exists complex reaction between TEos and tetravalent vanadium ion/pentavalent vanadium ion. The study of reaction between TEos and bisulfide ion show: the reaction consists of two steps: the fast reaction and the slow reaction; concentration of HS- decreases with reaction time, and the reaction rate appears first quick back slow trend; the conversion of HS- increase with the increase of initial concentration of TEos; HS- reacts with TEos to form organic compounds containing sulfur, not to generate elemental sulfur.
+KEY WORDS：tannin extract desulfurization, TEos, vanadium ion, bisulfide ion
+
+
+
+
+
+TG-DTG/DTA研究混煤的燃烧特性（67-70）
+鲜晓红1)杜云贵2)张光辉3)
+1) 高级实验师；2) 工程师，重庆大学化学化工学院，400030重庆；3) 助理研究员，重庆大学资源与环境科学学院，400030重庆
+摘要：采用TG-DTG和DTA（热重-热重微分和差热）技术分析研究了褐煤、烟煤以及无烟煤混煤的燃烧特性，获取了混煤燃烧的特性参数，如着火温度（Tb）、最大失重温度（Tm）以及燃尽温度（Tf）.TG-DTG结果表明，升温速率为20 ℃/min时基本能够反映三种煤样的热解特性；DTA结果表明，无烟煤与褐煤之比为3∶7时，烟煤与褐煤之比为3∶7时混煤具有较好的燃烧特性.
+关键词：燃烧特性，混煤，差热热重
+COMBUSTION CHARACTERISTICS OF COAL BLENDING BY TG-DTG/DTA
+Xian XiaohongDu Yungui and Zhang Guanghui*
+(College of Chemistry and Chemical Engineering, Chongqing University, 400030 Chongqing；*College of Resources and Environmental Sciences, Chongqing University, 400030 Chongqing)
+ABSTRACT：The combustion characteristics of three different ranks of coals (lignite, bituminous coal and anthracite) and their blend were studied by using the differential thermal-thermogravimetric analysis (DTA-TG). The results of TG curves indicated that the best heating rate was 20 ℃/min. Some combustion parameters, such as ignition temperature (Tb), maximum combustion rate temperature (Tm) and char burn-out temperature (Tf) was obtained. The differential thermal analyzer (DTA) curve can be used to estimate the heat released during the combustion process, which corresponds to the high heating value of the coal. The results of DTG and DTA indicated that the optimum ratio of coal blending for anthracite/lignite and bituminous coal/lignite were 3∶7 and 3∶7 respectively.
+KEY WORDS：combustion characterist, coal blending, TG-DTA
+
+
+
+
+
+
+煤层气燃烧器流动及NOx生成特性数值研究（71-74）
+张力1)张俊广2)唐强3)孙志伟2)
+1) 博士、教授；2) 硕士生；3) 博士、副教授，低品位能源利用技术及系统教育部重点实验室，重庆大学，400030重庆
+摘要：针对煤层气热值低的特点，设计了一台煤层气旋流燃烧器，采用数值模拟方法研究了不同热负荷及过量空气系数对燃烧性能的影响，并计算了燃烧污染物的生成.结果表明，在燃烧区域存在逆压梯度，加强了烟气的扰动，有利于形成稳定的高温区，提高燃烧效率.燃烧器负荷调节范围大，低负荷时仍能保持较高的燃烧温度和燃烧效率.过量空气系数为1.05时燃烧温度最高，此时NOx生成最多，仅为25.1 mg/m3.
+关键词：低热值煤层气，旋流燃烧器，数值模拟，NOx
+NUMERICAL STUDY OF FLOW FIELD AND NOx FORMATION CHARACTERISTICS OF BURNER FOR COAL-BED METHANE
+Zhang LiZhang JunguangTang Qiang and Sun Zhiwei
+(Key Laboratory of Low-grade Energy Utilization Technologies and Systems Ministry of Education, Chongqing University, 400030 Chongqing)
+ABSTRACT：A swirled burner is designed for burning low heat value of coal-bed methane. The influence of heat load and excess air coefficient on combustion performance is studied by numerical simulation, and combustion pollutant is calculated. Results show that counter pressure gradient is existed in the burning zone, and its existing can strengthen the flue gas disturbance，generate a high temperature zone and increase the combustion efficiency. The designed burner has a wide range of load adjusting. High combustion temperature and combustion efficiency can be kept even in the low load. The combustion temperature is the highest in the numerical simulation when the excessive air coefficient is 1.05, but the generation amount of NOx is only 25.1 mg/m3 at this condition.
+KEY WORDS：low calorific value coal-bed methane, swirled burner, numerical simulation, NOx
+
+
+
+
+
+富氧气氛下燃煤污染物排放规律研究（75-78）
+杜莹1)王静2)王贤华3)陈汉平4)杨海平5)
+1) 硕士生；2) 博士生；3) 博士、讲师；4) 教授、博士生导师；5) 副教授，华中科技大学煤燃烧国家重点实验室，430074武汉
+摘要：在水平管式炉上进行了模拟空气和O2/CO2气氛下的煤燃烧特性实验，并利用傅里叶红外光谱仪对烟气成分进行了在线测量，分析了煤种、气氛和温度等对污染物（SO2和NO）排放的影响.结果发现，SO2主要以单峰形式析出，而NO的析出大多数为双峰；煤种对污染物排放的影响较大，硫和氮含量高的煤种相应地SO2和NO的析出量较多；O2/CO2气氛下，SO2和NO的生成总量随着O2浓度的增加而减小；温度（800 ℃~1 000 ℃）对SO2和NO排放的影响不甚明显.但850 ℃时的析出峰峰值最大，释放量也较其他温度多，故850 ℃有利于SO2和NO的析出.
+关键词：富氧燃烧，SO2，NO，水平管式炉，FTIR
+ANALYSIS OF POLLUTANT DISCHARGE OF COAL COMBUSTION IN OXYGEN-ENRICHED ATMOSPHERE
+Du YingWang JingWang XianhuaChen Hanping and Yang Haiping
+(State Key Laboratory of Coal Combustion, Huazhong University of Science and Technology, 430074 Wuhan)
+ABSTRACT：Experiments about the characters of coal combustion are done on the leveling-tube furnace in both air and oxygen-enriched atmosphere. The Fourier infrared spectrometer is applied to do the on-line measurement of the smoke. Different kinds of coals and different atmospheres have effects on the discharge of pollutant(SO2 and NO). Results of the experiments show that the precipitation curve of SO2 is almost single peak while NO’s is mostly double peak. The kinds of coal have great influence on the pollutant discharge, kinds of coal which is rich in sulphur and nitrogen will have more SO2 and NO precipitation respectively. In O2/CO2 atmosphere, with the increase of O2 concentration, the precipitation of SO2 and NO reduced significantly. The temperature(800 ℃-900 ℃) does not have significant influence on the precipitation of SO2 and NO, but the peak-to-peak value reached the maximum and the size of precipitation was the biggest when the temperature was 850 ℃. As a conclusion, we can claim that at temperature of 850 ℃, SO2 and NO are more easily separated out from the coal in O2/CO2 atmosphere.
+KEY WORDS：oxygen-enriched combustion, SO2, NO, leveling-tube furnace, FTIR
+
+
+
+
+添加剂作用下煤基中孔活性炭的制备（79-82）
+冀有俊1)张双全2)罗朋1)任改玲1)王壬峰1)
+1) 硕士生；2) 教授、博士生导师，中国矿业大学煤炭加工与高效洁净利用教育部重点实验室，221116江苏徐州
+摘要：以贫煤为原料，硝酸盐为添加剂，制得中孔发达的活性炭.利用N2吸附脱附曲线对样品孔隙结构进行了表征，并考察了其吸附性能(碘值和亚甲蓝值).结果表明，未加添加剂时，可以得到中孔孔容0.287 4 mL/g，中孔率达72.43%的活性炭；加入添加剂后，微孔孔容和中孔孔容提高了0.05 mL/g左右.结果还表明，实验用硝酸盐有利于微孔的形成，能促进微孔向中孔的发育，提高总孔容；利用不同浓度的添加剂对活性炭的孔隙可进行定向调变.
+关键词：贫煤，添加剂，中孔活性炭，孔径分布
+PREPARATION OF COAL-BASED MESOPOROUS ACTIVATED CARBONS BY ADDITIVE
+Ji YoujunZhang ShuangquanLuo PengRen Gailing and Wang Renfeng
+(Key Laboratory of Coal Processing and Efficient Utilization, China University of Mining and Technology, 221116 Xuzhou, Jiangsu)
+ABSTRACT：Mesoporous activated carbons were prepared from a lean coal in the presence of additive. Then the iodine value, methylene blue value and the nitrogen adsorption/desorption isotherms of activated carbon were characterized. The results show that the obtained activated carbons have great mesoporous volume without impregnating additive. The mesoporous volume can reach 0.287 4 mL/g and its ratio is up to 72.43%; both of microporous and mesoporous volume increase about 0.05 mL/g with additive, suggesting that the additive can benefit for the micropore forming and promote the mesopore growth, increase the total volume; the pore size distribution can be modulated by impregnating different amout of additive.
+KEY WORDS：lean coal, additive, mesoporous activated carbon, pore size distribution
+
+
+
+焦化厂氨法脱硫废液用于烟气脱硫的技术研究（83-87）
+李晋萍1)刘承东1)凌开成2)王兆文3)王晓红3)
+1) 高级工程师；3) 教授级高级工程师，太原煤气化公司焦化厂，030024太原；2) 教授、博士生导师，太原理工大学化学化工学院，030024太原
+摘要：为研究焦化厂氨法脱硫废液与电厂烟气脱硫液混合后发生的变化，以及混合脱硫液与电厂烟气接触后发生的一系列反应，利用两种不同的脱硫液进行配比，通过采用化学分析方法及仪器分析方法进行实验室实验.结果表明，焦化厂氨法脱硫废液与电厂烟气脱硫液混合后，焦化厂氨法脱硫废液中的氨盐转化为游离氨，可提高脱除烟气中SO2的效率，反应过程无沉淀生成.同时加速了电厂沉降池的沉降速度，为工业化应用提供了良好的理论依据.
+关键词：脱硫，焦化氨法脱硫，电厂烟气脱硫，可行性
+TECHNICAL STUDY ON THE AMMONIA DESULPHURIZATION WASTE LIQUID FROM COKING PLANT USED IN FLUE GAS DESULPHURIZATION OF POWER PLANT
+Li JinpingLiu ChengdongLing Kaicheng*Wang Zhaowen and Wang Xiaohong
+(Coking Plant of Taiyuan Coal Gasification Company,030024 Taiyuan;* College of Chemistry and Chemical Engineering,Taiyuan University of Technology,030024 Taiyuan)
+ABSTRACT：The ammonia desulphuriztion waste liquid used in the process of flue gas desulphurization of power plant was studied in this paper. The proportion of the two kinds of desulphurization liquid was optimized and the liquids were tested with chemical analysis and instrumental analysis methods in laboratory. The results showed that the ammonium salt in the mixed liquid with proper proportion was converted to free ammonia, the elimination efficiency of SO2 in the flue gas was increased, there was no precipitation during reaction, and the sedimentation rate of sedimentation tank in power plant was accelerated.
+KEY WORDS”：desulphurization, ammonia desulphurization for coking plant, flue gas desulphurization for power plant, feasibility
+
+
+
+
+
+活化煤系高岭土吸附城市污水中有机物的研究（88-91）
+沈王庆1)兰子平2)黄秀丽3)
+1) 硕士、讲师；2) 副教授（通讯作者）；3) 硕士生，内江师范学院化学与生命科学学院，641112四川内江
+摘要：考察了吸附平衡时间、污水浓度、液固比、反应温度和pH值对碳酸钠活化煤系高岭土吸附城市生活污水中有机物的影响，在此基础上又研究了吸附等温线.结果表明，当吸附平衡时间为2 h，液固比为60 mL/g，pH为6时，活化煤系高岭土对城市生活污水中有机物的吸附率达到最大，且加热不利于吸附反应的进行.碳酸钠活化煤系高岭土对城市生活污水中有机物的吸附行为更符合Langmuir方程，其吸附是以化学吸附为主.
+关键词：煤系高岭土，吸附，城市生活污水，有机物
+STUDY ON ORGANIC MATTER IN MUNICIPAL WASTEWATER ADSORPTED BY ACTIVATED COAL-SERIES KAOLINE
+Shen WangqingLan Ziping and Huang Xiuli
+(College of Chemistry and Life Science, Neijiang Normal University, 641112 Neijiang，Sichuan)
+ABSTRACT：The effect that the organic matter in the municipal wastewater was adsorpted by sodium carbonate-activated coal-series kaoline with the time of adsorption equilibrium, the concentration of wastewater, the liquid-solid ratio, reaction temperature, pH changed was studied, then the adsorption isothermal was studied too. The result showed that when the time of adsorption equilibrium was 2 h; the liquid-solid ratio was 60 mL/g; pH was 6, the adsorption rate that the organic matter in the municipal wastewater was adsorpted by sodium carbonate-activated coal-series kaoline could arrive the highest, and heat was bad for the adsorption reaction. The reaction accorded to Langmuir equation, and the adsorption reaction was main chemisty.
+KEY WORDS：coal-series kaoline, adsorption, municipal sewage, organic matter
+
+
+
+
+
+中国炼焦煤资源与焦炭质量的现状与展望（92-96）
+王胜春1)张德祥2)陆鑫3)梁英华4)
+1) 博士生，华东理工大学能源化工系，200237上海；副教授，河北联合大学化工与生物技术学院，063009河北唐山；2) 教授、博士生导师，华东理工大学能源化工系，煤气化教育部重点实验室，200237上海；3) 工程师，唐山市产品质量监督检验所，063000河北唐山；4) 博士、教授，河北联合大学化工与生物技术学院，063009河北唐山
+摘要：从我国炼焦煤资源和炼焦工业现状角度论述了二者间存在的矛盾.概述了国内外诸如提高焦炉炭化室高度、捣固炼焦、煤调湿、配型煤炼焦、干熄焦以及利用焦炉处理有机废弃物等措施扩大炼焦煤源的总体情况，以及这些措施对焦炭提质的作用效果，展望了今后焦化工业的技术发展趋势.
+关键词：煤炭资源，炼焦，焦炭质量，优化配煤
+ACTUALITIES AND PROSPECT OF COKING COAL RESOURCES AND COKE QUALITY IN CHINA
+Wang Shengchun1,2Zhang Dexiang1Lu Xin3 and Liang Yinghua2
+(1.Departement of Chemical Engineering for Energy Resources, East China University of Science and Technology, 200237 Shanghai; 2.School of Chemical Engineering and Biotechnology, Hebei United University, 063009 Tangshan, Hebei; 3.Tangshan Institute of Product Quality Supervision and Inspection, 063000 Tangshan, Hebei)
+ABSTRACT：Based on the status of caking coal resources and domestic coking industry, their confliction is discussed in the paper. The different measures of enlarging coking coal resources and coke quality enhancement such as heightening the chamber of coke oven, stamping charged coke-making, coal moisture controlling, coke-making with briquetted coal, coke dry cooling and the disposal of waste plastic and waste tire with coke oven, as well as their effects on coke quality improvement are all summarized in the article. The prospect of trend of coking industry is also given in the end of the paper.
+KEY WORDS：resources of coal, cokemaking, coke quality, technological status
+
+原煤中可抽提噻吩硫的研究（1-4+49）
+邢孟文1）李凡2）
+1) 研究生；2) 教授（通讯作者），太原理工大学煤科学与技术教育部和山西省重点实验室，030024太原
+摘要：为探寻煤结构中小分子噻吩类有机硫的特性以及其与煤性质的关系，以苯并噻吩和二苯并噻吩为研究对象，采用热抽提及GC-MS（色质联用仪）研究不同变质程度煤中可抽提的噻吩类有机硫含量和种类，从而得到原煤中噻吩类有机硫与煤中各性质参数的关系.研究得出，不同煤种中抽提出来的二苯并噻吩的量要高于苯并噻吩的量；原煤中可抽提噻吩硫的量随着碳含量的增加呈现降低的趋势；随着挥发分产率和O/C摩尔比的升高而升高，而与煤中全硫含量没有关系.
+关键词：苯并噻吩，二苯并噻吩，原煤，抽提物，GC-MS联用仪
+STUDY ON THE THIOPHENES ORGANOSULFURS IN THE RAW COAL EXTRACTS
+Xing Mengwen and Li Fan
+(Key Laboratory of Coal Science and Technology，Ministry of Education and Shanxi Province,Taiyuan University of Technology,030024 Taiyuan)
+ABSTRACT：In order to get the relationship between character of micromolecular thiophenes organosulfurs and coal properties, benzothiophene and dibenzothiophene were investigated as target compounds, and thiophenes organosulfurs were extracted from the raw coal by Gerhardt Soxtherm and analyzed by GC-MS. The relationship between thiophenes organosulfurs extracted and coal property were discussed. The results showed that the amount of dibenzothiophene was higher than benzothiophene which extracted from same raw coal; the amount of thiophenes organosulfurs extracted from the raw coal decreased with the increase of carbon content and in coal. And the amount of thiophenes organosulfurs extracted increased with the increase of both volatile yields and the O/C ratio. But the total sulfur content in the coal has no immediate with the amount of thiophenes organosulfurs.
+KEY WORDS：thiophenes organosulfurs，benzothiophene，dibenzothiophene，raw coal，extracts，GC-MS
+
+
+
+
+
+
+淮南煤气化特性实验研究（5-8）
+姚杰1）梅静梁1）王兴明1）董众兵2）
+1) 博士生；2) 教授、博士生导师，安徽理工大学化学工程学院，232001安徽淮南
+摘要：采用自制石英弹簧热天平(ZL 00247922.2)对三种淮南煤二氧化碳气化特性进行了实验研究.结果表明，三种淮南煤的二氧化碳活性关系为李嘴孜煤＜李一煤＜潘一煤.由于实现淮南煤完全气化需要较长的时间，根据三种淮南煤不同气化行为特性，若在一定气化转化率时转换为燃烧过程即“部分气化燃烧”，既可以缩短反应时间（减小气化炉的体积），又可实现碳的完全转化.
+关键词：石英弹簧热天平，淮南煤，气化特性，部分气化燃烧
+EXPERIMENTAL STUDY ON GASIFICATION CHARACTERISTICS OF HUAINAN COAL
+Yao JieMei JingliangWang Xingming and Dong Zhongbin
+(School of Chemical Engineering, Anhui University of Science and Technology,232001 Huainan，Anhui)
+ABSTRACT：The home-made quartz spring thermal balance (ZL 00247922.2) was used to investigate the CO2 gasification characteristics of three Huainan coal. It was shown that gasification active relationship of three Huainan coals in CO2 is LZ coal＜LY coal＜PY coal. It is suggested that the process of part gasification shift to combustion at the shift point of certain gasification conversion is a better choice to make complete carbon conversion while reducing the commercial gasifier volume. 
+KEY WORDS：quartz spring thermal balance，Huainan coal，gasification characteristics，part gasification shift to combustion
+
+
+
+
+
+灰熔聚流化床气化炉内气固两相流的数值模拟（9-12+34）
+范江1)武小芳2)马素霞3)
+1) 副教授、硕士生导师；2) 硕士生；3) 教授、博士生导师，太原理工大学电气与动力工程学院，030024太原
+摘要：应用欧拉双流体模型模拟了某化肥厂现运行的灰熔聚流化床煤气化炉（用ICC表示）内的气固两相流动行为,得出了所模拟ICC的合理流化气速与喷动气速的速度范围及匹配关系：流化气速不能太小，否则布风板区域会出现死区；流化气速也不能太大，否则将失去ICC的设计运行特点.当流化气速一定时，随喷动气速的增加，搅动混合增强，但过大的喷动气速会使床内的流动结构出现腾涌，不利于ICC的高效安全运行.
+关键词：流化气速,喷动气速,气固两相流,灰熔聚流化床煤气化炉
+NUMERICAL SIMULATION OF GAS-SOLID FLOW IN THEASH-AGGLOMERATING FLUIDIZED BED GASIFIER
+Fan JiangWu Xiaofang  and  Ma Suxia
+(Taiyuan University of Technology  Electric and Power Energineering Institute，030024 Taiyuan)
+ABSTRACT：Eulerian-Eulerian two-fluid model was used to simulate the gas-solid flow behaviors in certain chemical fertilizer company’s running ash-agglomerating fluidized bed gasifier .The range and proper matching relations between fluidized and spouting gas velocity were showed from the simulating results.It shows fluidized gas velocity can neither be too small, which may lead to dead districts around the gas distributor, nor too big because the designing and operating characteristics of ICC will be lost. With the increasing of spouting gas velocity, the mixing churning is enhanced under a certain fluidizing gas velocity.However, spouting gas velocity which exceeds some value results in the flow structure of slugging and is not conducive to the operating of ICC efficiently and safely.
+KEY WORDS：fluidized gas velocity,spouting gas velocity,gas-solid flow,ashagglomerating fluidized bed gasifier
+
+
+
+
+
+
+操作参数的选择及对煤气化结果的影响（13-16）
+刘洋1)叶枫2)范钟文1)廖爽1)
+1) 硕士生；2) 教授、硕士生导师，新疆大学化学化工学院，830046乌鲁木齐
+摘要：基于化工系统流程模拟软件的应用，初步预测出水煤浆气化炉出口的合成气组成和温度，模拟计算结果与文献基本吻合；此外，通过模拟得到的数据，分析了气化炉的主要操作参数对气化结果的影响，为气化炉的操作优化提供一定的参考依据.
+关键词：化工模拟软件，煤气化，氧煤比，水煤比
+OPERATING PARAMETERS SELECTION AND THE IMPACT OF RESULTS OF COAL GASIFICATION
+Liu YangYe FengFan Zhongwen and Liao Shuang
+(Ministry of Education Key Laboratory of Fine Oil and Gas Chemicals,Xinjing University,830046Uygur)
+ABSTRACT：Based on the application of chemical process simulation software, initial to predict water coal slurry gasified exported synthesis gas composition and temperature, the results are consistent with the literature.Through the simulated data to analyze how the main operating parameters of the gasifies effect the gasification，the basis for the actual operation was provided.
+KEY WORDS：chemical engineering simulation software,coal gasification,oxygen coal ratio,water coal ratio
+
+
+
+
+
+一种煤直接液化复合催化剂的研究（17-19+42）
+王勇1)张晓静2)李文博3)史士东4)
+1) 硕士、工程师；2) 高级工程师；3) 博士、研究员；4) 博士生导师、研究员，煤炭科学研究总院煤化工分院煤液化技术研究所，100013北京
+摘要：研制了一种复合催化剂，考察了催化剂对神东煤直接液化的催化活性，主要考察了催化剂粒度等因素对直接液化反应的影响，并与煤炭科学研究总院自主研发的“863”催化剂进行对比.研究结果表明，随着复合催化剂粒径变小，煤液化的转化率和油产率增加；中间产物沥青烯和前沥青烯组分产率基本不变，气产率和氢耗率降低.与“863”铁基催化剂相比，小于74 μm的复合催化剂的催化效果要优于后者.该催化剂中含有一定的镍，镍的强加氢作用使得煤液化反应转化率增加，油产率增加.
+关键词：煤直接液化，催化剂，铁基，复合型
+STUDY ON COMPOSITE CATALYST OF DIRECT COAL LIQUEFACTION
+Wang YongZhang XiaojingLi Wenbo and Shi Shidong
+(Beijing Research Institute of Coal Chemistry,China Coal Research Institute, 100013 Beijing)
+ABSTRACT：A kind of composite catalyst of direct coal liquefaction has been prepared as the catalyst of Shendong coal. The affect of particle size of the catalyst on direct liquefaction has been carried out. Conversion and oil yield increased with the decreasing of the diameter of the composite catalyst, meanwhile the intermediate asphaltenes and preasphaltenes remain unchanged, and the gas yield and hydrogen consumption decreased. After the catalysts are grinded into less than 74 μm, the yields of the composite catalyst are superior to those of “863” catalyst. The products get much lighter, and the conversion increases, which show the high hydrogenation of the nickel in the composite catalyst.
+KEY WORDS：direct coal liquefaction,catalyst,Fe-based,composite catalyst
+
+
+
+
+
+氢气在无催化煤液化中的反应机理（20-24）
+罗化峰1)凌开成2)张卫帅3)王顺华3)冯伟3)申峻4)
+1) 博士生；2) 教授、博士生导师；3) 硕士生；4) 教授，太原理工大学化学化工学院，030024太原
+摘要：采用平衡液相取样法气体溶解度测定装置测定了氢气在萘中的溶解规律，并采用间歇式微型反应釜研究了氢气在无催化煤液化中的反应机理.结果表明：1) 氢气在萘中的溶解随着温度和压力的升高而增加，溶解速率先快后慢，在5 min时达到最大溶解量的76.21%左右，直到30 min达到平衡；2) 在萘溶剂的无催化煤液化反应中，氢气的溶解不是控制步骤，溶解氢参与液化反应的速度才是控制步骤；3) 在较短时间的萘溶剂无催化煤液化时，氢气在萘溶剂中的预溶解提高了无催化煤液化的总转化率，其主要原因是部分预溶氢提前活化，使得煤液化反应初期活性氢增加；4) 在较长时间的萘溶剂无催化煤液化时，预溶氢对总转化率的提高很小，但促进了液化产物的进一步裂解加氢轻质化.
+关键词：氢气,煤液化,溶解规律,预溶氢,反应机理
+REACTION MECHANISM OF HYDROGEN FOR DIRECT COAL LIQUEFACTION WITHOUT CATALYSTS
+Luo HuafengLing KaichengZhang WeishuaiWang ShunhuaFeng Wei and Shen Jun
+(College of Chemistry and Chemical Engineering, Taiyuan University of Technology, 030024 Taiyuan)
+ABSTRACT：In this paper,the solubility of hydrogen in naphthalene was measured by using vapor-liquid phase equilibrium sampling method. The reaction mechanism of hydrogen for direct coal liquefaction was investigated by liquefaction of Yanzhou coal using a 17 mL tubular resonance agitation microautoclave reactor. The results show:1) that hydrogen solubility in naphthalene increases with the increase of temperature and hydrogen partial pressure, and the solution rate overall appears first quick back slow trend. Hydrogen solubility within 5 min has reached 76.21% of the maximum under certain temperature and hydrogen partial pressure, then it continues to increase slowly and achieves the maximum for 30 min；2) that the control step of coal liquefaction without catalyst in naphthalene is not the solution rate of hydrogen but the reaction rate of dissolved hydrogen participating in liquefaction; 3) that hydrogen pre-solution in naphthalene increases the total conversion of shorter coal liquefaction without catalyst, which is because partial dissolved hydrogen was activated in pre-solution process, resulting in the increase of active hydrogen in the initial stage of liquefaction reaction；4) that hydrogen pre-solution in naphthalene has a little contribution for the total conversion of longer coal liquefaction without catalyst, but it promotes the further hydrocracking and upgrading of liquefaction products.
+KEY WORDS：hydrogen,coal liquefaction,hydrogen pre-solution,coal liquefaction,reaction mechanism
+
+
+
+
+直径间隙法制水煤浆级配技术研究（25-28）
+李和平1)金琼2)陈小燕3)胡奇林4)刘万毅5)
+1) 讲师；2) 本科生；3) 实验师；4) 副教授、硕士生导师（通讯作者）；5) 教授、硕士生导师，宁夏大学化学化工学院，750021银川
+摘要：采用双珠级配与三珠级配模型，探讨了球料比、研磨时间、温度、入料尺寸和研磨速度对灵武煤制水煤浆成浆性的影响，分别采用干法配浆与湿法配浆的方法进行实验，利用DV-1+PRO数字式黏度计和Rise-2008型激光粒度分析仪对配置浆料的黏度和粒度进行测试.结果表明，当入料尺寸<1 mm，球料比为6∶1，研磨速度为72 r/min时，水煤浆的浓度可以达到68%.10#自制添加剂的使用可以获得性能稳定的水煤浆浆体.
+关键词：水煤浆，浓度，级配，成浆性，粒度，黏度
+GRADATION RESEARCH ON COAL WATER SLURRY BY USING DIAMETER VOID PACKING MODEL
+Li HepingJin QiongChen XiaoyanHu Qilin and Liu Wanyi
+(College of Chemistry and Chemical Engineering，Ningxia University,750021 Yinchuan)
+ABSTRACT：In this experiment the model of double balls gradation, three balls gradation and four balls gradation be used. The effects of slurry ability on factors of ball milling ratio, ball milling time, pretreatment temperature, rotation speed, cylinder size and types of additives be investigated. The dry coal particle gradation and water coal particle gradation method be operated. The viscosity and size distribution are analyzed by using DV-1+PRO digital viscosity indicator and Rise-2008 laser particle size analyzer respectively. Additionally, the stability of slurry be testified. The results show that the concentration of coal water slurry is up to 68% during the processing condition of raw materials size is smaller than 1 mm, ball milling ratio is 6∶1, rotation speed is 72 r/min. At the same time ,mixing with No.10# additive can get stable coal water slurry. 
+KEY WORDS：coal water slurry，concentration，gradation，slurry ability，particle size，viscosity
+
+
+
+
+
+
+
+三聚磷酸钠对水煤浆分散剂性能的影响（29-34）
+江红艳1)杨东杰2)周明松3)
+1) 硕士；2) 教授、博士生导师；3) 副研究员、硕士生导师，广东省绿色化学产品技术重点实验室，华南理工大学化学与化工学院，510640广州
+摘要：针对煤粉中含有的高价金属离子会降低水煤浆的成浆性问题，采用了三聚磷酸钠作为金属离子调节剂与几种阴离子型分散剂复配后，进一步提高分散降黏性能.通过测定分散剂在煤粒表面的吸附量、Zeta电位及吸附层厚度，揭示了三聚磷酸钠对脂肪族分散剂（SAF）、木质素系分散剂(GCL3S)及萘系分散剂(FDN)的分散协同增效作用机理.结果表明，三聚磷酸钠与SAF复配同时增加了煤粒之间的静电排斥力和空间位阻，使分散剂在煤粒表面的Zeta电位和吸附层厚度均增大；与GCL3S复配主要增加了煤粒之间的静电排斥作用；对FDN是通过增加分散剂在煤粒之间的空间位阻效应，促进分散降黏性能的提高.
+关键词：水煤浆,分散降黏,三聚磷酸钠
+EFFECT OF SODIUM TRIPOLYPHOSPHATE ON CWS DISPERSANTS
+Jiang HongyanYang Dongjie and Zhou Mingsong
+(School of Chemical and Energy Engineering,Guangdong Provincial Laboratory of Green Chemical Technology,South China University of Technology,510640 Guangzhou)
+ABSTRACT：Because of high valence metal ions contained in coal would reduce the perfor-mance of coal water slurry, sodium tripolyphosphate was selectd as a kind of adjustment agent to remix with different anionic dispersants to enhance the dispersing and viscosity-reducing ability. Through the experiment of adsorption mensuration，Zetapotential and the adsorption layer thickness of dispersant on the coal surface, it reveals the synergistic interaction mechanism of sodium tripolyphosphate with three different molecular structure dispersant SAF, GCL3S and FDN. The results show that sodium tripolyphosphate can help SAF increase electrostatic repulsion and steric repulsion between coal particles,which result in an increase of Zeta-potential and adsorptive layer thickness, to enhance its dispersing and viscosity-reducing ability, but mainly help GCL3S increase the electrostatic repulsion and help FDN increase the steric repulsion. 
+KEY WORDS：coal water slurry,dispersing and viscosity-reducing ability,sodium tripolyphosphate
+
+
+
+
+
+
+造纸黑液与褐煤制备水煤浆的实验研究（35-38）
+刘静雅1)杜新2)吕永康3)张荣4)毕继诚5)
+1) 硕士生；3) 教授，煤科学与技术教育部重点实验室，太原理工大学，030024太原；2) 博士生，中国科学院研究生院，100039北京；中国科学院山西煤炭化学研究所，030001太原；4) 副研究员、硕士生导师；5) 研究员、博士生导师，中国科学院山西煤炭化学研究所，030001太原
+摘要：利用造纸黑液和褐煤制备了水煤浆，讨论了最高成浆浓度、流变性、稳定性和加入添加剂种类及用量各因素对黑液煤浆性能的影响.实验结果表明，褐煤和造纸黑液可以制成性能良好的煤浆；制得的煤浆均表现出优越的流变性和稳定性；稀释5倍的黑液制得的煤浆综合性能最好；加入分散剂和稳定剂后，可大幅降低煤浆的黏度，同时也提高了稳定时间.
+关键词：造纸黑液，褐煤，水煤浆，添加剂
+STUDY ON PREPARING WATER-COAL-SLURRY BY USING BLACK LIQUOR AND LIGNITE
+Liu Jingya1Du Xin2,3Lü Yongkang1Zhang Rong3 and Bi Jicheng3
+(1.Key Laboratory of Coal Science and Technology, Ministry of Education and Shanxi Province, Taiyuan University of Technology, 030024 Taiyuan; 2.Graduate School of the Chinese Academy of Sciences, 100049 Beijing; 3.State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, 030001 Taiyuan)
+ABSTRACT：In this paper, black liquor and lignite are prepared into water-coal-slurry（CWS）, and discuss the factors affecting CWS forming properties, including the highest slurry concentration, rheological property, stability and different kinds and amouts of additive agents. The experimental study on slurry showed that lignite and black liquor can be made into CWS, which has good performance. All of the CWS prepared have a good rheological property and stability. The slurry which dilution multiple of the black liquor is 5 have the best comprehensive performance. It can reduce the viscosity of CWS substantially when adding dispersant and stabilizing agent.
+KEY WORDS：black liquor, lignite, water-coal-slurry, additive agent
+
+
+
+
+
+澳大利亚焦煤的煤质研究及优化配用（39-42）
+项茹1）陈鹏1）薛改凤2）鲍俊芳3）
+1) 工程师、硕士；2) 教授级高级工程师；3) 高级工程师，武汉钢铁集团公司研究院，430080武汉
+摘要：列举了某钢厂引进的澳大利亚几个矿点焦煤，按国内常用煤炭工业指标以及煤岩指标应划为优质焦煤，将其简单按优质焦煤配用，配用效果并不理想.通过膨胀度、流动度及焦炭显微结构分析，发现其与国内优质焦煤存在较大差异，将其进行优化配用，焦炭质量得以稳定.
+关键词：进口，焦煤，煤质，优化，配用
+STUDY ON COAL QUALITY AND OPTIMIZATION COAL BLENDING OF COKING COAL FROM AUSTRALIA
+Xiang RuChen PengXue GaifengandBao Junfang
+(Research and Development Institute,Wuhan Iron and Steel (Group) Corporation,430080 Wuhan)
+ABSTRACT：There are big differences between imported coal and local coal. This paper showed the coal was imported from several Australian mines in a steel works, according to commonly domestic industrial index and petrology indexes of coking coal, the coking coal from Australian should belong to high quality coal, when it was blended simply replaced highquality local coal, the coke strength wasn't ideal. Through expansion degrees, fluidity and coke microstructure analysis, it was found  there are many differences between the imported coal and the blending coal.They must be optimized so as the coke quality was stable.
+KEY WORDS：import,coking coal,coal quality,optimization,blending
+
+
+
+
+
+煤料堆密度对1/3焦煤黏结性能影响的研究（43-45+53）
+白金锋1)李娜2)钟祥云3)张雅茹3)徐君4)奚白4)刘洪春5)
+1) 教授、博士；2) 硕士生；3) 讲师；4) 教授，辽宁科技大学化学工程学院，114051辽宁鞍山；5) 教授级高级工程师，中冶焦耐工程技术有限公司,114002辽宁鞍山
+摘要：研究了典型煤料范各庄1/3焦煤在不同堆密度条件下胶质层指数和最终收缩度及胶质层体积曲线的变化规律.结果表明，范各庄1/3焦煤堆密度从0.8 t/m3增加到1.1 t/m3时，煤料的胶质层指数Y由17.7 mm增加到24.5 mm， 增加了7.8 mm，提高了44.1%；其最终收缩度由25.2 mm降到-7.9 mm，增加131%，表明煤料结焦后的体积变化为正膨胀性能.在煤料堆密度增加后，其胶质层体积曲线由 “之”字型向“之”与“山”混合型及“山”字型转变，表明煤料的表观黏结性能得到明显改善，且在密度较高时由1/3焦煤向肥煤性能靠近.
+关键词：炼焦煤，胶质层指数，最终收缩度，黏结性能
+EFFECT OF BULK DENSITY OF 1/3 COKING COAL ON PLASTOMETRIC INDICES
+Bai Jinfeng Li NaZhong XiangyunZhang YaruXu JunXi Bai and Liu Hongchun*
+(Liaoning University of Science and Technology, Key Laboratory of Advanced Coal and Coking Technology，114051 Anshan，Liaoning;* ACRE Coking and Refractory Engineering Consulting Corporation, MCC, 104002 Anshan，Liaoning)
+ABSTRACT：To fundamentally understand the relationship between the bulk density of coking coal and the caking property will be of great help to develop new stamp coking technology. This paper investigated the evolutionary change of the caking property indices of 1/3 coking coal from Fangezhuang under the different conditions including bulk density, max thickness, final contraction value and volume curve of the gel layer and so on. Experimental results exhibited that when the bulk density was improved from 0.8 t/m3 to 1.1 t/m3, the caking properties were enhanced obviously with max thickness increment by 44.1% from 17.7 mm to 24.5 mm and the final contraction value reduced by 131% from 25.2 mm to -7.9 mm. The volume change of coal sample displayed characteristics featuring positive expansion. The microscopic coking properties can be improved greatly by increasing the bulk density of coking coal. The volume curve of gel layer varied from a single zigzag type to e type or a mixture of e type and zigzag type. The macroscopic coking properties of the 1/3 coking coal were approaching to that of fat coal when the bulk density of the test coal sample was improving.  
+KEY WORDS：coking coal，plastometric indices，final contraction value，caking properties
+
+
+
+
+
+H2/CO/CH4/CO2混合燃气着火温度的实验研究（46-49）
+刘庆滨1）张宗珩2）乔晓磊3）金燕4)
+1) 研究生；3) 工程师、硕士；4) 教授、博士生导师（通讯作者），太原理工大学电气与动力工程学院，030024太原；2) 高级工程师，中煤平朔电力工程有限公司，036800山西朔州
+摘要：根据粉尘云最低着火温度的测试原理，自行建立了H2/CO/CH4/CO2混合燃气着火温度测定实验系统.基于该实验系统，研究了初始条件为常温常压下的H2/CO/CH4/CO2混合燃气着火特性，分别测得不同混合比例以及不同一次风率下混合燃气的着火温度.结果表明：燃气着火温度随H2含量的增加而降低，随CH4含量的增加而升高，CO含量的增加对燃气着火温度的影响具有双重性.系统热力条件一定，燃气的着火温度基本不变，与一次风率无关.测得H2，CO以及CH4的着火温度分别为563 ℃，667 ℃和790 ℃.
+关键词：着火温度,多联产,一次风率,活化能
+EXPERIMENTAL STUDY ON THE IGNITION TEMPERATURE OF HYDROGEN-CARBON MONOXIDEMETHANE-CARBON DIOXIDE MIXTURES
+Liu QingbinZhang Zongheng*Qiao Xiaolei and Jin Yan
+(College of Electrical and Power Engineering,Taiyuan University of Technology, 030024 Taiyuan;* China Coal Pingshuo the First Coal-gangue-fired Power Company Limited, 036800 Shuozhou,Shanxi)
+ABSTRACT：According to the methods for determining the minimum ignition temperature by dusts, an experimental system was designed independently to test the ignition temperature of hydrogen-carbon monoxide-methane-carbon dioxide mixtures. Ignition characteristics of hydrogen-carbon monoxide-methane-carbon dioxide mixtures were studied at atmospheric temperature and pressure on the system. Ignition temperatures were obtained respectively at different mixing rations and primary air ratios. The results show that the ignition temperature for gas decreases with the hydrogen contents increasing, but increases with the methane adding. Especially, the effects of carbon monoxide increase on the ignition temperature of gas are indeterminable. Ignition temperature keeps invariable, and is unrelated to primary air ratios when the thermal conditions of the system are fixed. Hydrogen, carbon monoxide and methane’s ignition temperatures are separately 563 ℃, 667 ℃ and 790 ℃ by experiments.
+KEY WORDS：ignition temperature,poly-generation,primary air ratio,activation energy
+
+
+
+
+
+酸浸法提取煤矸石中氧化铁的动力学分析（50-53）
+周朋朋1)舒新前2)何菂1)
+1) 硕士生；2) 教授，中国矿业大学化学与环境工程学院，100083北京
+摘要：煤矸石是我国排放量最大的一种固体废弃物，其中含有丰富的氧化铁资源，为了高效提取煤矸石中的氧化铁，从化学反应动力学角度出发，对硫酸浸取煤矸石中Fe2O3的动力学进行研究.结果表明，该反应的动力学符合未反应收缩芯模型，反应的动力学方程是：1-（1-XB）2/3＝kt，反应频率因子是13 240，反应活化能是5.8×104 J/mol，过程速率为流体液膜扩散速率控制.
+关键词：煤矸石，Fe2O3，未反应收缩芯，动力学方程
+DYNAMIC ANALYSIS ON THE IRON OXIDE IN COAL GANGUE WITH THE EXTRACTION METHOD OF ACID LEACHING
+Zhou PengpengShu Xinqian and He Di
+(School of Chemical and Environmental Engineering, China University of Mining and Technology,100083 Beijing)
+ABSTRACT：Coal gangue is the largest emissions of solid waste in our country, which is rich in iron oxide. In order to abstract the iron oxide from coal gangue efficiently, from the perspective of chemical kinetics, the research on kinetics of sulfuric acid leaching Fe2O3 out of coal gangue was carried out. The result shows that this reaction kinetics coincident with the unreacted shrinking-core model, the kinetic equation is 1-（1-XB）2/3=kt, the reaction frequency exponent is 13 240,the reaction energy is 5.8×104 J/mol,and the diffusion rate of the fluid liquid membrane control the process rate.
+KEY WORDS：coal gangue,Fe2O3,reaction on without shrinking core,kinetic equation
+
+
+
+
+
+添加煤灰对低灰高挥发分煤发热量测定的影响（54-56）
+曾梅1)
+1) 硕士生,西北化工研究院,710600西安
+摘要：就添加煤灰对低灰高挥发分煤发热量的影响，及煤灰添加量和煤灰中硫含量对煤发热量的影响进行研究.结果表明，添加煤灰可有效解决低灰高挥发分煤测发热量时易喷溅的问题.煤灰中硫含量对煤发热量的影响较小，煤灰加入量为0.1 g/g煤时，可保证测量的准确性和可靠性.
+关键词：发热量，煤灰，低灰高挥发分煤
+STUDY ON THE BOMB CALORIFIC VALUE OF LOW ASH AND HIGH VOLATILE COAL BY ADDITION COAL ASH
+Zeng Mei 
+(Northwest Research Institute of Chemical Industry, 710600 Xi’an)
+ABSTRACT：The impact addition coal ash on the calorific value of low ash and high volatile coal was studied. The influence of the amount and the sulphur content of coal ash on calorific value of coal was investigated. And the results showed that the problem of splashing of low ash and high volatile coal during calorific value test was effectively solved by addition coal ash. And there was a little effect of calorific value with sulphur content in coal ash. The quantity of coal ash was confirmed 0.1 g/g coal, while the calorific value of coal can ensure the accuracy and reliability.
+KEY WORDS：calorific value,coal ash,low ash and high volatile coal
+
+
+
+
+
+
+活性炭表面化学性质对二氧化碳吸附平衡的影响（57-61）
+张睿1)周贝1)段晓佳1)胡子君2)李俊宁3)金鸣林1)
+1) 副教授，上海应用技术学院材料科学与工程学院，200235上海；2) 研究员；3) 高级工程师，航天材料及工艺研究所，100763北京
+摘要：把氢氧化钾活化的石油焦基活性炭进行浓硫酸氧化，并对氧化物进行热处理，得到不同氧含量的活性炭，并用氮气物理吸附和XPS对活性炭的孔及其表面化学官能团进行了表征.研究了二氧化碳在不同氧含量活性炭上的吸附平衡容量随温度的变化以及氧含量对于二氧化碳吸附容量的影响.结果表明：在25 ℃~175 ℃和0.001 MPa~1.5 MPa的范围内，二氧化碳在活性炭上的吸附可以用Langmuir方程很好地描述，饱和覆盖度和黏附系数均随温度的升高而下降，吸附热随活性炭的氧化和热处理变化很小.随活性炭O/C比的增加，饱和覆盖度下降，而黏附系数增加.适合二氧化碳吸附的活性炭应具有适中的O/C比，O/C比太大和太小均不利于二氧化碳的吸附.
+关键词：活性炭，表面化学结构，孔分布，二氧化碳吸附
+EFFECT OF SURFACE CHEMISTRY OF ACTIVATED CARBON ON ITS EQUILIBRIUM ADSORPTION CAPACITY FOR CO2
+Zhang RuiZhou BeiDuan XiaojiaHu Zijun*Li Junning* and Jin Minglin
+(School of Materials Science and Engineering,Shanghai Institute of Technology,200235,Shanghai;* Aerospace Institute of Materials and Processing Technology,100076Beijing)
+ABSTRACT：Activated carbon from petroleum coke by KOH activation was oxidized by concentrated sulfuric acid at 170 ℃ for 3 h, followed by heat treatment under protection of nitrogen at 450 and 750 ℃ for 3 h. The as-activated carbon, oxidized activated carbon and heat-treated carbon with different oxygen contents were characterized by nitrogen adsorption and X-ray photoelectron spectroscopy, and their adsorptive capacities for CO2 at 25 ℃ to 175 ℃ and 10 mbar to 15 000 mbar were investigated. It was found that their BET surface areas and pore size distributions were similar while their surface oxygen contents were different depending on the oxidation and heat treatment conditions. The adsorptive capacities for CO2 in the experimental conditions can be well fitted by Langmuir equation. The monolayer capacity and sticking coefficient decreased with adsorption temperature and the heat of adsorption changed little with the oxidation or heat treatment. The monolayer capacity decreased and sticking coefficient increased with O/C atom ratios. Suitable activated carbon should have a moderate O/C ratio for a better adsorption for CO2. 
+KEY WORDS：activated carbon,surface functionality，pore distribution,CO2 adsorption
+
+
+
+
+
+
+C/C复合材料导热性能的比较研究（62-65+71）
+王连星1)李凤仙1)周晓龙2)金鸣林3)陈麒忠4)
+1) 硕士生，华东理工大学化工学院,200237上海；上海应用技术学院材料科学与工程学院，200235上海；2) 教授，华东理工大学化工学院,200237上海；3) 教授；4) 实验员，上海应用技术学院材料科学与工程学院，200235上海
+摘要：选择了三种不同基体炭为主体，经成型、炭化与浸渍制备的样品为对象，采用扫描电镜(SEM)，XRD和热导率测定等分析手段，分别研究了石墨化前后C/C复合材料的微观结构形态及导热性能变化.结果表明，炭化样品的视密度为1.61 g/cm3~1.70 g/cm3，石墨化度较低，且热导率较小.以D8 μm单束丝经两维编制的样品呈现出整齐排列，热传导各向异性比为4.7倍.采用非编制纤维束黏结压制成型的样品以及石墨粉压制成型的样品，其导热性能在两维方向上表现为各向同性.2 700 ℃石墨化后样品的视密度在1.61 g/cm3~1.69 g/cm3，没有显著变化.热导率随石墨化度提高而增大，最大增幅达到石墨化前的15倍.单束丝样品热传导各向异性比从4.7扩大到6.3.非编制纤维束黏结压制成型样品的导热性仍保持各向同性，径向为222.27 W/（m·K），轴向为243.40 W/（m·K）；此外，在室温~300 ℃范围内，2 700 ℃石墨化后C/C复合材料的热导率均随温度升高呈现出不同程度的下降趋势.
+关键词：炭炭复合材料，炭纤维，石墨化，热导率，各向异性比
+COMPARAISON OF C/C COMPOSITES THERMAL CONDUCTIVITY
+Wang Lianxing1,2Li Fengxian1,2Zhou Xiaolong1Jin Minglin2 and Chen Qizhong2
+(1.College of Chemical Engineering,East China University of Science Technology,200237 Shanghai;2.Department of Material Engineering,Shanghai Institute of Technology,200235 Shanghai)
+ABSTRACT：Three samples made from different matrix carbon, after forming, carbonized and dipping process were chosen to study the microscopic structures and thermal conductivity of the block C/C composites before and after graphitization. They were separately measured by such means as SEM, XRD and thermal conductivity measurement. The results show that the apparent densities of the carbonized samples are 1.61 g/cm3-1.70 g/cm3 and the thermal conductivities are relatively low. The microstructure of the sample made by D 8 μm single cabon fiber weaving in two dimensions is in order and its anisotropic index of the heat conduction is about 4.7. But the thermal conductivity of samples produced by non-woven fiber bundle molded under pressure technology and graphite powder molded under pressure technology behave the isotropic characteristics in two dimensional direction. After 2 700 ℃ graphitization, the apparent densities of the samples are 1.61 g/cm3-1.69 g/cm3, having no significant changes.The thermal conductivities increase significantly，the maximum growth is 15 times than before, and the anisotropic index of the heat conduction in the single cabon fiber weaving sample enlarges to 6.3. The thermal conductivity of the sample made by non-woven fiber bundle molded under pressure technology remains isotropic, which is the highest, with 222.27 W/（m·K） in radial and 243.40 W/（m·K） axial respectively. In addition, from the room temperature to 300 ℃,the thermal conductivities of C/C composites decline gradually with the raise of the temperature.
+KEY WORDS：C/C composites，carbon fiber，graphitization，thermal conductivity，anisotropic index
+
+
+
+
+
+
+Fe/AC催化脱硫剂再生性能的研究（66-71）
+郝海刚1)王胜2)方惠斌3)赵建涛4)房倚天5)
+1) 硕士生；3) 博士生，中国科学院研究生院，100049北京；中国科学院山西煤炭化学研究所，030001太原；2) 助理工程师，神华宁夏煤业集团煤炭化学工业分公司，750411银川；4) 副研究员、博士；5) 研究员、博士，中国科学院山西煤炭化学研究所，030001太原
+摘要：应用热再生及热氧化再生法研究了活性炭担载氧化铁脱硫剂（Fe/AC）的再生性能.选用氮气、氮气加水蒸气、氮气加氧气以及氮气加氢气四种气氛分别在350 ℃，400 ℃，450 ℃和500 ℃四个温度点上考察了脱硫剂再生性能.发现在高于硫沸点（446 ℃）的450 ℃和500 ℃时， 氮气加水蒸气和氮气加氧气的热氧化再生效果较好，脱硫剂的活性位能够较好地被还原，经三次再生后仍能保持较好的脱硫性能.
+关键词：煤气净化，煤气脱硫，活性炭，脱硫剂，再生
+STUDY ON REGENERATION PROPERTY OF Fe/AC CATALYTIC DESULFURIZER
+Hao Haigang1,2Wang Sheng3Fang Huibin1,2Zhao Jiantao2 and Fang Yitian2
+(1.Graduate University of Chinese Academy of Sciences，100049 Beijng;2.Institute of Coal Chemistry，Chinese Academy of Sciences，030001 Taiyuan；3. Coal Chemical Industry Branch of Shenhua Ningxia Coal Industrial Group, 750411 Yinchuan)
+ABSTRACT：The regeneration of a spent actived carbon impregnated with Fe was investigated using thermal regeneration and thermal oxidation regeneration methods. At four kinds of temperatures(350 ℃,400 ℃,450 ℃ and 500 ℃),We chose four kinds of gases(N2,N2+H2O,N2+O2 and N2+H2) to study the regeneration of desulfurizer.The investigation results show that thermal oxidation regeneration by N2+H2O and N2+O2 is better than thermal regeneration by N2 and N2+H2, particularly, at relatively high temperatures (450 ℃ and 500 ℃, which are higher than the boiling point of sulphur).After there regeneration by N2+H2O and N2+O2 at 450 ℃ and 500 ℃，desulfurizer also showed good performance.
+KEY WORDSLcoal gas cleanup,coal gas desulphurization,actived carbon,desulfurizer,regeneration
+
+
+
+
+
+
+
+
+稀土掺杂铁锰脱硝催化剂的制备及其性能研究（72-74+78）
+赵海1)张德祥2)高晋生2)
+1) 博士、副教授，沈阳工程学院能源与动力工程系（通讯作者），110136辽宁；2) 教授、博士生导师，华东理工大学能源化工系，200237上海
+摘要：实验采用共沉淀法制备铈掺杂铁锰氧化物脱硝催化剂，对催化剂进行了XRD，TPR和比表面积表征和测试，并对不同铈含量的催化剂进行脱硝性能研究.结果表明,催化剂中添加氧化铈后无规则和非晶态粒子增多，催化剂的低温还原能力有所增强.当稀土氧化物添加量在1%～10%之间时，比表面积呈现递增趋势，添加6％氧化铈的催化剂孔容最大.脱硝实验表明，铈含量增大提高了催化剂在低温区脱硝活性.在500 ℃以后，随温度的继续增高，催化剂的NOx脱除率开始降低.
+关键词：铈掺杂，铁锰复合金属氧化物，SCR催化剂，氮氧化物
+SELECTIVE CATALYTIC REDUCTION OF NOx WITH NH3 OVER FE-MN-O CATALYST PROMOTED BY CeO2
+Zhao HaiZhang Dexiang* and Gao Jinsheng*
+(Department of Energy and Power Engineering, Shenyang Institute of Engineering,110136 Shenyang；* Department of Chemical Engineering for Energy Resources, East China University of Science and Technology,200237 Shanghai)
+ABSTRACT：Ce promoted Fe-Mn metal oxides nanosized particles have been prepared by co-precipitation approach. The products were characterized by powder X-ray diffraction (XRD), temperature programmed reduction (TPR) and BET study. It was found that the samller crystal size of iorn-manganese oxide can be achieved through CeO2 doping. And samples prepared with Ce pormoted show higher surface areas at calcinations temperature. At the reaction temperature range of 200 ℃400 ℃, the Ce promoted samples exhibited much better activities for SCR. But at high temperatures, the Ce promoted catalysts showed lower activities for SCR of nitric oxide with ammonia.
+KEY WORDS：cerium promoted,Fe-Mn metal oxides, selective catalytic reduction catalyst,nitrogen oxides
+
+
+
+
+
+油页岩热解煤气粗苯精制的分离序列研究（75-78）
+邢高建1)匡国柱2)何德民3)
+1) 硕士生；2）教授；3) 工程师、硕士，大连理工大学化工学院，116024辽宁大连
+摘要：为提高从油页岩热解煤气中回收的粗苯产品的经济效益，研究了对回收的粗苯进行精制的分离序列，模拟常规精馏序列和热耦合精馏序列分离粗苯的过程并计算其能耗和热力学效率.结果表明，在轻组分含量较高的粗苯精制分离序列中，完全热耦合精馏序列仍然具有较好的节能效果.其能耗比常规精馏序列中能耗最小的直接分离序列节能约35%，热力学效应也由7.4%提高到11.6%.
+关键词：完全热耦合精馏，节能，返混，热力学效率，油页岩，粗苯精制
+SIMULATION AND ANALYSIS OF SEPARATION SEQUENCES FOR CRUDE BENZENE FROM OIL SHALE RAW COKE OVEN GAS
+Xing GaojianKuang Guozhu and He Demin
+(College of Chemical Engineering, Dalian University of Technology,116024 Dalian,Liaoning)
+ABSTRACT：To enhance the economic effectiveness of the crude benzene recovered from oil shale raw coke oven gas, this paper study the separation sequences for the crude benzene, simulate the process of conventional sequences and thermally coupled distillation sequences and calculate energy consumption and thermally efficiency of these separation sequences. The result shows that thermally coupled distillation sequences is the most effective energy-saving separation sequence to separate the crude benzene mixture in which light component is the major fraction. Compared with the direct sequence of conventional distillation, the result of energy consumption analysis indicates that thermally coupled distillation sequence could save energy up to 35% and its thermodynamic efficiency is enhanced from 7.4% to 11.6%. 
+KEY WORDS：thermally-coupled distillation sequences,energy saving,remixing,thermally efficiency,oil shale,crude benzene separation
+
+
+
+
+油页岩残渣制备白炭黑及粒径分布规律研究（79-82）
+许英梅1)史家伟2)何德民3)关珺4)张秋民5)
+1) 副教授，大连民族学院生命科学学院，国家民委教育部重点实验室/能源化工研究所，116600大连； 2) 硕士生；3) 工程师；4) 讲师；5) 教授，大连理工大学化工学院，116024大连
+摘要：采用二氧化碳为潜伏酸化剂代替强酸,结合醋酸的高选择性分离方法，研究以油页岩制油残渣为原料，低腐蚀低能耗条件下制备高品质白炭黑的工艺方法，并揭示工艺条件对白炭黑产品的粒径分布影响规律.经X射线荧光光谱分析、红外光谱分析、X射线衍射和扫描电镜分析，对产物白炭黑进行了表征.结果表明，采用均相化学沉淀法，由残渣碱提取液硅酸钠溶液制备白炭黑的最佳工艺条件为：反应温度50 ℃, 硅酸钠溶液浓度为0.0 274 g/mL，CO2流速为20 mL/min，表面活性剂聚乙二醇6 000的用量为0.007 g/mL， 此工艺条件下得到的白炭黑粒径最小，为20 nm~30 nm，经醋酸分离提纯后的白炭黑纯度为98.4%.
+关键词：油页岩残渣,白炭黑,粒径
+PREPARATION AND INFLUENCE ON PARTICLE SIZE OF SILICA USING RESIDUE OF OIL SHALE
+Xu YingmeiShi Jiawei*He Demin*Guan Jun* and Zhang Qiumin*
+(College of Life Science, Dalian Nationalities University,116600 Dalian,Liaoning；* School of Chemical Engineering, Dalian University of Technology,116024 Dalian,Liaoning)
+ABSTRACT：The work resorted CO2 replace strong acid as latent acidifier and highly selective separation method of acetic acid purifying, took residue of oil shale as raw material investigate preparation of high quality silica on the conditions of low corrosion and energy consumption, discover technological conditions influences on particle size of product. Obtained silica researched by means of XRF, IR, XRD and SEM, optimum technological conditions of preparation silica from NaSiO3 solution leached from residue of oil shale determined by homogeneous chemical precipitation method and the results as following, the reaction temperature is 50 ℃, the concentration of sodium silicate 0.027 g/L, CO2 flow rate is 20 mL/min, the dose of surfactant is 0.007 g/mL of volume of total system.The particle size of silica obtained on the optimum technological conditions get minimum value of 20 nm-30 nm and purity is 98.4% after acetic acid purifying. 
+KEY WORDS：residue of oil shale,silica,particle size
+
+
+
+
+
+
+
+生物质N2/CO2气氛下热解及动力学特性研究（83-86+92）
+蒲舸1)郝功涛2)
+1） 博士、副教授；2） 硕士生，低品位能源利用技术及系统教育部重点实验室，重庆大学，400030重庆
+摘要：针对林业加工剩余物中常见的松木和慈竹两种生物质，采用非等温热重分析法研究了其热解及动力学特性，考察了不同CO2浓度和升温速率下的热解特性，采用不同反应模型进行动力学特性分析.结果表明,随着CO2浓度增大，低温热解区失重率变化较小，而高温热解区失重率和最大失重速率显著增大；随升温速率的升高，高温热解区存在热解滞后现象；N级反应模型和体积收缩反应模型分别适用于低温和高温热解区动力学参数的求解.
+关键词：生物质，热解特性，非等温热重分析法，N级反应模型，体积收缩反应模型
+STUDY ON PYROLYSIS AND KINETICS CHARACTERISTICS OF BIOMASS IN N2/CO2 ATMOSPHERE
+Pu Ge and Hao Gongtao
+(Key Laboratory of Low-grade Energy Utilization Technologies and Systems Ministry of Education,Chongqing University,400030 Chongqing)
+ABSTRACT：The pyrolysis and kinetic characteristics of two kinds of biomass left during forestry processing (pine,sinocalamus affinis mcclure) were studied with non-isothermal thermogravimetric analysis method. Effects of CO2 concentration and heating rate on pyrolysis characteristics were investigated. Kinetic parameters were analyzed with two different reaction models. The results indicate that with the increase of CO2 concentration, the changes of weight loss ratio were small in the low temperature zone, but the weight loss ratio and maximum weight loss rate increased in the high temperature zone. An increase of the heating rate also tended to slightly delay pyrolysis processes towards higher temperatures. It was found that nth order reaction model was better to solve the kinetic parameters in the low temperature zone. However, contracting volume reaction model was better in the high temperature zone.
+KEY WORDS：biomass,pyrolysis characteristics,non-isothermal thermogravimetric analysis,nth order reaction model,contracting volume reaction model
+
+
+
+
+
+生物质化学链气化制取合成气模拟研究（87-92）
+赵坤1)何方2)黄振3)李海滨4)
+1) 硕士、研究助理；2) 博士、副研究员；4) 博士、研究员，中国科学院可再生能源与天然气水合物重点实验室，中国科学院广州能源研究所，510640广州；3) 硕士生，中国科学院研究生院,100039北京；中国科学院可再生能源与天然气合物重点实验室，中国科学院广州能源研究所，510640广州
+摘要：利用Aspen Plus软件建立生物质化学链气化制取合成气模型，对铁基生物质化学链气化制取合成气进行模拟计算，分析气化过程中温度和压力等因素变化对生物质气化制取合成气的影响，探讨了氧载体存在对生物质气化过程的影响.结果表明，H2和CO是生物质化学链气化产生的合成气中最主要的两种产物，气化温度的提高对气化过程是有利的，而压力的提高降低了气化效果，气化温度在800 ℃~850 ℃较为适宜；载氧体的存在能显著提高合成气的产率.
+关键词：生物质，化学链气化，合成气，模拟
+SIMULATION STUDY ON CHEMICAL-LOOPING GASIFICATION OF BIOMASS FOR SYNGAS
+Zhao Kun1He Fang1Huang Zhen1,2 and Li Haibin1
+(1.Key Laboratory of Renewable Energy and Gas Hydrate of Chinese Academy of Sciences, Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences,510640 Guangzhou；2. Graduate of Chinese Academy of Sciences,100049 Beijing)
+ABSTRACT：Simulation of syngas production from biomass gasification with Fe2O3 is carried out with Aspen Plus software, the effects of gasification temperature, operation pressures, and the presence of oxygen carrier on the distribution of the gas components are investigated. The results show that, H2 and CO are the primary products in the syngas of biomass chemical looping gasification. The increase of gasification temperature is beneficial to gasification process but the increase of react pressure is of no advantage for gasification process, and the optimal gasification temperature is between 800 ℃ and 850 ℃. The existence of oxygen carrier can improve the yield of syngas. 
+KEY WORDS：biomass,chemical-looping gasification,synthesis gas,simulation
+

@@ -1,0 +1,929 @@
+﻿微波条件下两种煤丙酮萃取物的GC/MS分析（1-4）
+鞠彩霞1) 　徐　伟2) 　宗志敏3) 　魏贤勇3)
+1)助教;2)高级工程师, 枣庄学院化学化工系, 277160 　山东枣庄;3)教授, 中国矿业大学化学工程学院, 221008 　江苏徐州
+关键词：煤, 萃取, 微波,GC/MS
+GC/MS ANALYSIS BITUMINOUS OF ACETONE-EXTRACTION FROM COALS UNDER MICROWAVE TWO KINDSOF IRRADIATION
+Ju Caixia　XuWei　Zong Zhimin＊ and Wei Xianyong＊
+(Department o f Chemist ry , Zaozhuang Normal Col lege , 277160 Zaozhuang Shandong ; ＊ School of Chemical Engineering and Technology , China University of Mining and Technology , 221008 X uzhou J iangsu)
+KEYWORDS：coal , extraction ,microwave ,GC/MS
+
+
+
+煤热解过程中气态产物分布的研究（5-9）
+赵丽红1) 　郭慧卿1) 　马青兰2)
+1) 硕士生, 太原理工大学化学工程与技术学院;2) 教授、硕士生导师, 太原理工大学环境工程学院, 030024 　太原
+关键词：煤热解, 气态产物, 分布
+STUDY ON GASEOUS PRODUCTS DISTRIBUTIONS DURING COAL PYROLYSIS
+Zhao Lihong 　Guo Huiqing and Ma Qinglan
+(Col lege of Chemist ry and Chemical E ngineering , Taiy uan University of Technology , 030024 Taiy uan)
+KEYWORDS：coal py ro lysi s , g aseo us product , distributions
+
+
+
+
+无烟煤二氧化碳气化反应动力学研究（10-13+30）
+邓　剑1) 　罗永浩2) 　王清成3)
+1) 博士生;2) 教授;3) 工程师, 上海交通大学热能工程研究所, 200240 　上海
+关键词：气化反应, 无烟煤, 二氧化碳, 动力学
+STUDY ON GASIFICATION OF ANTHRACITE WITH CARBON DIOXIDE BY THERMOGRAVIMETRY
+Deng Jian　Luo Yonghao and Wang Qingcheng
+(Insti tute of Thermal Engineering , Shanghai J iaotong University , 200240 Shanghai)
+KEYWORDS：gasification , anthraci te , carbondioxide , kinetics
+
+
+不同煤阶煤成焦过程中密度及挥发分的变化（14-17）
+申　峻1) 　王志忠2) 　邹纲明3)
+1) 副教授;2) 教授、博士生导师, 太原理工大学化学化工学院, 030024 　太原;3) 教授, 茂名学院, 525000 　广东茂名
+关键词：煤, 成焦, 真相对密度, 挥发分
+VARIATION OF TRUE RELATIVE DENSITY AND VOLATILE DURING COKING PROCESS OF DIFFERENT RANK COALS
+Shen Jun 　Wang Zhizhong and Zou Gangming*
+(College of Chemistry and Chemical E ngineering , Taiy uan Universi ty o f Technology , 030024 Taiy uan ;*Department of Chemical Engineering ,Maoming College , 525000 Maoming Guangdong)
+KEYWORDS：coal , coking , t rue relat ive density , volatile
+
+
+
+
+苯磺酸对镇城底煤电化学强化浮选脱硫的研究（18-20）
+辛瑞龙1)　董宪姝2)　王志忠3)
+1)硕士生;2)副教授、硕士生导师;3)教授、博士生导师, 太原理工大学化工学院, 030024 　太原
+关键词：苯磺酸, 电化学, 强化浮选脱硫, 有机酸, 洁净煤
+STUDY ON UTILIZING THE STRONG ORGANIC ACID OF BENZENE SULFONIC ACID AS REAGENT INTO ELECTROCHEMICAL ENHANCING FLOATATION AND DESULFURIZATION OF ZHENCHENGDI COAL
+Xin Ruilong 　Dong Xianshu and Wang Zhizhong
+(Col lege of Chemistry and Engineering , Taiy uan Universi ty o f Technology , 030024 Taiyuan)
+KEY WORDS：benzene sulfo nic acid , elect rochemist ry , f loatatio n desulfurization , organic acid , clean coal
+
+
+
+水煤浆气化炉的形式和新型气化炉的开发（21-25）
+于海龙1) 　刘建忠2) 　张桂芳3) 　岑可法2)
+1) 副教授, 中原工学院能源与环境学院;3) 助教, 中原工学院理学院, 450007 　郑州;2) 教授、博士生导师, 浙江大学能源洁净利用国家重点实验室, 310027 　杭州
+关键词：水煤浆, 气化炉, 流场结构
+MODE OF COAL-WATER-SLURRY GASIFIER AND EXPLOITATION OF NEW TYPE GASIFIER
+Yu Hailong 　Liu Jianzhong* 　Zhang Guifang and Cen Kefa*
+(S chool o f Energy and Env ironment , Zhongy uan University of Technology , 450007 Zhengzhou ;*Clean Energ y and E nv ironment Eng ineering Key Lab o f China , Zhej iang University , 310027 Hangzhou)
+KEYWORDS：coal water slurry (CWS), gasifier , flow field configuration
+
+
+
+焦炉集气管压力工业过程控制的研究（26-30）
+吴晓苏1) 　张中明2)
+　1) 副教授;2) 高级工程师, 杭州职业技术学院机电工程系, 310018 　杭州
+关键词：焦炉, 集气管压力, 数学模型, 耦合
+STUDY ON INDUSTRIAL PROCESS CONTROL OF GASCOLLECTOR PRESSUREOF COKE FURNACE
+Wu Xiaosu and Zhang Zhongming
+(Mechanical and E lectrical E ngineering Department , Hangzhou Vocational and Technical Col lege , 310018 Hangzhou)
+KEYWORDS：coke furnace , gas-collecto r pressure ,mathematical mode , coincidence
+
+
+
+捣固机设计方案综合评价方法研究（31-33）
+王春雨1)
+1)副教授, 河北理工大学轻工学院, 063020 　河北唐山
+关键词：捣固机, 设计方案, 层次分析法, 灰色系统理论, 综合评价
+STUDY ON SYNTHESIS EVALUATINGMEANSOF THE DESIGN SCHEME OF FIRMINGMACHINE
+Wang Chunyu
+(I nst itute o f Light Industry , Hebei Poly technic Universi ty , 063020 Tangshan , Hebei)
+KEYWORDS：fi rming machine , design scheme , analyt ic hierarchy process , g rey sy stem theory, comprehensive evaluation
+
+
+
+半焦对富含甲烷气体转化制备合成气的作用(Ⅱ)改性半焦对CO 和H2 反应生成CH4 的作用（34-38）
+李玉洁1) 　王　鹏1) 　赵　炜2) 　张永发3)
+1) 硕士生;2) 副教授;3) 教授, 煤科学与技术教育部和山西省重点实验室, 太原理工大学, 030024 　太原
+关键词：焦炉煤气, 半焦, 合成气, 改性
+EFFECT OF CHAR ON THE CONVERSION OF METHANE TO PRODUCE SYNGAS (Ⅱ) THE EFFECTOF MODIFIED CHAR ON PRODUCING CH4 FROM CO AND H2
+Li Yujie 　Wang Peng 　Zhao Wei and Zhang Yongfa
+(Key Laboratory of Coal Science and Technology , Mini stry of Ed ucation and Shanx i Province , Taiyuan University of Technology , 030024 Taiy uan)
+KEYWORDS：oven gas , char , syng as , alkali metals
+
+
+
+焦炉煤气再燃降低NOx 排放技术研究（39-42+48）
+侯祥松1) 　张　海2)
+1) 博士生;2) 副教授, 清华大学热能系, 100084 　北京
+关键词：焦炉煤气, 再燃, 脱硝
+STUDY ON TECHNOLOGY OF NOx EMISSION REDUCTION BY COKE OVEN GAS REBURNING
+Hou Xiangsong and Zhang Hai
+(Department of Thermal E ngineering of Tsinghua Univ ersity , 100084 　B ei j ing)
+KEYWORDS：coke oven g as , de-NO x , reburning
+
+
+
+固体热载体热解高挥发分烟煤产物分布及性质（43-48）
+梁　鹏1) 　曲　旋1) 　毕继诚2)
+1) 博士生;2) 研究员、博士生导师, 中国科学院山西煤炭化学研究所煤转化国家重点实验室, 030001 　太原
+关键词：固体热载体, 煤热解, 产物, 性质
+PRODUCT DISTRIBUTION AND CHARACTERISTIC OF SOLID HEAT CARRIER PYROLYSIS OF HIGH VOLATILE BITUMINOUS COALS
+Liang Peng 　Qu Xuan and Bi Jicheng
+(State K ey Laboratory o f Coal Conv ersion , Inst itute o f Coal Chemi stry , Chinese Academy o f S ciences , 030001 Taiy uan)
+KEYWORDS：solid heat carrier , coal py roly sis , product , characteristic
+
+
+
+由阳城煤二次放电制备炭纳米管（49-51）
+吴建兵1) 　吕永康2) 　凌丽霞3) 　鲍卫仁4)
+1) 硕士生;2) 教授、博士生导师;3) 博士生;4) 教授, 太原理工大学煤科学与技术教育部和山西省重点实验室, 030024 　太原
+关键词：炭纳米管, 电弧法, 煤, 二次放电, 机理
+SYNTHESISOF CARBON NANOTUBES FROM YANGCHENG COAL BY TWICE ARC-DISCHARGE
+Wu Jianbing 　Lü Yongkang 　Ling Lixia and Bao Weiren
+(Key Laboratory of Coal Science and Technology o f S hanxi Prov ince and the Ministry of Education , Taiy uanUniv ersity of Technology , 030024 Taiy uan)
+KEYWORDS：carbo n nanotubes , arc-discharge method , coal , tw ice arc-discharg e , mechanism
+
+
+
+煤矸石热活化及影响因素（52-56）
+李永峰1) 　王万绪2) 　杨效益3)
+1) 硕士生;2) 教授级高级工程师;3) 高级工程师, 中国日用化学工业研究院, 030001 　太原
+关键词：煤矸石, 热活化, 活性, 影响因素
+THERMAL ACTIVATION AND INFLUENTIAL FACTORS OF COAL-GANGUE
+Li Yongfeng 　Wang Wanxu and Yang Xiaoyi
+(China Research I nst itute o f Dai ly Chemical Industry , 030001 　Taiyuan )
+KEYWORDS：coal-g ang ue , the rmal activation , activi ty , inf luential factors
+
+
+
+
+陕北高硫煤筛分浮沉脱除硫及灰分实验研究（57-59+77）
+蔡会武1) 　杜美利2) 　王水利2)
+1) 副教授;2) 教授, 西安科技大学化学与化工系, 710054 　西安
+关键词：脱硫, 筛分, 浮沉, 粒级, ZnCl2
+FLOATING AND SINKING TESTS FOR SCREENING OF HIGH SULFUR COAL
+Cai Huiwu　DuMeil i and Wang Shuili
+(Department o f Chemist ry and Chemical Engineering , X i'an Universi ty of S cience and Technology , 710054 Xi'an)
+KEYWORDS　desulfuratio n , screening , floating and sinking test s , part icle grades , zinc chloride(ZnCl2)
+
+
+
+烟气脱硫细菌的筛选及其生理特性研究（60-63）
+李　华1)
+1) 博士、副教授, 郑州大学化工学院, 450002 　郑州
+关键词：微生物, 烟气, 脱硫, 筛选, 生理特性
+SCREEN OF STRAINS TO REMOVE SO2 FROM FLUE GAS AND RESEARCH ON PHYSIOLOGICAL CHARACTERISTICS
+Li Hua
+(Chemical Engineering Col lege o f Zhengz hou Universi ty , 450002 Zhengzhou)
+KEYWORDS：microorg anism , f lue gas , desulphurizat ion , screen , phy siolog ical characteristics
+
+
+
+飞灰快速水化团聚颗粒的热态磨耗研究（64-67）
+李登新1) 　姬　冲2) 　徐　猛2) 　吕俊复3)刘　青4) 　张建胜5) 　岳光溪3)
+1) 博士、教授, 东华大学环境科学与工程学院, 200051 　上海;2) 研究生;3) 教授;4) 副教授;5) 讲师, 清华大学热能工程系, 100084 　北京
+关键词：飞灰, 流化床, 水化, 团聚, 磨耗速率
+WEAR OF FLASH HYDRATED AND AGGLOMERATED CFB FL ASH IN HOT RIG
+Li Dengxin　Ji Chong* 　XuMeng* 　Lü Junfu* 　Liu Qing*
+Zhang Jiansheng* and Yue Guangxi *
+(Department of Environmental Eng ineering , Donghua Universi ty , 200051 　Shanghai ; *Department of Thermal E ngineering , Tsinghua Universi ty , 100084 　Bei j ing)
+KEYWORDS：fly ash ,CFB , hydration , agg lomerat ion , rate of w ea r
+
+
+
+粉煤灰制备分子筛及处理含酚废水的研究（68-72）
+郝培亮1) 　王永红2) 　李晓峰3) 　窦　涛4) 　王增长5)
+1) 博士生;2) 硕士生;5) 教授、博士生导师, 太原理工大学环境科学与工程学院;3) 博士生;4) 教授、博士生导师, 太原理工大学精细化工研究所, 030024 　太原
+关键词：流化床粉煤灰, X 型分子筛, 苯酚, 废水处理
+STUDY ON SYNTHESIZING ZEOLITES WITH FLY ASH AND TREATMENTOF THE PHENOL WASTEWATER
+Hao Peiliang 　Wang Yonghong 　Li Xiaofeng* 　Dou Tao* and Wang Zengzhang
+(E nv ironment Science and Engineering Academe , Taiy uan Universi ty of Technology ;* Institute of S pecial Chemical , Taiyuan University of Technology , 030024 Taiy uan)
+KEYWORDS：fluidization bed fly ash , Xzeo lites , pheno l , treatment of waste water
+
+
+
+煤中显微组分液化反应性研究进展（73-77）
+夏筱红1) 　秦　勇2) 　凌开成3) 　吴艳艳4) 　王文峰5)
+1) 博士生、讲师;2) 教授、博士生导师;4) 硕士生;5) 博士、副教授, 中国矿业大学资源与地球科学学院, 221008 　江苏徐州;3) 教授、博士生导师, 太原理工大学化工学院, 030024 　太原
+关键词：煤, 显微组分, 液化反应性
+ADVANCESON STUDY OF LIQUEFYING ACTIVITY FROM COAL MACERALS
+Xia Xiaohong 　Qin Yong 　Ling Kaicheng* 　Wu Yanyan and Wang Wenfeng
+(School of Resources and Geosciences , China Universi ty o f Mining and Technology , 221008 X uz hou ;* Taiy uanUniv ersity of Technology , 030024 Taiyuan)
+KEYWORDS：coal ,mace ral s , liquefaction reativi ty
+
+
+
+我国煤矸石资源化再生利用途径的分析（78-82）
+李　琦1) 　孙根年2) 　韩亚芬1) 　陈素景1)
+1) 硕士生;2) 教授、博士生导师, 陕西师范大学旅游与环境学院, 710062 　西安
+关键词：煤矸石, 能源利用, 建材利用, 化工利用
+ANALYSIS OF REGENERATIVE UTILIZATION WAYS OF COAL GANGUE RESOURCE IN CHINA
+Li Qi 　Sun Gennian 　Han Yafen and Chen Sujing
+(Col lege o f Tourism and Envi ronment S cience , S hanx i Normal Univ ersity , 710062 X i'an)
+KEYWORDS：coal g ang ue , energy sources ut ili zation , building materials ut ili zatio n , chemical techniques utilizatio n
+
+
+
+不同碳源制备气相生长炭纤维的研究（83-88）
+吉卫云1) 　杨永珍2) 　刘旭光3) 　许并社4)
+1) 硕士生;3) 教授、博士生导师, 太原理工大学化学化工学院;2) 博士生;4) 教授、博士生导师,太原理工大学材料科学与工程学院,030024 　太原
+关键词　碳源, 煤沥青, 气相生长炭纤维, 生长机理
+DEVELOPMENT OF SYNTHESISOF VAPOR-GROWN CARBON FIBERS FROM DIFFERENT CARBON SOURCES
+Ji Weiyun　Yang Yongzhen* 　Liu Xuguang and Xu Bingshe*
+(College of Chemi stry and Chemical Engineering , Taiy uanUniv ersity of Technology ;*Col lege o f Materials Science and Engineering , Taiy uan University of Technolog y , 030024 Taiy uan)
+KEYWORDS：carbo n source s , co al pi tch , vapo r-g row n carbon f ibers , g row th mechanism
+
+
+
+先进再燃脱硝机理与添加剂增效机理（89-96）
+韩奎华1) 　路春美2)
+1) 博士生;2) 博士、教授, 山东大学能源与动力工程学院, 250061 　济南
+关键词：先进再燃, 脱硝, 反应机理, 添加剂
+NITROUS OXIDE REDUCTION MECHANISM AND SYNERGISTIC MECHANISMOF ADDITIVES FOR ADVANCED REBURNING PROCESS
+Han Kuihua and Lu Chunmei
+(S chool o f Energy and Power Eng ineering , S handong Universi ty , 250061 J i'nan)
+KEYWORDS：advanced reburning , nit rous o xide reduct ion , reactio n mechanism , addit ive
+低阶煤在湿的氧气下低温氧化过程热力学规律（1-5）
+李永昕1) 　薛　冰2) 　柳　娜2) 　Pradeep K Agarw al3)
+1) 博士、教授;2) 助教, 江苏工业学院化工系, 213164 　江苏常州;3) 教授,美国怀俄明大学化工系, 82071-3295 　美国怀俄明
+关键词：低阶煤, 低温氧化, 热力学
+THERMODYNAMIC LAWOF LOW TEMPERATURE OXIDATION OF LOWRANK COAL UNDER WETOXYGEN
+Li Yongxin 　Xue Bing 　Liu Na and Pradeep K Agarwal *
+(Department of Chemical Engineering , J iangsu Poly technic Universi ty , 213016 J iangsu Changzhou ;*Department o f Chemical Eng ineering , Universi ty o f Wy oming , 82071-3295 Wy oming ,US A)
+KEYWORDS：low rank coal , low tempe rature ox idatio n , theromo dy namic
+
+
+
+神府煤甲醇萃取物的GC /MS 及FTIR 分析（6-9+27）
+欧阳晓东1) 　丁明洁1) 　宗　营2) 　宗志敏3) 　魏贤勇4)
+1) 博士生、副教授;2) 硕士生;3) 教授;4) 教授、博士生导师, 中国矿业大学, 221000 　江苏徐州
+关键词：煤, 溶剂萃取, 结构分析,GC /MS , FTIR
+ANALYSIS OF METHANOL-EXTRACTS FROM SHENFU COAL BY GC/MS AND FTIR
+Ouyang Xiaodong 　Ding Mingjie 　Zong Ying 　Zong Zhiming and Wei Xianyong
+(School o f Chemical Engineering and Technology , ChinaUniv ersity of Mining and Technology , 221008 X uzhou , J iangsu)
+KEYWORDS：coal , solvent ext ract ion , structure analy sis ,GC /MS , FTIR
+
+
+
+霍州煤氧化性气氛下热解预脱硫及硫的变迁（10-13）
+郭慧卿1) 　赵丽红1) 　马青兰2) 　刘粉荣3)
+1) 硕士生, 太原理工大学化学与工程技术学院;2) 教授, 太原理工大学环境工程学院, 030024 　太原;3) 博士, 中国科学院山西煤炭化学研究所, 030001 　太原
+关键词：热解, 脱硫, 热解质谱
+SULFUR REMOVAL AND TRANSFORMATION OF HUOZHOU COAL DURING PYROLYSIS UNDER OXIDATIVE ATMOSPHERE
+Guo Huiqing　Zhao Lihong　Ma Qinglan* and Liu Fenrong**
+(Col lege of Chemistry and Chemical Engineering , Taiy uan Unv iersi ty of echnology ; *Col lege o f Envi roment Engineering , Taiy uanUniv ersity of Technolog y , 030024 Taiy uan ;** Shanx i Inst itute o f Coal Chemi stry , Chinese Academy o f S ciences , 030001 Taiy uan)
+KEYWORDS：pyrolysis , sulfur remo val , PY-MS
+
+
+
+
+漆酶对微生物溶煤作用的研究（14-17）
+崔志芳1) 　李春露2) 　王　力3)
+1) 博士、副教授;2) 讲师;3) 教授、博士生导师, 山东科技大学化学与环境工程学院, 266510 　山东青岛
+关键词：微生物溶解, 机理, 褐煤, 漆酶
+STUDY ON THE FUNCTION OF THE LACCASE DURING THE BIODEGRADATION OF COAL
+Cui Zhi fang 　Li Chunlu and Wang Li
+(College o f Chemical and Environmental Engineering , Shandong University of Science and Technology , 266510 Qingdao , S handong )
+KEYWORDS：bioso lubilization , mechanism , lignite , laccase
+
+
+
+
+生物质与煤共热解时COS的析出特性研究（18-21）
+尚琳琳1) 　程世庆2) 　张海清1) 　殷炳毅1)
+1) 硕士生;2) 博士、教授, 山东大学能源与动力工程学院, 250061 　济南
+关键词：生物质, 混合热解, 热重分析,COS , 质谱色谱
+INVESTIGATION OF THE CHARACTERISTICS OF COS RELEASED FROM COAL/BIOMASS BLENDS DURING CO-PYROLYSIS
+Shang Linlin　Cheng Shiqing 　Zhang Haiqing and Yin Bingyi
+(College of Energ y and Power Engineering , S handong University , 250061 J i'nan) KEYWORDS　biomass , co-py roly sis , thermal-g ravime tric analy sis (TGA), COS , gas ch romatog ram (GC) and mass spect rum (MS)
+
+
+
+神经网络预测煤焦高温气化反应速率研究（22-27）
+张　晓1) 　吴诗勇2) 　顾　菁2) 　吴幼青3) 　高晋生4)
+1) 硕士生;2) 博士生;3) 副教授;4) 教授、博士生导师,华东理工大学能源化工系, 200237 　上海
+关键词：煤气化, 神经网络, L-M 算法, 高温
+STUDY ON BACK-PROPAGATION NEURAL NETWORK MODELINGOF PREDICTING THE GASIFICATION RATE UNDER THE ELEVATED TEMPERATURES
+Zhang Xiao　Wu Shiyong 　Gu Jing 　Wu Youqing and Gao Jinsheng
+(Department o f Chemical Engineering f or Energy Resources , East China Univ ersity of Science and Technology , 200237 S hanghai)
+KEYWORDS：coal g asification , neuro n netw ork , L-M algo ri thm , elevated temperature
+
+
+
+煤炭地下气化过程中煤层热解DAE 模型的研究（28-30+56）
+彭丰成1) 　梁新星1) 　李玉兰1) 　柳迎红2)
+1) 硕士生;2) 博士生、高级工程师, 中国矿业大学化学与环境工程学院, 100083 　北京
+关键词：煤炭地下气化, 热解,DAE 模型
+STUDY ON THE DAE MODEL OF PYROLYSIS IN THE PROCESS OF UNDERGROUND COAL GASIFICATION
+Peng Fengcheng Liang Xinxing Li Yulan and Liu Yinghong
+(College o f Chemical and Envi roment Engineering ,ChinaUniversity of Mining and Technology , 100083 Bei j ing)
+KEYWORDS：underg ro und co al gasif icat ion , py roly sis ,DAE mo del
+
+
+
+
+复合金属氧化物脱除羰基硫的研究（31-35）
+赵　海1) 　王芳芳2) 　伍星亮2) 　倪建军3) 　张德祥4) 　高晋生5)
+1) 博士生;2) 硕士生;3) 本科生;4) 教授;5) 教授、博士生导师, 华东理工大学能源化工系, 200237 　上海
+关键词：铁锰脱硫剂, 脱硫, 羰基硫, 添加剂
+RESEARCH ON COS REMOVAL BY COMPOUND-METAL OXIDE DESULFURIZER
+Zhao Hai 　Wang Fangfang 　Wu Xingliang　Ni Jianjun　Zhang Dexiang and Gao Jinsheng
+(Department o f Chemical Engineering for Energy Resources , East China Univ ersity of Science and Technology , 200237 Shanghai)
+KEYWORDS：iro n-mang anese desulfurizer , desulfurizatio n ,COS , addi tive
+
+
+
+
+煤拔头工艺中煤和循环热灰混合行为（36-40）
+林雪彬1) 　赵广播2) 　吴少华2) 　秦　明3)
+1) 助教, 集美大学机械工程学院热力教研室, 361012 　福建厦门;2) 教授、博士生导师;3) 副教授, 哈尔滨工业大学, 150001 　哈尔滨
+关键词：煤拔头, 固-固混合, 挡板
+MIXING BEHAVIOR BETWEEN COAL AND HOT CIRCULATING ASH IN DOWN FLOW OF COAL TOPPING PROCESS
+Lin Xuebin　Zhao Guangbo* 　Wu Shaohua*and Qin Ming*
+(Teaching and Research Groups of Thermal Engineering ,Department of Mechanical Engineering of J imei Universi ty , 361012 X iamen ,Fujian; * Harbin Insti tute of Technology , 150001 Harbin)
+KEYWORDS：coal topping , solid-solid blend , baff le
+
+
+
+半焦对富含甲烷气体转化制备合成气的作用(Ⅲ )半焦中硫在焦炉煤气转化过程中迁移和转化（41-44）
+李玉洁1) 　张华伟1) 　王　鹏1) 　赵　炜2) 　张永发3)
+1) 硕士生;2) 副教授;3) 教授, 煤科学与技术教育部和山西省重点实验室, 太原理工大学, 030024 　太原
+关键词：焦炉煤气, 半焦, 脱硫,H2S ,COS
+EFFECTOF CHAR ON THE CONVERSION OF METHANE TO PRODUCE SYNGAS (Ⅲ) TRANSFER AND CONVERSION OF SULFUR IN CHAR DURING THE CONVERSION OF OVEN GAS
+Li Yujie 　Zhang Huawei 　Wang Peng 　Zhao Wei and Zhang Yongfa
+(Key Laboratory of Coal Science and Technology , Mini stry of Education and Shanxi Prov ince , Taiyuan University of Technology , 030024 Taiy uan)
+KEYWORDS：oven gas , char , desulfurization ,H2S , COS
+
+
+
+煤用微乳液助滤剂的研制（45-47）
+刘爱荣1)
+　1) 助教, 太原理工大学矿业工程学院, 030024 　太原
+关键词：微乳液, 乳化剂, 微乳液聚合, 助滤剂, 过滤
+PREPARATION OF MICROEMULSION FILTER AIDS OF FINE CLEAN COAL
+Liu Airong
+(College of Mining Engineering , Taiy uanUniversity of Technology , 030024 Taiy uan)
+KEYWORDS：microemulsion , emulsif ier ,microemulsion polymeri zatio n , f ilte r aid , fi lt ration
+
+
+
+“双气头”多联产中试装置的流程设计研究（48-52）
+王明华1) 　李　政2) 　倪维斗3)
+1) 博士生;2) 教授、博士生导师;3) 中国工程院院士、教授、博士生导师, 清华大学热能工程系, 100084 　北京
+关键词：“双气头”多联产, 中试装置, 设计原则,CO2-CH4 重整, 流程模拟
+RESEARCH ON FLOWSHEET DESIGN OF MEDIUM SCALE DOUBLE GAS POLYGENERATION DEVICE Wang Minghua　Li Zheng and Ni Weidou
+(Department of Thermal Eng ineering , Tsinghua University , 100084 Bei j ing)
+KEY WORDS：double g as poly generat ion , medium scale device , desig n principle , CO2-CH4 refo rming , flow chart simula tion
+
+
+
+
+微波加热化学活化法制备高比表面活性炭（53-56）
+冀勇斌1) 　李铁虎2) 　朱　丽3) 　王小宪1)
+1) 博士生;2) 教授、博士生导师, 西北工业大学材料学院;3) 硕士生, 西北工业大学理学院化工系, 710072 　西安
+关键词：微波加热, 活性炭, 中间相炭微球(MCMB)
+PREPARATION OF HIGH SURFACE AREA ACTIVATED CARBON BY MICROWAVE HEATING INDUCE CHEMICAL ACTIVATION
+Ji Yongbin 　Li Tiehu　Zhu Li * and Wang Xiaoxian
+(Department of Material s Science and Engineering , Northwestern Poly technic Universi ty ;*Department o f Chemical , Northwestern Poly technicUniv ersity , 710072 Xi’an)
+KEYWORDS：microw ave heating , activated carbon , mesocarbo n microbeads (MCMB)
+
+
+
+煤层气吸附/解吸分馏的从头计算研究（57-60）
+陈　润1) 　苏现波2) 　刘国伟1)
+1) 硕士生;2) 教授、博士生导师, 河南理工大学资源环境学院, 454003 　河南焦作
+关键词：煤层气, 吸附/解吸, 甲烷碳同位素分馏效应, 从头计算
+CARBON ISOTOPE FRACTIONATION DURING COALBED METHANE ADSORPTION/DESORPTION: AN AB INITIO STUDY
+Chen Run　Su Xianbo and Liu Guowei
+(Insti tute of Resource and Env ironment , He’ nan Poly technic Universi ty , 454003 J iaozuo , He’ nan)
+KEYWORDS：co albed methane , adso rption /deso rpt ion , f ractionation effect of methane carbon isotope , an ab ini tio
+
+
+
+中间相热转化行为研究（61-64）
+王大彦1) 　周晓龙2) 　金鸣林3) 　陈　静4) 　胡静霞5)
+1) 硕士生;2) 教授、研究生导师, 华东理工大学石油加工研究所, 200237 　上海;3) 教授、研究生导师;4) 硕士生;5) 实验师, , 上海应用技术学院, 200235 　上海
+关键词：催化裂化油浆, 中间相, 热转化, 预处理
+STUDY ON THE THERMAL CONVERSION OF MESOPHASE
+Wang Dayan　Zhou XiaoLong 　Jin MingLin* 　ChenJing* and Hu JingXia*
+(Petroleum Processing Research Center , East China Univ ersity of Science and Technology , 200237 S hanghai ;* Material Process Department , Shanghai Institute of Technology , 200235 Shanghai)
+KEYWORDS：FCC slur ry ,meso phase spherule , thermal conversio n , pret reatment
+
+
+
+软沥青热聚合制备高含量中间相预聚体的研究（65-69）
+张海琦1) 　金鸣林2) 　李和兴3) 　张　琢4) 　陈　静5)
+1) 硕士生;3) 教授、硕士生导师,上海师范大学, 200234　上海;2) 教授、硕士生导师;4) 工程师;5) 硕士生, 上海应用技术学院, 200235 　上海
+关键词：软沥青, 热聚合, 中间相, 预聚体
+STUDY ON THE THERMAL POLYMERIZATION PREPARATION OF PRE-POLYMER WITH HIGH-CONTENT MESOPHASE FROM COAL TAR PITCH
+Zhang Haiqi 　Jin Mingl in* 　Li Hexing　Zhang Zhuo* and Chen Jing*
+(Shanghai Normal Universi ty , 200234 S hanghai ;* S hanghai Insti tute o f Technology , 200235 Shanghai)
+KEYWORDS：softpitch , thermal polymerizatio n ,mesophase , pre-polymer
+
+
+
+炭材料用改性煤沥青的结构及性能研究（70-72+85）
+宋士华1) 　马明亮2) 　魏健宁3) 　李世斌3) 　李铁虎4)
+1) 讲师;2) 教授;3) 副教授, 九江学院, 332009 　江西九江;4) 教授、博士生导师, 西北工业大学材料科学与工程学院, 710072 　西安
+关键词：4-MB , 煤沥青, 改性, 中间相, 微观结构
+EFFECTSOF PROCESS CONDITIONS ON THE MESOPHASE MICROSTRUCTURE OF COAL TAR PITCH MODIFIED WITH 4-METHYL BENZALDEHYDE
+Song Shihua　Ma Mingliang 　Wei Jianning 　Li Shibin and Li Tiehu*
+(Materials Science and E ngineering Department of J iuj iang Universi ty , 332005 J iuj iang , J iang xi ;*Materials S cience and Engineering Department of Northwest Poly technical University , 710072 Xi’an)
+KEYWORDS：4-MB , coal tar pitch ,modificatio n ,mesophase ,micro st ructure
+
+
+
+
+粉煤灰制免烧陶粒的实验研究（73-76）
+邹志祥1) 　张　瑜1) 　董众兵2)
+1) 硕士生;2) 研究员、博士生导师, 安徽理工大学化学工程系, 232001 　安徽淮南
+关键词：粉煤灰, 免烧陶粒, 筒压强度
+EXPERIMENTAL STUDY ON PREPARATION OF NON-SINTERED CERAMSITE FROM FLY ASH
+Zou Zhixiang Zhang Yu and Dong Zhongbing
+(Department o f Chemical Engineering , Anhui Universi ty of Science and Technology , 232001 Huainan , Anhui)
+KEYWORDS：fly ash , non-sintered ce ramsite , cylindrical compress strength
+
+
+
+
+几种互溶液体密度加和性的研究（77-80）
+王迎春1) 　凌开成2) 　申　峻3)
+1) 助教, 太原科技大学化工系, 030021 　太原;2) 教授、博士生导师;3) 博士、副教授, 太原理工大学化工学院, 030024 　太原
+关键词：密度, 混合物, 加和性
+STUDY ON DENSITY ADDITIVE PROPERTY OF SEVERAL MUTUALLY SOLUBLE LIQUIDS
+Wang Yingchun　Ling Kaicheng*and Shen Jun*
+(College of Chemi stry and Biological Engineering , Taiy uanUniv ersity of Science and Technology , 030021 Taiy uan ;*College of Chemi stry and Chemical Engineering , Taiyuan Universi ty o f Technology , 030024 Taiy uan)
+KEYWORDS：densi ty , mix ture , addi tive property
+
+
+
+流化床煤气化技术的研究进展（81-85）
+屈利娟1)
+1) 硕士生、工程师, 浙江大学, 310027 　杭州
+关键词　流化床, 煤气化, 气化工艺
+PROGRESSOF RESEARCH IN THE FLUIDIZED BED COAL GASIFICATION TECHNOLOGY
+Qu Lijuan
+(Zhej iang University , 310027 Hangzhou)
+KEYWORDS：fluidized bed , coal gasificatio n , g asification technology
+
+
+
+
+液化条件下煤中共价键断裂难度降低原因分析（86-90）
+李刚;凌开成; 
+
+
+粉煤灰合成沸石的研究（91-95）
+刘　艳1)　马　毅2)　李　艳3)　邢存章4)　吕海亮5)
+1)硕士生;2)副教授;3)助教;4)教授;5)博士、副教授, 山东轻工业学院化学工程学院, 250353 　济南
+关键词：粉煤灰, 沸石, 合成
+ZEOLITE SYNTHESIS FROM COAL FLY ASH
+Liu Yan 　Ma Yi　Li Yan　Xing Cunzhang and Lǜ Hailiang
+(College of Chemical Engineering , Shandong I nst itute o f Light Industry , 250353 　J inan)
+KEYWORDS：coal fly ash , zeolite , sy nthesis
+低阶煤低温氧化过程热力学规律的研究（1-4）
+薛　冰1)　柳　娜1)　李永昕2)　Pradeep K Agarw al3)
+1)助教;2)教授, 江苏工业学院化工系, 213016 　江苏常州;3)教授, 美国怀俄明大学化工系, 82071-3295 美国　怀俄明
+关键词：低阶煤, 凝结热, 低温氧化
+STUDY ON THE THERMODYNAMIC LAWOF LOW TEMPERATURE OXIDATION OF LOW RANK COAL
+Xue Bing　Liu Na　Li Yongxin and Pradeep K Agarwal ＊
+(Department o f Chemical Engineering , J iangsu Poly technic University , 213164 Changzhou , J iangsu ;＊Department o f Chemical Engineering , Universi ty of Wy oming , 82071-3295 Wy oming ,USA)
+KEYWORDS：low rank coal , condensation heat , low temperature oxidation
+
+
+
+碱-氧氧化霍林河褐煤的研究(5-7+44)
+张秋民1)　潘琦琨2)　何德民3)　赵树昌4)　关　珺5)
+1)副教授;2)硕士生;3)工程师;4)教授;5)讲师, 大连理工大学化工学院, 116012 　辽宁大连
+关键词：霍林河褐煤, 煤酸, 碱-氧氧化
+FORMATION OF AROMATIC POLYCARBOXYLIC ACIDS FROM HUOLINHE LIGNITE BY OXYGEN OXIDATION IN ALKALINE MEDIUM
+Zhang Qiumin 　Pan Qikun　He Demin　Zhao Shuchang and Guan Jun
+(College o f Chemical Engineering ,Dalian Universi ty o f Technology , 116032 Dalian , Liaoning)
+KEYWORDS：Huolinhe lignite , coal acids , oxidation
+
+
+
+微波辅助抽提煤的实验研究（8-11）
+陈　红1) 　葛岭梅2) 　逯俊庆3) 　李建伟4)
+1)博士生、副教授;2)博士生导师、教授;3)硕士;4)副教授, 西安科技大学化学与化工系, 710054 　西安
+关键词：微波辅助抽提, 煤, 抽提率, FT-IR ,GC/MS
+EXPERIMENTAL STUDY ON MICROWAVE-ASSISTED EXTRACTION OF COAL
+Chen Hong 　Ge Lingmei 　Lu Junqing and Li Jianwei
+(Department of Chemistry and Chemical Engineering , Xi'an University of Science and Technology , 710054 Xi'an)
+KEYWORDS：MAE , coal , extraction yield , FT-IR ,GC/MS
+
+
+
+煤样类型对煤/聚苯胺复合材料导电率的影响（12-15）
+汪晓芹1)　周安宁2)　李侃社3)　曲建林4)　葛岭梅2)
+1)博士、讲师;2)博士生导师、教授;3)博士、教授;4)高级工程师, 西安科技大学化学与化工系, 710054 　西安
+关键词：煤, 聚苯胺, 酚, 矿物质
+EFFECTSOF COAL SAMPLESON THE CONDUCTIVITY OF COAL/POLYANILINE COMPOSITES
+Wang Xiaoqin　Zhou Anning 　Li Kanshe 　Qu Jianlin amd Ge Lingmei
+(Department o f Chemistry and Chemical Engineering , X i'an University of Science and Technology , 710054 Xi'an)
+KEYWORDS：coal , polyani line , pheonol ,mineral
+
+
+
+贵州省晚二叠世煤中硫的分布特征及成因（16-20）
+赵福平1)
+1)工程硕士、工程师, 贵州煤矿地质工程咨询与地质环境监测中心, 550009 　贵阳
+关键词：晚二叠世, 煤中硫, 分布特征, 成因
+CAUSE AND DISTRIBUTION OF SULPHUROUS CONTENTOF THE LATE PERMIAN COAL IN GUIZHOU PROVINCE
+Zhao Fuping
+(The Center o f Geological Env ironment Moni tor and Consultative Coal Mine' s Geological P roject , 550009 Guiy ang)
+KEYWORDS：the Late Permian , sulphur of coal , dist ribut ion , cause
+
+
+
+热解条件对煤焦结构及气化反应活性的影响（21-24）
+王明敏1)　张建胜2)　张守玉3)　吴晋沪4)　岳光溪5)
+1)博士生;2)副教授;5)博士生导师、教授, 清华大学热科学与动力工程教育部重点实验室, 100084 　北京;3)副教授, 上海理工大学动力学院, 200093 　上海;4)博士生导师、研究员, 中国科学院山西煤炭化学研究所煤气化工程中心, 030001 　太原
+关键词：热解条件, 煤焦结构,CO2 气化, 反应活性
+EFFECT OF PYROLYSIS CONDITIONS ON THE STRUCTURE AND GASIFICATION REACTIVITY OF CHAR
+Wang Mingmin　Zhang Jiansheng 　Zhang Shouyu＊ 　Wu Jinhu＊＊ and Yue Guangxi
+(K ey Laboratory f or Thermal Science and Power Engineering ,Minist ry of E ducat ion , TsinghuaUniv ersity , 100084 Beijing ;＊College of Power Engineering , Universi ty of S hanghai for Science and Technology , 200093 Shanghai ;＊＊ Eng ineering Research Center for Coal Gasi f icat ion , Inst itute of Coal Chemistry , Chinese Academy of Science , 030001 Taiyuan)
+KEYWORDS：pyro lysi s conditio ns , char st ructure , CO2 gasif icat ion , reactivity
+
+
+
+配煤降低潞安煤灰熔融温度及其机理研究（25-30）
+王敏龙1) 　邓蜀平2) 　郝　栩2) 　李寒旭3)
+1)硕士生, 中国科学院研究生院, 100039 　北京;2)研究员、高级工程师, 中国科学院山西煤炭化学研究所, 030001 　太原;3)教授, 安徽理工大学化学工程系, 232001　安徽淮南
+关键词：配煤, 灰熔融特性, 化学组成, 矿物组成, 相图
+AN EXPERIMENTAL STUDY OF THE EFFECTOF LU' AN COAL BLENDINGON COAL ASH FUSIBILITY
+Wang Minlong　Deng Shuping＊ 　Hao Xu＊and Li Hanxu＊＊
+(Graduate School o f the Chinese Academic o f S ciences , 100039 Bei j ing ;＊ Inst itute of Coal Chemistry ,Chinese Academy o f Science , 0300001 Taiyuan ;＊＊ Anhui Univ ersity of Science and Technology , 232001 Huainan , Anhui)
+KEYWORDS：coal blending , coal ash fusibi lity , chemical composi tion , mineral compo sition, phase diag ram
+
+
+
+神华煤直接液化油煤浆常温流变特性研究（31-33）
+肖乃友1)　张荣曾2)　李克健3)
+1)博士生;2)博士生导师、教授, 中国矿业大学, 100083 　北京;3)研究员,煤炭科学研究总院, 100013 　北京
+关键词：油煤浆, 流变特性, 直接液化, 剪切速率
+STUDY ON RHELOGICAL PROPERTIES OF SHENHUA' S COAL-OIL SLURRY LIQUEFACTION
+Xiao Naiyou　Zhang Rongzeng and Li Kejian＊
+(China University of Mining and Technology , 100083 　Beijing ;＊China Coal Research I nst itute , 100013 　Beijing)
+KEYWORDS：coal-oi l slurry , rheological properties , direct liquefactio n , shear rates
+
+
+
+神华煤高压釜加氢液化等温反应的动力学研究（34-36）
+郭　治1) 　史士东2) 　王　勇3) 　艾　军3)
+1)教授;2)研究员;3)硕士生, 煤炭科学研究总院北京煤化工研究分院, 100013 　北京
+关键词：煤, 液化, 反应动力学
+KINETICSOF ISOTHERMAL HYDROLIQUEFACTION OF SHENHUA COAL IN AUTOCLAVES
+Guo Zhi　Shi Shidong 　Wang Yong and Ai Jun
+(Beijing Research I nst itute o f Coal Chemistry ,China Coal Research I nst itute , 100013 　Beijing)
+KEYWORDS：coal , liquefaction , react ion kinetics
+
+
+用煤系高岭岩制备纳米4A 沸石（37-40）
+蔡会武1)　王水利2)　刘向荣1)
+1)副教授;2)教授, 西安科技大学化学与化工系, 710054 　西安
+关键词：煤系高岭岩, 煅烧-水热合成, 纳米沸石
+SYNTHESIS OF NANOSIZED 4A-ZEOLITE WITH KAOLIN ROCK FROM COAL-MEASURES
+Cai Huiwu　Wang Shuili and Liu Xiangrong
+(Department of Chemistry and Chemical Engineering , Xi'an University of Science and Technology , 710054 Xi'an)
+KEY WORDS：Kao lin of coal measures , calcined-hy dro thermal sy nthesis , nanosized 4A-zeoli Te
+
+
+
+以煤炭直接液化残渣为原料制备炭纳米管（41-44）
+周　颖1)　张　艳2)　李振涛2)　余桂红2)　邱介山3)
+1)副教授、硕士生导师;2)硕士生;3)博士生导师、教授, 大连理工大学精细化工国家重点实验室, 116012 　辽宁大连
+关键词：煤炭直接液化残渣, 炭纳米管, 制备, 表征
+PRODUCTION OF CARBON NANOTUBES FROM COAL HYDROLIQUEFACTION RESIDUE
+Zhou Ying 　Zhang Yan　Li Zhentao　Yu Guihong and Qiu Jieshan
+(Carbon Research Laboratory, Center for Nano Materials and S cience, State Key Lab of Fine Chemicals, School of Chemical Engineering ,Dalian University of Technology, 116012 Dalian , Liaoning)
+KEYWORDS：coal hydroliquefaction residue , carbon nanotubes , preparatio n , characte rization
+
+
+
+生物质型煤的燃烧特性和影响因素（45-48）
+浮爱青1) 　黄光许2) 　谌伦建3) 　焦红光4)
+1)硕士重庆地质矿产研究院,400042 　重庆;2)助教;4)副教授, 河南理工大学材料学院;3)教授, 河南理工大学研究生处, 454003 　河南焦作
+关键词：生物质黏结剂, 燃烧特性, 热分析, 型煤
+COMBUSTION CHARACTERISTICS AND INFLUENCE FACTORS OF BIO-BRIQUETTE
+Fu Aiqing 　Huang Guangxu＊ 　Chen Lunjian＊＊ and Jiao Hongguang＊
+(Chongqing Insti tute of Geolog y and Mineral Resources , 400042 Chongqing ;＊ Insti tute of Material Science and Enginering , He'nan Poly technic Universi ty ;＊＊Department of Graduate , He'nan Poly technic Uniersi ty , 454003 J iaozuo , He'nan)
+KEYWORDS：bio-mass binder , combustion , the rmal analysis , briquet te
+
+
+
+新型黑液水煤浆的燃烧特性及动力学分析（49-52）
+朱　瑞1) 　黄定国2) 　吴玉敏3) 　许泽兵1)
+1)硕士;2)教授;3)高级工程师, 河南理工大学材料科学与工程学院, 454003 　河南焦作
+关键词：水煤浆, 热重分析, 燃烧特性, 动力学分析
+BURNING CHARACTER AND KINETICS ANALYSIS ON COAL WATER SLURRY WITH NEW BLACK LIQUID
+Zhu Rui　Huang Dingguo 　Wu Yumin and Xu Zebing
+(Institute of Material S cience and Engineering , He'nan Polytechnic Univ ersity , 454003 Jiaozuo, He'nan)
+KEYWORDS：coal water slurry , thermal analysis , burning character , kine tics analysis
+
+
+
+氧化铝厂赤泥剂的固硫反应动力学特性研究（53-57）
+赵改菊1) 　路春美2) 　田　园3) 　赵建立4) 　冯　春5) 　王沛法5)
+1)博士生;2)博士生导师、教授;3)博士生、讲师, 山东大学能源与动力工程能学院, 250061 　济南;4)硕士生, 山东省青年干部管理学院管
+理科学系, 250014 　济南;5)工程师, 山东省黄台电厂, 250100 　济南
+关键词：赤泥, 固硫剂, 机理, 动力学特性
+DESULFURIZATION REACTION MECHANISM AND KINETICS CHARACTERISTIC OF ALUMIUNA PRODUCTION DRAINAGE RED MUD USED FOR COAL DESULFURIZATION AGENTS
+Zhao Gaiju　Lu Chunmei　Tian Yuan＊ 　Zhao Jianli 　Feng Chun＊＊ andWang Peifa＊＊
+(School o f Energy and Power Engineering , S handong Universi ty , 250061 Ji'nan ;
+＊ Management School , S handong Insti tute for Youth Management , 250014 Ji'nan ;＊＊ Shandong Huangtai Power Plant , 250100 Ji'nan)
+KEYWORDS：red mud , desulfuriza tion agent s ,mechani sm , kinetics characte ristic
+
+
+
+W-FGD 中折板式除雾器性能的数值模拟（58-63）
+李　强1) 　陈凯华2) 　赵云生3) 　管崇学4)
+1)博士生、高级工程师;2)博士生, 北京科技大学土木与环境工程学院, 100083 　北京;3)高级工程师, 山西国电大同第二发电厂,037043山西大同;4)高级工程师, 天津国投津能发电有限公司, 300171 　天津
+关键词：W-FGD , 折板式除雾器,CFD , 分离效率, 压力降
+NUMERICAL SIMULATION OF PERFORMANCE OF CHEVRON MIST ELIMINATOR IN W-FGD
+Li Qiang　Chen Kaihua 　Zhao Yunsheng＊ and Guan Chongxue＊＊
+(Civ il and Envi ronment Engineering Col lege of University o f S cience and Technology of Bei j ing , 100083 Bei j ing ;＊S hanx i Datong No .2 Power Stat ion , 037043 Datong , Shanxi ;＊＊ Tianj in SDIC Jinneng Electric Power Company Limi ted , 300171 Tianj in)
+KEYWORDS：W-FGD , chevro n mist eliminator ,CFD , separatio n ef ficiency , press drop
+
+
+
+ASAP2010 表征活性炭样品实验条件研究（64-68）
+房俊卓1)　李媛媛2)　徐崇福3)
+1)硕士、高级工程师;2)硕士、讲师, 宁夏大学能源化工重点实验室, 750021 银川;3)博士、教授, 江苏工业学院, 213000 江苏常州
+关键词：活性炭, 脱附, 比表面积, 孔体积, 位能
+STUDY ON ACTIVED CARBON WITH ASAP2010 IN EXPERIMENTAL CONDITIONS
+Fang Junzhuo　Li Yuanyuan and Xu Chongfu＊
+(Energy and Engineering Laboratory o f Ning x ia Universi ty , 750021 Y inchuan , N ing xia ;＊J iangsu Technological Col lege , 213000 Changzhou , J iangsu)
+KEYWORDS：actived carbon , deso rpt ion , surface area , po re volume , po sitio n energy
+
+
+
+二乙烯基苯改性煤沥青的热解行为研究（69-71+78）
+林起浪1) 　谢琼琳2)
+1)副教授、博士后;2)高级工程师, 福州大学材料科学与工程学院, 350108 福州
+关键词：DVB , 煤沥青, 热解, 炭微球
+PYROLYSIS BEHAVIOR OF COAL TAR PITCH MODIFIED WITH DIVINYLBENZEN
+Lin Qilang and Xie Qionglin
+(Col lege of Material s Science and Engineering , F uzhou Universi ty , 350108 Fuzhou)
+KEYWORDS：DV B , coal tar pitch , pyrolysis , carbo n micro-sphere
+
+
+
+大丝束聚丙烯腈基预氧丝炭化研究（72-78）
+杨海瑞1) 　刘晓荣2) 　杨俊和3) 　潘嘉琪4) 　杨　锦5) 　徐柳花5)
+1)硕士生;2)副教授、硕士生导师;3)教授、博士生导师;4)讲师;5)本科生, 上海应用技术学院, 200233 上海
+关键词：大丝束聚丙烯腈基预氧丝, 炭化, 微观结构, 性能
+STUDY ON CARBONIZATION TECHNOLOGY OF LARGETOW POLYACRYLONITRIL-BASED PREOXIDIZED FIBER
+Yang Hairui 　Liu Xiaorong 　Yang Junhe 　Pan Jiaqi 　Yang Jin and Xu Liuhua
+(Department o f Material Engineering , Shanghai Inst itute o f Technology , 200233 Shanghai)
+KEY WORDS：large-tow polyacrylo nit ril-based (PAN-based)preoxidi zed fiber, carbonization,microscopic st ructure , prope rties
+
+
+
+
+深部煤层地下气化及其应用前景（79-81+87）
+刘淑琴1) 　陈　思2) 　李金刚2) 　余　力3)
+1)博士、副教授;2)硕士生;3)教授, 中国矿业大学化学与环境工程学院, 100083 　北京
+关键词：深部煤层, 地下气化, 碳储存
+DEEP COAL SEAM UNDERGROUND GASIFICATION AND APPLICATION OUTLOOK
+Liu Shuqin 　Chen Si 　Li Jin'gang and Yu Li
+(School o f Chemi stry and Env ironmental Engineering ,ChinaUniv ersity of Mining and Technology ,Beijing Campus , 100083 Beijing)
+KEYWORDS：deep coal seam , underg round coal gasification , carbon storage
+
+
+
+煤和油页岩燃烧脱硫技术研究（82-87）
+于海龙1)　白　静2)　聂立辉3)
+1)博士、副教授;2)讲师, 中原工学院能源与环境学院, 450007 　郑州;3)工程师, 中国大唐集团公司长山热电厂, 131109 　吉林松源
+关键词：流化床, 煤, 油页岩, 脱硫, 数学模型
+STUDY ON DESULPHURIZATION TECHNOLOGY OF COAL AND OIL SHALE DURING FLURIDIZED BED COMBUSTION
+Yu Hailong　Bai Jing and Nie Lihui＊
+(School of Energy and Env ironment , Zhongyuan University of Technology , 450007 Zhengzhou ;＊Changshan Thermo-Power Plant Datang Group Co .China , 131109 Songyuan , Jilin)
+KEYWORDS：fluidized bed , coal , oil shale , desulphurizat ion , mathemat ics model
+
+
+
+国内二甲醚研究述评（88-95）
+李　伟1) 　张希良2)
+　1)博士后, 清华大学能源经济研究所, 100084 　北京;重庆工商大学长江上游研究中心, 400067 　重庆;2)教授、博士生导师, 清华大学能源经济研究所, 100084 　北京
+关键词：二甲醚, 天然气, 煤炭
+REVIEWOF DIMETHYL ETHER RESEARCHES IN CHINA
+Li Wei1 , 2) and Zhang Xiliang1)
+(1 .Insti tute o f Nuclear and N ew Energ y Technolog y ,Center o f E nergy-Env ironment-Economy Study , TsinghuaUniversity , 100084 Bei j ing ;2 .Research Center of the Economy of the Upper Reaches of Yang tze River ,Chongqing Technical and B usiness University , 400067 Chongqing)
+KEYWORDS：DME , gas , coal
+煤结构演化煤化度指标*（1-4）
+张玉贵1)　曹升玲2)　谢克昌3)
+1) 教授,河南理工大学安全科学与工程学院; 2) 研究生,河南理工大学材料科学与工程学院, 454003　河南焦作; 3) 中国工程院院士、教授、博士生导师,太原理工大学, 030024　太原
+关键词：煤化度,煤化程度,煤演化
+COAL SITALLIZATION DEGREE INDEX CHANGED IN COAL STRUCTURE EVOLUTION
+Zhang Yugui　Cao Shengl ing and Xie Kechang*
+( He’ nan Polytechnic University , 454003 J iaozuo, He’nan; * Taiyuan University of Technology , 030024 Taiyuan )
+KEY WORDS：co al si talliza tion deg ree, coalificatio n deg ree, coal ev olutio n
+
+
+
+相对湿度对低阶煤低温氧化过程的影响（5-8）
+薛　冰1)　柳　娜1)　李永昕2)　Pradeep K Agarw al3)
+1) 助教; 2) 博士、教授,江苏工业学院化工系, 213164　江苏常州; 3) 教授,美国怀俄明大学化工系, 82071-3295　美国怀俄明
+关键词：低阶煤,低温氧化,相对湿度
+EFFECT OF RELATIVE HUMIDITY ON LOW TEMPERATURE OXIDATION OF LOWRANK COAL
+Xue Bing　Liu Na　Li Yongxin and Pradeep K Agarwal*
+( Department of Chemical Engineering , J iangsu Polytechnic University , 213164 Changzhou J iangsu; * Department of Chemical Engineering , University of Wyoming , 82071-3295Wyoming ,US A )
+KEY WORDS：low rank coal, low temperature oxidatio n, rela tiv e humidity
+
+
+
+神府煤石油醚萃取物组成及萃取过程分析（9-12）
+欧阳晓东1)　丁明洁1)　宗志敏2)　魏贤勇3)
+1) 博士生、副教授; 2) 教授; 3) 教授、博士生导师,中国矿业大学, 221008　江苏徐州
+关键词：煤,溶剂萃取,石油醚, GC /MS
+ANALYSIS OF COMPONENTS AND PROCESS OF PETROLEUM ETHER EXTRACTION FROM SHENFU COAL
+Ouyang Xiaodong　Ding Mingjie　Zong Zhimin and Wei Xianyong
+( School of Chemical Engineering and Technology , China University of Mining and Technology , 221008 Xuzhou , Jiangsu)
+KEY WORDS：coal, solvent ex tractio n, pet ro leum ether, GC /MS
+
+
+
+贵州省煤中有害微量元素的地球化学特性（13-17）
+宋党育1)　张军营2)　郑楚光3)
+1) 副教授,河南理工大学, 454000　河南焦作; 2) 教授、博士生导师,华中科技大学, 430074　武汉
+关键词：煤,地球化学,微量元素,赋存特征
+GEOCHEMISTRY OF HAZARDOUS TRACE ELEMENTS IN COALS FROM GUIZHOU PROVINCE
+Song Dangyu　Zhang Junying* and Zheng Chuguang*
+( Inst itute of Resources and Environment , He’ nan Polytechnic University , 454000 Jiaozuo , He 'nan; * State Key Laboratory of Coal Combustion, Huazhong University of Science and Technology , 430074 Wuhan)
+KEY WORDS：coal, geochemistry, trace elements, occurrence cha racteristic
+
+
+
+
+煤表面对氧分子物理吸附的微观机理（18-21+28）
+王继仁1)　邓存宝2)　邓汉忠3)　陆卫东4)
+1) 教授、博士生导师; 2) 副教授; 3) 硕士生; 4) 博士生,辽宁工程技术大学安全科学与工程学院, 123000　辽宁阜新
+关键词：非晶体物质,煤表面分子,量子化学,吸附机理
+COAL SURFACE PHYSICAL ADSORPTION TO OXYGEN MOLECULESMECHANISM
+Wang Jiren　Deng Cunbao　Deng Hanzhong and Lu Weidong
+(Col lege of Safety Science and Engineering , Liaoning Technical University , 123000 Fuxin ,Liaoning )
+KEY WORDS：non-crystal material , coal surface molecule, quantum chemi stry , adso rption mechani sm
+
+
+高炉煤气在A型分子筛上的吸附热（22-24）
+史秀锋1)　刘　刚2)　庞先勇3)
+　1) 硕士生; 2) 博士生,中国科学院山西煤炭化学研究所, 030001　太原; 3) 教授,太原理工大学化学化工学院, 030024　太原
+关键词：高炉煤气, A型分子筛,量子化学计算,吸附热
+ADSORPTION HEAT OF BLAST FURNACE GAS ON A ZEOLITE
+Shi Xiuf eng　Liu Gang and Pang Xianyong*
+( State Key Laboratory of Coal Conversion, Inst itute of Coal Chemist ry , The Chinese Academy of Sciences , 030001 Taiyuan; * Col lege of Chemist ry and Chemical Engineering , Taiyuan University of Technology , 030024　Taiyuan)
+KEY WORDS：blast furnace g as, Azeo li te, quantum chemist ry calculatio n, adso rption heat
+
+
+
+神府煤制备磺化煤的研究及应用（25-28）
+廖晓兰1)　汪晓芹2)　周安宁3)　姚天国4)
+1 ) 硕士、讲师,天津城市建设学院材料科学与工程系, 300384　天津; 2) 博士、副教授; 3) 博士生导师、教授, 西安科技大学材料工程系,710054　西安; 4) 副教授, 天津城市建设学院能源与机械工程系, 300384　天津
+关键词：神府煤,磺化反应,溶胀
+STUDY AND APPLIED ON PREPARING SULFONATED COAL WITH SHENFU COAL
+Liao Xiaolan　Wang Xiaoqin* and Zhou Anning* and Yao Tianguo* *
+(Department of Material s Science and Engineering , Tianj in Inst itute of Urban Construction, 300384 Tianjin; * Department of Materials Engineering , Xi'an University of Science and Technology , 710054 Xi'an;* * Department of Energy Technology and Mechnical Engineering , Tianj in Insi titue of Urban Construction , 300384 Tianjin )
+KEY WORDS：Shenfu coal, sulfo natio n reaction, sw elling
+
+
+
+O2 在— CH2— CH2OH基团上的化学吸附（29-33）
+邓汉忠1)　王继仁2)　邓存宝3)
+1) 硕士生; 2) 博士生导师、教授; 3) 副教授, 辽宁工程技术大学安全科学与工程学院, 123000　辽宁阜新
+关键词：煤炭自燃,化学吸附,密度泛函,煤的表面
+COAL SURFACE— CH2— CH2OH GROUP CHEMICAL ADSORPTION TO OXYGEN
+Deng Hanzhong　Wang Jiren and Deng Cunbao
+(Col lege of Safety Science and Engineering , Liaoning Technical University , 123000 Fuxin ,Liaoning )
+KEY WORDS：coal spo ntaneous combustion, chemical adso rption, densi ty functional theo ry, coal surface
+
+
+
+高温下兖州煤焦/CO2 气化反应性（34-37）
+顾　菁1)　吴诗勇1)　张　晓2)　吴幼青3)　高晋生4)
+1) 博士生; 2) 硕士生; 3) 副教授; 4) 教授、博士生导师,华东理工大学能源化工系, 200237　上海
+关键词：等温热重分析,煤,高温气化,反应性
+CO2 GASIFICATION REACTIVITY OF YANZHOU COAL CHARS AT ELEVATED TEMPERATURES
+Gu Jing　Wu Shiyong　Zhang Xiao　Wu Youqing and Gao Jinsheng
+( Department of Chemical Engineering for Energy Resources, East China University of Science and Technology , 200237 Shanghai )
+KEY WORDS：iso thermal thermo-g ravimet ric analysis, coal, high tempera ture g asificatio n, Reactivity
+
+
+
+碱金属对褐煤气化反应性的影响（38-42）
+卫小芳1)　黄戒介2)　房倚天3)　王　洋2)
+1) 博士生; 2) 研究员; 3) 研究员、博士生导师, 中国科学院山西煤炭化学研究所, 030001　太原
+关键词：碱金属,水蒸气,气化,动力学
+EFFECT OF ALKALI METAL ON THE LIGNITE GASIFICATION REACTIVITY
+Wei Xiaof ang　Huang Jiejie　Fang Yitian and Wang Yang
+( Institute of Coal Chemistry , Chinese Academy of Science, 030001 Taiyuan)
+KEY WORDS：alka li metal, steam, g asi ficatio n, kinetics
+
+
+
+三种直接液化催化剂的活性和选择性对比研究（43-45）
+霍卫东1)　史士东2)
+1) 高级工程师; 2) 研究员,煤炭科学研究总院北京煤化工研究分院, 100013　北京
+关键词　液化,催化剂,活性,选择性
+STUDY ON REACT ACTIVITY AND SELECTIVITY OF THREE DERECT LIQUEFACTION CATALYSIS
+Huo Weidong and Shi Shidong
+(Beijing Research Inst itute of Coal Chemistry ,China Coal Research Inst itute, 100013 Beijing )
+KEY WORDS：liquefaction, catalyst , activ ity, selectivi ty
+
+
+
+基于非混合燃烧的焦炉煤气自热重整制氢系统（46-50+58）
+周树理1)　阳绍军2)
+1) 硕士生; 2) 博士生,中国科学院工程热物理研究所, 100080　北京
+关键词：焦炉煤气,制氢,非混合燃烧, CO2 捕集
+SYSTEM OF COKE OVEN GAS AUTOTHERMAL REFORMING FOR HYDROGEN PRODUCTION BASED ON UNMIXED COMBUSTION
+Zhou Shuli and Yang Shaojun
+( Inst itute of Engineering Thermophysics, Chinese Academy of Sciences, 100080 Bei jing )
+KEY WORDS：coke ov en gas( COG) , hydrog en production, unmix ed combustio n, capture of carbo n dioxide
+
+
+
+
+活性半焦制备工艺条件对其脱硫性能的影响（51-54）
+张香兰1)　刘　洋2)　李　科3)　寇志胜3)　丁曙光4)
+1) 副教授; 2) 硕士; 3) 硕士生,中国矿业大学化学与环境工程学院化工系, 100083　北京; 4) 副教授, 中国矿业大学化工学院, 221008　江苏徐州
+关键词：活性半焦,脱硫,碘值,制备
+EFFECT OF ACTIVATED CHAR PREPARATION CONDITIONS ON ITS DESULFURIZATION PROPERTY
+Zhang Xianglan　Liu Yang　Li Ke　Kou Zhisheng and Ding Shuguang*
+( School of Chemical and Environmental Engineering , China Universi ty of Mining and Technology , 100083 Beij ing; * School of Chemical Engineering , China University of Mining and Technology , 221008 X uzhou , J iangsu )
+KEY WORDS：activ ated char, desulfuri zation, iodine value, preparation
+
+
+
+
+二乙烯基苯改性煤沥青的流变行为（55-58）
+覃　韬1)　林起浪2)
+1) 硕士生; 2) 副教授、博士后,福州大学材料科学与工程学院, 350108　福州
+关键词：DVB,煤沥青,改性,流变行为
+RHEOGICAL BEHAVIOR OF COAL TAR PITCH MODIFIED WITH DIVINYLBENZEN
+Qin Tao and Lin Qilang
+(College of Material s Science and Engineering , Fuzhou University , 350108 Fuzhou )
+KEY WORDS：divinylbenzen, co al-ta r pi tch , modification, rheogical behavior
+
+
+
+含碳耐火材料用中间相沥青的制备（59-62）
+李士强1)　赵　雷2)　李亚伟2)　贺中央3)　雷中兴4)　李远兵2)
+1) 硕士生; 2) 教授,武汉科技大学耐火材料与高温陶瓷国家重点实验室培育基地, 430081　武汉; 3) 高级工程师,濮阳耐高温材料(集团)股份有限公司, 457100　河南濮阳; 4) 高级工程师,武汉钢铁集团耐火材料有限责任公司, 430082　武汉
+关键词：中温煤沥青,中间相沥青,热聚合,溶剂抽提,炭化结构
+PREPARATION OF MESOPHASE PITCH FOR CARBON COMPOSITE REFRACTORY
+Li Shiqiang　Zhao Lei　Li Yawei　Lei Zhongxing* * and Li Yuanbing
+( Hubei Ref ractory and High -temperature Ceramics Key Laboratory , Wuhan Universi ty of Science and Technology , 430081Wuhan; * * Wugang Ref ractory Co. Ltd . , 430082Wuhan )
+KEY WORDS：medium pi tch, mesophase, thermal polymeri zatio n, solv ent ex t ractio n, carbo ni zed st ructure
+
+
+
+非沥青重质煤焦油临氢轻质化研究（63-66+75）
+许　杰1)　方向晨2)　陈　松3)
+　1) 硕士生、高级工程师; 2) 教授级高工; 3) 高级工程师,抚顺石油化工研究院, 113001　辽宁抚顺关键词　重焦油,加氢,轻质化,柴油
+STUDY ON LIGHTING THE NON-BITUMEN HEAVY CUTS OF COAL TAR IN HYDROTREATING
+Xu Jie　Fang Xiangchen and Chen Song
+(Fushun Research Institute of Petroleum and Petrochemicals of SINOPEC, 113001 Fushun , Liaoning )
+KEY WORDS：heav y cut ta r, hy dro t reating , lighting , diesel
+
+
+
+
+合成煤焦油在煤粉锅炉点火中的应用试验研究（67-70）
+潘效军1)　褚德海2)　辛洪祥3)　吴　强4)　王　顺5)　智同生5)
+1 ) 教授、硕士; 2) 高级工程师,通辽发电总厂, 028011　内蒙古通辽; 3) 副教授; 4) 高级经济师; 5) 硕士生、讲师,南京工程学院动力系,210013　南京
+关键词：合成煤焦油,锅炉点火,节油
+EXPERIMENTAL RESEARCH ON APPLICATION OF LIGNITE FIRED BOILER IGNITION WITH COAL TAR
+Pan Xiaojun　Chu Dehai* 　Xin Hongxiang　Wu Qiang　Wang Shun and Zhi Tongsheng
+( Power Department of N anjing Institute of Technology , 210013 Nanjing; * Tongliao Power Plant , 028011 Tongl iao, Inner Mongol ia)
+KEY WORDS：coal tar, boi ler ig nition, economizing oi l
+
+
+
+氧存在下活性炭负载K-Cu催化碳还原NO研究（71-75）
+张俊丰1)　陈　霞2)　黄　妍1)　杨　超3)
+1) 博士、副教授; 2) 硕士生; 3) 硕士,湘潭大学化工学院, 411105　湖南湘潭
+关键词：DeNOx ,活性炭,一氧化氮,氮氧化物,催化还原
+CONVERSION OF NO ON A K-Cu IMPREGNATED-ACTIVE CARBON CATALYST IN THE PRESENCE OF OXYGEN
+Zhang Junfeng　Chen Xia　Huang Yan and Yang Chao
+(College of Chemical Engineering , Xiangtan University , 411105 Xiangtan, Hu’nan)
+KEY WORDS：DeN Ox , actived carbo n, nit rog en mo noxide, ni t ro gen ox ide, cataly tic reduction
+
+
+
+硝酸预处理对正丙醇脱除煤中有机硫的影响（76-79）
+徐龙君1)　崔才喜2)
+1) 教授、博士生导师; 2) 硕士生,重庆大学西南资源开发及环境危害控制工程教育部重点实验室, 400044　重庆
+关键词：高硫煤,脱硫,正丙醇,硝酸,有机硫
+EFFECT OF NITRIC ACID PRETREATION ON ORGANIC SULFUR REMOVAL OF COAL BY 1-PHRPYL ALCOHOL Xu Longjun and Cui Caixi
+(Key Laboratory for the Exploitation of Southwest Resources and Env ironmental Disaster Control Engineering , Ministry of Educat ion , Chongqing Universi ty , 400030 Chongqing )
+KEY WORDS：hig h sulfur coal, desulfuri zatio n, 1-phrpyl alcohol , nit ric acid, organic sulfur
+
+
+
+
+煤基甲醇和柴油生命周期温室气体排放评价（80-85）
+魏迎春1)　邓蜀平2)　蒋云峰3)
+1) 硕士生; 2) 研究员、硕士生导师; 3) 副研究员,中国科学院山西煤炭化学研究所, 030001　太原
+关键词：煤基甲醇,煤基FT柴油,生命周期评价,温室气体,全球变暖潜力
+ANALYSIS OF LIFE CYCLE GREENHOUSE GASES EMISSION OF COAL-BASED METHANOL AND COAL-BASED FT DIESEL
+Wei Yingchun　Deng Shuping and Jiang Yunfeng
+( Insti tute of Coal Chemist ry ,Chinese Academy of Sciences, 030001　Taiyuan )
+KEY WORDS：co al-based methanol , coal-based Fischer-Tro psch diesel, li fe cycle assess ment , g reenho use gases, glo bal wa rming potential
+
+
+
+多方案煤制二甲醚的成本比较（86-92）
+张一惟1)　黄　河2)　李　政3)　倪维斗4)
+1) 硕士生; 2) 博士后; 3) 教授、博士生导师; 4) 中国工程院院士、教授、博士生导师,清华大学热能工程系, 100084　北京
+关键词：煤制二甲醚,技术路线,成本比较
+COST COMPARISON OF DIMETHYL ETHER (DME) VIA MULTIPLE COAL DERIVED PATHWAYS
+Zhang Yiwei　Huang He　Li Zheng and Ni Weidou
+(Department of Thermal Engineering , Tsinghua University , 100084 Beij ing )
+KEY WORDS：coal derived DME, tech nical pathway , cost compa rison
